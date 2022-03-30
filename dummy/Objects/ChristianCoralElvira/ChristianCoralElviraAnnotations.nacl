@@ -1,0 +1,70 @@
+type dummy.ChristianCoralElvira {
+  annotations {
+    boolean AppallingTanSelestina {
+    }
+    dummy.ExtremeHarlequinJackelyn DyingScarletRoch {
+    }
+    dummy.FoolishSapphireReine SpiritualLavenderKatlin2 {
+    }
+    hidden_boolean EagerBeigeCandra3 {
+    }
+    serviceid TinyAmaranthAgnese2 {
+    }
+    string DistinctTurquoiseTatum3 {
+    }
+    hidden_boolean ExactLimeKore3 {
+    }
+    hidden_boolean StraightAmethystAlysia2 {
+    }
+    serviceid ShockedPinkMelisande3 {
+    }
+    hidden_boolean QuietCoralEkaterina2 {
+    }
+    serviceid_number WastefulYellowZia5 {
+    }
+    string GoldenGrayHalette3 {
+    }
+    json LargeBlueCharlot2 {
+    }
+    serviceid LegislativeMaroonLinet2 {
+    }
+    serviceid_number ConvincingSalmonPeggie3 {
+    }
+    hidden_boolean VariousBrownCorry3 {
+    }
+    json RisingScarletRoselle3 {
+    }
+    number AssociatedMaroonLindsey4 {
+    }
+    hidden_boolean ExtensiveGoldGloriana2 {
+    }
+    json LoudApricotAnnadiane6 {
+    }
+    dummy.LongAmaranthAdina AssistantOliveLynnell2 {
+    }
+    number QuickCoralEleonora {
+    }
+    serviceid FlatAmberAllianora2 {
+    }
+    dummy.AcceptedTanShae2 OverallCrimsonEmmalynne7 {
+    }
+    hidden_boolean ExpensiveCrimsonErnaline3 {
+    }
+  }
+  AppallingTanSelestina = false
+  DyingScarletRoch = false
+  TinyAmaranthAgnese2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DistinctTurquoiseTatum3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShockedPinkMelisande3 = "To be Frank, I'd have to change my name."
+  WastefulYellowZia5 = 50
+  GoldenGrayHalette3 = "I'll tell you what often gets over looked... garden fences."
+  LargeBlueCharlot2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LegislativeMaroonLinet2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConvincingSalmonPeggie3 = 855
+  RisingScarletRoselle3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AssociatedMaroonLindsey4 = 702
+  LoudApricotAnnadiane6 = "Im only familiar with 25 letters in the English language. I dont know why."
+  AssistantOliveLynnell2 = file("WanderingTomatoSuzette2.txt")
+  QuickCoralEleonora = 732
+  FlatAmberAllianora2 = "Why do birds fly south for the winter? Because it's too far to walk."
+}

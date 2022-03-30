@@ -1,0 +1,75 @@
+type dummy.EagerPlumMillisent {
+  annotations {
+    dummy.AcceptedTanSerena ElegantTurquoiseTeddie4 {
+    }
+    dummy.ExistingCoffeeDeva MutualLimeKimberley {
+    }
+    dummy.DEFAULT IllAzureBobbette {
+    }
+    serviceid_number RegionalCopperDoria {
+    }
+    boolean ParentalRedNicki2 {
+    }
+  }
+  hidden_boolean ViolentIvoryJolene3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string FellowJadeJustine2 {
+    _hidden_value = true
+  }
+  number BewilderedAquamarineBernita3 {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie SpontaneousTanShaun2 {
+    FriendlyBlackCarma = 562
+    FrightenedMagentaLavena = 684
+    RepulsiveBeigeBrena = "How come the stadium got hot after the game? Because all of the fans left."
+    UptightBeigeBrittni = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    ExactLimeKordula2 = 608
+    LocalBlueCharmian = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "Why was it called the dark ages? Because of all the knights. "
+    WickedBeigeBryna = "Why was it called the dark ages? Because of all the knights. "
+    AshamedScarletRosamund = 840
+    ChillyAmaranthAilsun = 969
+    CooingAmethystAngelique = 523
+    FatalPurpleMyrtle = 215
+    ThoughtlessBeigeBrinna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EvilAzureBili = 48
+    RelievedBlueCathie = false
+    CleverTealSibeal = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GrowingCrimsonEnrichetta = 35
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArleen2 {
+    _hidden_value = true
+  }
+  boolean PlainIndigoJewelle2 {
+    _hidden_value = true
+  }
+  serviceid CompatibleSapphireRenelle {
+    _hidden_value = true
+  }
+  serviceid_number LeftCoffeeDeny {
+    _hidden_value = true
+  }
+  hidden_boolean StingyYellowWinnah2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie4 = true
+  MutualLimeKimberley = true
+  IllAzureBobbette = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  RegionalCopperDoria = 291
+  ParentalRedNicki2 = true
+  _hidden_value = true
+}

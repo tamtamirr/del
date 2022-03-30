@@ -1,0 +1,93 @@
+type dummy.ExtraCoffeeDiane {
+  annotations {
+    serviceid HeadPinkMeg2 {
+    }
+    hidden_boolean ElectricalLavenderKerrie {
+    }
+    boolean UglyTurquoiseTine {
+    }
+    dummy.MagnificentWhiteVanya HomelessAzureBlinnie {
+    }
+    boolean DirtyIvoryJosefina2 {
+    }
+  }
+  serviceid_number NakedMagentaLeanor {
+    _hidden_value = true
+  }
+  hidden_boolean TypicalEmeraldFrancine2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HurtAzureBlythe2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string HuskyApricotAnnabela2 {
+    _hidden_value = true
+  }
+  json HilariousBlackCarolynn {
+    _hidden_value = true
+  }
+  hidden_boolean SpecifiedSalmonPortia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WittyBlueCeil2 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia {
+    _hidden_value = true
+  }
+  serviceid_number RoughGreenIdelle2 {
+    _hidden_value = true
+  }
+  number PerfectCyanEtty {
+    _hidden_value = true
+  }
+  string MagnificentMagentaLeena {
+    _hidden_value = true
+  }
+  serviceid_number HugeAmaranthAdel2 {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" ImportantTealSophey2 {
+    _hidden_value = true
+  }
+  number SurroundingOrangeMargeaux {
+    _hidden_value = true
+  }
+  json StandardCopperDulce {
+    _hidden_value = true
+  }
+  dummy.ProvincialPeachMarita ComparativePlumMitzi {
+    FineBlackCarlyn = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    OldAmethystAmi = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  boolean AbstractMaroonLin {
+    _hidden_value = true
+  }
+  serviceid_number TallYellowXylia2 {
+    _hidden_value = true
+  }
+  json PhilosophicalRedNoelani {
+    _hidden_value = true
+  }
+  boolean BrilliantGreenIlsa {
+    _hidden_value = true
+  }
+  HeadPinkMeg2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UglyTurquoiseTine = false
+  HomelessAzureBlinnie = false
+  DirtyIvoryJosefina2 = false
+  _hidden_value = true
+}

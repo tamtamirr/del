@@ -1,0 +1,73 @@
+type dummy.GiantAmaranthAbra {
+  annotations {
+    hidden_boolean PerfectCrimsonEtti2 {
+    }
+    serviceid_number UnexpectedMagentaLaureen5 {
+    }
+    string MarxistSapphireRaine4 {
+    }
+    json IntermediateRoseOfilia3 {
+    }
+    number ContinuingGreenIsa3 {
+    }
+  }
+  hidden_boolean LeftCoffeeDennie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTiffie {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne5 {
+    _hidden_value = true
+  }
+  json HissingApricotAnn3 {
+    _hidden_value = true
+  }
+  number ConsistentHarlequinJanis3 {
+    _hidden_value = true
+  }
+  json ScaryBeigeBria3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlatGrayHanni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ObjectiveOrangeManda2 {
+    _hidden_value = true
+  }
+  serviceid_number ParliamentaryFuchsiaGertrudis2 {
+    _hidden_value = true
+  }
+  serviceid AshamedAquamarineBernardina2 {
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarina {
+    _hidden_value = true
+  }
+  number SquareJadeKai5 {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJulina4 {
+    _hidden_value = true
+  }
+  hidden_boolean HushedApricotAnnadiane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula MightyTanShandeigh {
+    _hidden_value = true
+  }
+  serviceid_number WidespreadHarlequinJacquette2 {
+    _hidden_value = true
+  }
+  UnexpectedMagentaLaureen5 = 356
+  MarxistSapphireRaine4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IntermediateRoseOfilia3 = "I'll tell you what often gets over looked... garden fences."
+  ContinuingGreenIsa3 = 550
+  _hidden_value = true
+}

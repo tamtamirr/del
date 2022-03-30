@@ -1,0 +1,119 @@
+type dummy.RealBlushClarinda2 {
+  annotations {
+    number SunnyTanSharity {
+    }
+    hidden_boolean FormidableSilverSabine3 {
+    }
+    hidden_boolean CurlyAmberAlbertine3 {
+    }
+    string CoolGreenIolanthe {
+    }
+  }
+  serviceid_number ValuableGoldGwyn2 {
+    _hidden_value = true
+  }
+  boolean MildOliveMadalyn4 {
+    _hidden_value = true
+  }
+  number PersonalBronzeCordelia2 {
+    _hidden_value = true
+  }
+  boolean NewBlueChanda {
+    _hidden_value = true
+  }
+  serviceid_number KeyCopperDorothea {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FamiliarCrimsonEstrellita2 {
+    _hidden_value = true
+  }
+  hidden_boolean CheerfulBeigeCally2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SheerMagentaLaurette2 {
+    _hidden_value = true
+  }
+  serviceid DynamicPeachMarlyn2 {
+    _hidden_value = true
+  }
+  serviceid_number BumpyAmaranthAiley {
+    _hidden_value = true
+  }
+  json ContinuedLimeLane {
+    _hidden_value = true
+  }
+  serviceid_number OlympicRedNessa2 {
+    _hidden_value = true
+  }
+  hidden_boolean PaleGrayHarriett4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ScornfulBeigeBrianna2 {
+    _hidden_value = true
+  }
+  hidden_boolean DustyAmberAlexina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NuclearCoffeeDonna2 {
+    _hidden_value = true
+  }
+  boolean StuckRoseOra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WetGrayHedwig {
+    _hidden_value = true
+  }
+  serviceid ObedientBlackCassie2 {
+    _hidden_value = true
+  }
+  number ControversialLimeKrystyna {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCoralEilis {
+    _hidden_value = true
+  }
+  serviceid_number DetailedCrimsonEmlynne3 {
+    _hidden_value = true
+  }
+  serviceid_number SquareJadeKai3 {
+    _hidden_value = true
+  }
+  string CulturalCoralElianore {
+    _hidden_value = true
+  }
+  serviceid_number LowAmberAllyn {
+    _hidden_value = true
+  }
+  json DetailedCrimsonEmily {
+    _hidden_value = true
+  }
+  dummy.ManyAmethystAngel EthnicLavenderKaycee {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 976
+    StaticSapphireRebeka = 617
+    CircularRoseOrly = "Did you know that protons have mass? I didn't even know they were catholic."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "What do you call two barracuda fish?  A Pairacuda!"
+    BreezyAmaranthAigneis = "I'll tell you what often gets over looked... garden fences."
+    MiserableSalmonRachael = false
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 806
+    PrivateBronzeCoreen = 362
+    ShockedPinkMelisandra = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ObedientBlackCassondra = 869
+    RapidAmethystAmy2 = 988
+    _hidden_value = true
+  }
+  serviceid_number GleamingTurquoiseTerra2 {
+    _hidden_value = true
+  }
+  SunnyTanSharity = 520
+  CoolGreenIolanthe = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

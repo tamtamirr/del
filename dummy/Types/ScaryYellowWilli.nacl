@@ -1,0 +1,39 @@
+type dummy.ScaryYellowWilli {
+  annotations {
+    hidden_boolean ExuberantBlackCarla {
+    }
+    dummy.TameTomatoSusannah StatisticalMagentaLanni2 {
+    }
+    hidden_boolean ExtensiveGoldGloriana {
+    }
+    number YellowYellowZorah {
+    }
+    string FondSalmonPippa {
+    }
+  }
+  serviceid_number ColonialPeachMaudie {
+    _hidden_value = true
+  }
+  serviceid SelectiveRedNorry {
+    _hidden_value = true
+  }
+  boolean ShyTomatoSue2 {
+    _hidden_value = true
+  }
+  serviceid_number SeriousBrownDanella2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ModestLavenderKelsey3 {
+    _hidden_value = true
+  }
+  string QualifiedPinkMelli {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDinnie2 {
+    _hidden_value = true
+  }
+  StatisticalMagentaLanni2 = false
+  YellowYellowZorah = 849
+  FondSalmonPippa = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

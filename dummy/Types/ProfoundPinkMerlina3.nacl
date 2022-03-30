@@ -1,0 +1,52 @@
+type dummy.ProfoundPinkMerlina3 {
+  annotations {
+    string RealTomatoStesha2 {
+    }
+    string IdealEmeraldFredi3 {
+    }
+    string PerfectBlackCatarina {
+    }
+    serviceid DirtyIvoryJosepha2 {
+    }
+    json JitteryVioletValerye {
+    }
+    number ExclusiveMagentaLatisha {
+    }
+  }
+  boolean FormalCoralElka {
+    _hidden_value = true
+  }
+  "List<string>" InsufficientPurpleNeely {
+    _hidden_value = true
+  }
+  hidden_boolean UptightBeigeBrittni2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LightCopperDulcinea {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanka {
+    _hidden_value = true
+  }
+  serviceid HonestIndigoJerrine2 {
+    _hidden_value = true
+  }
+  string FrequentLavenderKatie2 {
+    _hidden_value = true
+  }
+  number DearGoldGloria {
+    _hidden_value = true
+  }
+  string IrishCrimsonErmina {
+    _hidden_value = true
+  }
+  RealTomatoStesha2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  IdealEmeraldFredi3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PerfectBlackCatarina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DirtyIvoryJosepha2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  JitteryVioletValerye = "Why did the kid cross the playground? To get to the other slide."
+  ExclusiveMagentaLatisha = 649
+  _hidden_value = true
+}

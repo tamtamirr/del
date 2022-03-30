@@ -1,0 +1,39 @@
+type dummy.ExternalEmeraldFlorina {
+  annotations {
+    json PoisedTurquoiseThomasa {
+    }
+    hidden_boolean DrabTurquoiseTate {
+    }
+    serviceid_number FellowJadeJustinn2 {
+    }
+    number PastCoffeeDiann2 {
+    }
+    serviceid_number BigBlushCheslie {
+    }
+    serviceid_number HeavyAmethystAndromache {
+    }
+  }
+  serviceid_number SupposedCyanFarrah2 {
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIvoryJolee {
+    _hidden_value = true
+  }
+  serviceid_number PoisedTurquoiseThomasa2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SupremeGreenIsabelle {
+    _hidden_value = true
+  }
+  hidden_boolean PublicBlushChrysler2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PoisedTurquoiseThomasa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FellowJadeJustinn2 = 466
+  PastCoffeeDiann2 = 647
+  BigBlushCheslie = 947
+  HeavyAmethystAndromache = 225
+  _hidden_value = true
+}

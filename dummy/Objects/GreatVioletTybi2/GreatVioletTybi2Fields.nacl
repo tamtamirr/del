@@ -1,0 +1,24 @@
+type dummy.GreatVioletTybi2 {
+  boolean WelcomeIvoryJosi2 {
+  }
+  dummy.ExistingCoffeeDeva WelshGrayHattie6 {
+    PetiteAmaranthAdrianna = "Why was it called the dark ages? Because of all the knights. "
+    ExtraordinaryIndigoJessy = "Slept like a log last night  woke up in the fireplace."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UpperCyanFaunie = "Did you know that protons have mass? I didn't even know they were catholic."
+    LegalBrownDahlia = 239
+    FeministPlumMina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RelaxedPlumMinni = 614
+    FilthyTurquoiseTera2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RareEmeraldFlorentia = 914
+    EducationalCrimsonEryn = 577
+  }
+  hidden_boolean ReducedPinkMeta {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  number RealBlushClarissa {
+  }
+}

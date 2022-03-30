@@ -1,0 +1,64 @@
+type dummy.InformalLavenderKathi3 {
+  annotations {
+    dummy.EldestTanSharlene ObligedOrangeMarcelline5 {
+    }
+    serviceid_number PeacefulOrangeMargret3 {
+    }
+    serviceid_number StrategicIndigoJeannine2 {
+    }
+    string ItalianGoldGray5 {
+    }
+    serviceid_number TameTomatoSusannah7 {
+    }
+    hidden_boolean WhisperingApricotArdelia3 {
+    }
+    string NecessaryBronzeCookie2 {
+    }
+    number DullTurquoiseTawsha3 {
+    }
+    serviceid_number PaleGrayHarrietta4 {
+    }
+    json WanderingTomatoSuzann3 {
+    }
+    boolean DramaticGoldHaily4 {
+    }
+    serviceid CommercialCopperDoretta {
+    }
+    number FatIvoryJoellen3 {
+    }
+    boolean ResponsibleCoffeeDevi4 {
+    }
+    boolean DeliberateRedNoelle4 {
+    }
+    hidden_boolean SocialBlueCharmion5 {
+    }
+    dummy.RussianCyanFelicity ExcitedOrangeMarion6 {
+    }
+    json LightCopperDulciana3 {
+    }
+    boolean EncouragingLimeLacy2 {
+    }
+    number BeautifulCoffeeDixie2 {
+    }
+    serviceid FavouriteHarlequinJacquelyn {
+    }
+  }
+  PeacefulOrangeMargret3 = 436
+  StrategicIndigoJeannine2 = 490
+  ItalianGoldGray5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TameTomatoSusannah7 = 294
+  NecessaryBronzeCookie2 = "Slept like a log last night  woke up in the fireplace."
+  DullTurquoiseTawsha3 = 761
+  PaleGrayHarrietta4 = 616
+  WanderingTomatoSuzann3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  DramaticGoldHaily4 = false
+  CommercialCopperDoretta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FatIvoryJoellen3 = 570
+  ResponsibleCoffeeDevi4 = false
+  DeliberateRedNoelle4 = true
+  ExcitedOrangeMarion6 = file("SteadyAquamarineBatsheva4.txt")
+  LightCopperDulciana3 = "Slept like a log last night  woke up in the fireplace."
+  EncouragingLimeLacy2 = true
+  BeautifulCoffeeDixie2 = 552
+  FavouriteHarlequinJacquelyn = "Why do birds fly south for the winter? Because it's too far to walk."
+}

@@ -1,0 +1,60 @@
+type dummy.LtdCoralElna5 {
+  annotations {
+    serviceid WrittenGreenIvonne4 {
+    }
+    string StupidTomatoSunny2 {
+    }
+    dummy.IllAzureBobbee PowerfulCopperDruci3 {
+    }
+    dummy.EventualTanSharona2 MentalCrimsonEsmaria3 {
+    }
+    string SeparateCopperDorotea3 {
+    }
+    hidden_boolean AutonomousScarletRoobbie6 {
+    }
+    serviceid_number CentralBronzeConnie3 {
+    }
+    json UniformScarletRosalynd {
+    }
+    json WetAquamarineBelita2 {
+    }
+    json TropicalOliveLydia4 {
+    }
+    boolean GlamorousTurquoiseTeresina3 {
+    }
+    boolean PleasantIvoryJoscelin3 {
+    }
+    serviceid CanadianPlumMinetta3 {
+    }
+    string AcuteLavenderKeri6 {
+    }
+    number DirectChocolateDeane6 {
+    }
+    number SupremeGreenIsabel5 {
+    }
+    hidden_boolean MinimalPlumMorgen3 {
+    }
+    dummy.FastAmethystAmargo SignificantBrownDanita2 {
+    }
+    dummy.RoastedWhiteWenonah SeparateCopperDoroteya2 {
+    }
+    json TopChocolateDareen5 {
+    }
+  }
+  WrittenGreenIvonne4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StupidTomatoSunny2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PowerfulCopperDruci3 = true
+  SeparateCopperDorotea3 = "What do you call two barracuda fish?  A Pairacuda!"
+  CentralBronzeConnie3 = 262
+  UniformScarletRosalynd = "A steak pun is a rare medium well done."
+  WetAquamarineBelita2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TropicalOliveLydia4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GlamorousTurquoiseTeresina3 = true
+  PleasantIvoryJoscelin3 = true
+  CanadianPlumMinetta3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  AcuteLavenderKeri6 = "Why did the kid cross the playground? To get to the other slide."
+  DirectChocolateDeane6 = 619
+  SupremeGreenIsabel5 = 730
+  SeparateCopperDoroteya2 = file("DullTurquoiseTed4.txt")
+  TopChocolateDareen5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

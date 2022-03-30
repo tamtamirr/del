@@ -1,0 +1,147 @@
+type dummy.OutsideGrayHelenka3 {
+  annotations {
+    number CorporateEmeraldGarnet6 {
+    }
+    hidden_boolean NativeJadeKatalin3 {
+    }
+    serviceid OldAmethystAmi3 {
+    }
+    json LoudLavenderKiele {
+    }
+    json FamousCoralElfrieda6 {
+    }
+    string NeighbouringPurpleNana3 {
+    }
+  }
+  string ShakyAquaAvrit2 {
+    _hidden_value = true
+  }
+  json WideAmethystAlyson {
+    _hidden_value = true
+  }
+  json SubstantialCoralElsinore {
+    _hidden_value = true
+  }
+  number RoundAmberAlmeria {
+    _hidden_value = true
+  }
+  number SurprisedEmeraldFreddie {
+    _hidden_value = true
+  }
+  number GracefulTurquoiseTerrie3 {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne5 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LonelyOliveLynda2 {
+    _hidden_value = true
+  }
+  serviceid NecessaryBronzeCookie {
+    _hidden_value = true
+  }
+  dummy.AlrightGoldGoldina BigBlushChiarra2 {
+    RivalPurpleNara = 518
+    SingleBronzeCoral = 284
+    ProfoundPinkMerlina = 928
+    RelativeGoldGui = "Dad Im hungry  Hi hungry Im dad"
+    AngryFuchsiaGilli = "Slept like a log last night  woke up in the fireplace."
+    QuickestWhiteVyky = "How come the stadium got hot after the game? Because all of the fans left."
+    AgreedTanSelia = "Dad Im hungry  Hi hungry Im dad"
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  json SpiritualLavenderKatrine3 {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedAzureBettye4 {
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCallida4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AtomicScarletRory2 {
+    _hidden_value = true
+  }
+  serviceid_number InterimOrangeMalva2 {
+    _hidden_value = true
+  }
+  serviceid GentleIndigoJocelin2 {
+    _hidden_value = true
+  }
+  string EducationalCrimsonEsma {
+    _hidden_value = true
+  }
+  boolean PositiveCoffeeDominica4 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna4 {
+    _hidden_value = true
+  }
+  boolean BumpyAmaranthAiley2 {
+    _hidden_value = true
+  }
+  string OlympicRedNessi {
+    _hidden_value = true
+  }
+  serviceid_number MiniatureAmaranthAdriana3 {
+    _hidden_value = true
+  }
+  boolean StrongBronzeCollie {
+    _hidden_value = true
+  }
+  hidden_boolean RelaxedPlumMinnie4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DeafIvoryJoy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BusyTealShirlene3 {
+    _hidden_value = true
+  }
+  boolean InterestingChocolateDelphinia {
+    _hidden_value = true
+  }
+  serviceid SuperbMagentaLaurene2 {
+    _hidden_value = true
+  }
+  dummy.FashionableSapphireRenae ShortAmaranthAgace3 {
+    RealBlushClarie = 30
+    WholeBronzeClotilda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnitedCopperEddi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RearPurpleMuire = "Why did the tomato blush? Because it saw the salad dressing."
+    GeographicalPeachMarlena = 731
+    EventualTanSharona = true
+    PureGrayHenryetta = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SymbolicPurpleNadia = "To be Frank, I'd have to change my name."
+    RespectiveSalmonPerry = "Why was it called the dark ages? Because of all the knights. "
+    DeepChocolateDelora = "What creature is smarter than a talking parrot? A spelling bee."
+    RattyWhiteWenda = 619
+    RareWhiteWaly = "Why is Peter Pan always flying? Because he Neverlands."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina DevelopingHarlequinJeanie {
+    GrubbyAquaAubry = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    GloriousScarletRose2 = true
+    _hidden_value = true
+  }
+  CorporateEmeraldGarnet6 = 709
+  OldAmethystAmi3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  LoudLavenderKiele = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FamousCoralElfrieda6 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NeighbouringPurpleNana3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

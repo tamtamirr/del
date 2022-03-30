@@ -1,0 +1,39 @@
+type dummy.TartYellowXena2 {
+  string PrimitiveOrangeMargalit5 {
+  }
+  hidden_boolean OrthodoxSapphireRebecka2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ExuberantBlackCarla2 {
+  }
+  string FreshApricotArdys {
+  }
+  boolean CognitiveSalmonQuinn3 {
+  }
+  number GiantAmaranthAbra2 {
+  }
+  hidden_boolean EmpiricalPinkMeaghan4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ExcellentCoralEffie2 {
+  }
+  hidden_boolean LoudLavenderKikelia {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json IncreasingCyanEvvy {
+  }
+  serviceid AnxiousHarlequinJanna3 {
+  }
+  serviceid_number SillyBlueCathlene4 {
+  }
+  number SatisfiedHarlequinJeana5 {
+  }
+  string FamousTealSofia {
+  }
+}

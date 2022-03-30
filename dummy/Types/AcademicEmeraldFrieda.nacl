@@ -1,0 +1,72 @@
+type dummy.AcademicEmeraldFrieda {
+  annotations {
+    json ExpensiveCrimsonErnaline2 {
+    }
+    dummy.LatinLimeKonstanze EthicalScarletRobenia3 {
+    }
+    string DistinctTurquoiseTatiana3 {
+    }
+    serviceid LocalBlueCharmaine {
+    }
+    json ParticularBlushClaudelle2 {
+    }
+    json DirtyIvoryJosefa {
+    }
+    hidden_boolean RadicalGrayHelenelizabeth2 {
+    }
+  }
+  boolean UnknownFuchsiaGilberte2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WellFuchsiaGisela2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number LivingGrayHenrieta {
+    _hidden_value = true
+  }
+  serviceid_number OuterJadeKaron2 {
+    _hidden_value = true
+  }
+  boolean InterimOrangeMalva {
+    _hidden_value = true
+  }
+  "List<boolean>" CognitiveSalmonQuerida3 {
+    _hidden_value = true
+  }
+  boolean WarmCopperDulcy2 {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLucienne {
+    _hidden_value = true
+  }
+  json MarriedCyanFanni2 {
+    _hidden_value = true
+  }
+  number SpatialSalmonPerla {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella3 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelly {
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldia2 {
+    _hidden_value = true
+  }
+  serviceid_number UnitedCopperEddy2 {
+    _hidden_value = true
+  }
+  number ConservativeCoralEllene {
+    _hidden_value = true
+  }
+  ExpensiveCrimsonErnaline2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EthicalScarletRobenia3 = 325
+  DistinctTurquoiseTatiana3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LocalBlueCharmaine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ParticularBlushClaudelle2 = "Why did the tomato blush? Because it saw the salad dressing."
+  DirtyIvoryJosefa = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

@@ -1,0 +1,33 @@
+type dummy.StrictLavenderKatha3 {
+  annotations {
+    serviceid EntitledIvoryJuliane2 {
+    }
+    json DampMoccasinLotta2 {
+    }
+    dummy.DEFAULT BadTurquoiseToby {
+    }
+    dummy.ExtremeHarlequinJackelyn MeaningfulTealSheree {
+    }
+    serviceid OccupationalOliveMaddie {
+    }
+  }
+  "List<serviceid>" ThoroughScarletRona {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FarBlushChristiane {
+    _hidden_value = true
+  }
+  EntitledIvoryJuliane2 = "A steak pun is a rare medium well done."
+  DampMoccasinLotta2 = "Dad Im hungry  Hi hungry Im dad"
+  BadTurquoiseToby = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  MeaningfulTealSheree = true
+  OccupationalOliveMaddie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

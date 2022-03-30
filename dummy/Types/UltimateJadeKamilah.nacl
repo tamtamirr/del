@@ -1,0 +1,88 @@
+type dummy.UltimateJadeKamilah {
+  annotations {
+    json NearFuchsiaGerianna {
+    }
+    dummy.DEFAULT SuperbMagentaLaurene {
+    }
+    hidden_boolean ImaginativeTanSeline3 {
+    }
+    boolean GrowingCrimsonEnrichetta3 {
+    }
+    boolean GoldenGrayHaleigh {
+    }
+    boolean LiberalCyanFarica2 {
+    }
+  }
+  "List<hidden_boolean>" DeliberateRedNoelyn4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CrazyTealSibylla2 {
+    _hidden_value = true
+  }
+  boolean PureGrayHenryetta3 {
+    _hidden_value = true
+  }
+  serviceid_number SpanishGreenIormina {
+    _hidden_value = true
+  }
+  "List<number>" TenderAquamarineBeatriz {
+    _hidden_value = true
+  }
+  dummy.ManyAmethystAngel PassingSalmonPollyanna {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 475
+    StaticSapphireRebeka = 72
+    CircularRoseOrly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "Slept like a log last night  woke up in the fireplace."
+    BreezyAmaranthAigneis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MiserableSalmonRachael = false
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 43
+    PrivateBronzeCoreen = 756
+    ShockedPinkMelisandra = "Im only familiar with 25 letters in the English language. I dont know why."
+    ObedientBlackCassondra = 897
+    RapidAmethystAmy2 = 531
+    _hidden_value = true
+  }
+  json SlimyAquamarineBarbara {
+    _hidden_value = true
+  }
+  boolean OfficialCopperDorita2 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana3 {
+    _hidden_value = true
+  }
+  serviceid_number ImmediateCrimsonEmelita {
+    _hidden_value = true
+  }
+  json FamousCoralElianora3 {
+    _hidden_value = true
+  }
+  serviceid_number PurpleScarletRita2 {
+    _hidden_value = true
+  }
+  serviceid_number TurkishPurpleMoyna2 {
+    _hidden_value = true
+  }
+  number GoldenGrayHaley {
+    _hidden_value = true
+  }
+  serviceid DirectChocolateDeana2 {
+    _hidden_value = true
+  }
+  serviceid_number ModernAmethystAmelie {
+    _hidden_value = true
+  }
+  NearFuchsiaGerianna = "Did you know that protons have mass? I didn't even know they were catholic."
+  SuperbMagentaLaurene = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  GrowingCrimsonEnrichetta3 = false
+  GoldenGrayHaleigh = true
+  LiberalCyanFarica2 = false
+  _hidden_value = true
+}

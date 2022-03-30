@@ -1,0 +1,97 @@
+type dummy.PriorRosePauli4 {
+  annotations {
+    string SlipperyAquamarineBarbaraanne2 {
+    }
+    dummy.DEFAULT DeadBrownDara2 {
+    }
+    hidden_boolean RoyalBrownCristie2 {
+    }
+    string FormalCoralElka3 {
+    }
+    boolean HeadPinkMeg4 {
+    }
+    number PresentBrownCristi {
+    }
+  }
+  hidden_boolean JudicialJadeKarita3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PastCoffeeDianna3 {
+    _hidden_value = true
+  }
+  serviceid_number SpecialBlushClaudine2 {
+    _hidden_value = true
+  }
+  serviceid_number RecentBronzeCornelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDaune3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.RoastedWhiteWenonah ClearBlushCinnamon2 {
+    WhiteBronzeClotilda = "Why didnt the skeleton cross the road? Because he had no guts."
+    MutualLimeKimberli = "Why didnt the skeleton cross the road? Because he had no guts."
+    BreakableTealShir = "Did you know that protons have mass? I didn't even know they were catholic."
+    AgreedTanSelestina = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid ImportantTealSophi3 {
+    _hidden_value = true
+  }
+  number NervousAzureBrande2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalGoldGussie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShanda2 {
+    _hidden_value = true
+  }
+  string AttractiveCyanFerne2 {
+    _hidden_value = true
+  }
+  string RealisticMoccasinLolita {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilbertina2 {
+    _hidden_value = true
+  }
+  boolean GloriousBlackCarmina {
+    _hidden_value = true
+  }
+  serviceid AutonomousScarletRora {
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShandee {
+    _hidden_value = true
+  }
+  number ShinyTurquoiseTiertza2 {
+    _hidden_value = true
+  }
+  dummy.OccupationalOliveMadel YellowGoldGiustina2 {
+    DifferentBlueCharleen = 547
+    AverageCoralElysha2 = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    WearyBeigeBrooke = "Why did the tomato blush? Because it saw the salad dressing."
+    PoisedTurquoiseThomasin = 405
+    _hidden_value = true
+  }
+  boolean MagicOrangeManon3 {
+    _hidden_value = true
+  }
+  SlipperyAquamarineBarbaraanne2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DeadBrownDara2 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  FormalCoralElka3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HeadPinkMeg4 = true
+  PresentBrownCristi = 998
+  _hidden_value = true
+}

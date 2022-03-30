@@ -1,0 +1,43 @@
+type dummy.SweetAquaAshlan {
+  annotations {
+    number WelcomeIvoryJosie {
+    }
+    serviceid HelpfulBlackCaroljean {
+    }
+    serviceid_number ResonantApricotAnsley {
+    }
+    number CheapCopperEdita3 {
+    }
+  }
+  number SocialistHarlequinJacquelynn {
+    _hidden_value = true
+  }
+  string AddedPinkMelinde {
+    _hidden_value = true
+  }
+  serviceid_number NorthernCoralEleanora {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilbertina {
+    _hidden_value = true
+  }
+  number CorporateEmeraldGarnet {
+    _hidden_value = true
+  }
+  number ChubbyAmberAlisa2 {
+    _hidden_value = true
+  }
+  number EligiblePurpleNeile {
+    _hidden_value = true
+  }
+  hidden_boolean AcceptedTanShae {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  WelcomeIvoryJosie = 272
+  HelpfulBlackCaroljean = "How come the stadium got hot after the game? Because all of the fans left."
+  ResonantApricotAnsley = 889
+  CheapCopperEdita3 = 678
+  _hidden_value = true
+}

@@ -1,0 +1,20 @@
+type dummy.ProvincialPeachMarita is number {
+  annotations {
+    dummy.DEFAULT FineBlackCarlyn {
+    }
+    dummy.DEFAULT OldAmethystAmi {
+    }
+    boolean VariedRedNorah {
+    }
+    json ShakyAquaAyn {
+    }
+  }
+  FineBlackCarlyn = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  OldAmethystAmi = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  VariedRedNorah = true
+  ShakyAquaAyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

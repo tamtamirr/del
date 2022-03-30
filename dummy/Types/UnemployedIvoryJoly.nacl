@@ -1,0 +1,29 @@
+type dummy.UnemployedIvoryJoly is boolean {
+  annotations {
+    serviceid TroubledBeigeBritta2 {
+    }
+    serviceid_number SoreBeigeBrigida {
+    }
+    string DullVioletTrish {
+    }
+    serviceid FiscalRedNicolle {
+    }
+    serviceid_number FairCoffeeDinny {
+    }
+    string OkSapphireRhianon {
+    }
+    hidden_boolean RadicalGrayHelenelizabeth {
+    }
+    number EducationalCrimsonEryn2 {
+    }
+    hidden_boolean ImportantTealSophia {
+    }
+  }
+  TroubledBeigeBritta2 = "To be Frank, I'd have to change my name."
+  SoreBeigeBrigida = 797
+  DullVioletTrish = "Whoever invented the knock-knock joke should get a no bell prize."
+  FiscalRedNicolle = "I'll tell you what often gets over looked... garden fences."
+  FairCoffeeDinny = 98
+  OkSapphireRhianon = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EducationalCrimsonEryn2 = 837
+}

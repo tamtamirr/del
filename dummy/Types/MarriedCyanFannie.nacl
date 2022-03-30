@@ -1,0 +1,22 @@
+type dummy.MarriedCyanFannie is string {
+  annotations {
+    string WonderfulYellowZoe {
+    }
+    serviceid UsualCoralElmira {
+    }
+    boolean ProtestantScarletRobina {
+    }
+    string InquisitiveTealStacia {
+    }
+    boolean RoundIvoryJohnette {
+    }
+    serviceid_number QuickestWhiteVonnie {
+    }
+  }
+  WonderfulYellowZoe = "Dad Im hungry  Hi hungry Im dad"
+  UsualCoralElmira = "What creature is smarter than a talking parrot? A spelling bee."
+  ProtestantScarletRobina = false
+  InquisitiveTealStacia = "Why do birds fly south for the winter? Because it's too far to walk."
+  RoundIvoryJohnette = true
+  QuickestWhiteVonnie = 334
+}

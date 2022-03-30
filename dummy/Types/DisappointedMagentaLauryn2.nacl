@@ -1,0 +1,23 @@
+type dummy.DisappointedMagentaLauryn2 {
+  annotations {
+    json PatientPurpleNani2 {
+    }
+    hidden_boolean BewilderedAquamarineBernie {
+    }
+    dummy.CognitiveSalmonQuinn UniformScarletRosalyn {
+    }
+    boolean MereGreenIdette {
+    }
+    hidden_boolean VerbalPinkMaxi2 {
+    }
+  }
+  hidden_boolean PhilosophicalRedNoell {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PatientPurpleNani2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  UniformScarletRosalyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MereGreenIdette = true
+  _hidden_value = true
+}

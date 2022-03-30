@@ -1,0 +1,7 @@
+type dummy.SharedPinkMelessa3 {
+  hidden_boolean TraditionalChocolateDeidre3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

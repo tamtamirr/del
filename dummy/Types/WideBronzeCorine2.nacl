@@ -1,0 +1,28 @@
+type dummy.WideBronzeCorine2 {
+  annotations {
+    boolean ProperCoralElisa {
+    }
+    dummy.DEFAULT VariableRedNona {
+    }
+    json OperationalOrangeMarian {
+    }
+    string GladGoldGlynda {
+    }
+    json PopularChocolateDaveta2 {
+    }
+    serviceid WeakAquamarineBelicia {
+    }
+  }
+  json SuperiorMaroonLiana {
+    _hidden_value = true
+  }
+  ProperCoralElisa = true
+  VariableRedNona = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  OperationalOrangeMarian = "Why was it called the dark ages? Because of all the knights. "
+  GladGoldGlynda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PopularChocolateDaveta2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WeakAquamarineBelicia = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

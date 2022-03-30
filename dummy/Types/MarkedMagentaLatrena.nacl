@@ -1,0 +1,24 @@
+type dummy.MarkedMagentaLatrena {
+  annotations {
+    number AgreeableBeigeBunnie2 {
+    }
+    dummy.CharmingBeigeCallida DreadfulPinkMerrile4 {
+    }
+    hidden_boolean ChronicOliveMallissa2 {
+    }
+    boolean MissingPinkMelloney {
+    }
+  }
+  number NegativeEmeraldGarnette {
+    _hidden_value = true
+  }
+  hidden_boolean ChiefCopperDorrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  AgreeableBeigeBunnie2 = 916
+  DreadfulPinkMerrile4 = "A steak pun is a rare medium well done."
+  MissingPinkMelloney = true
+  _hidden_value = true
+}

@@ -1,0 +1,74 @@
+type dummy.CausalSapphireRenee2 {
+  "List<json>" TestyYellowYolande2 {
+  }
+  dummy.DiplomaticMagentaLenore ConfidentialScarletRois2 {
+    SouthernCyanEvie = "What do you call two barracuda fish?  A Pairacuda!"
+    TartYellowWynnie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WonderfulYellowZoe2 = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    UnlikelyCrimsonEthelin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    JapaneseCyanFianna = 634
+    UpsetOliveMabel = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  hidden_boolean UnfairMaroonLilia4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number ProspectiveRedNetti2 {
+  }
+  boolean ColourfulScarletRosabelle2 {
+  }
+  dummy.PrivateBronzeCordy ProudHarlequinJan2 {
+    CoolAmaranthAindrea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CoherentScarletRoselin = "Why did the tomato blush? Because it saw the salad dressing."
+    OverallCrimsonEmmalynn = "To be Frank, I'd have to change my name."
+    IncreasedCrimsonEsther = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MightyWhiteVerena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    IrishCrimsonErminia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AutomaticLavenderKevyn = false
+  }
+  hidden_boolean FirmGrayHeddie {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean MushyWhiteVerla4 {
+  }
+  string SteadyAquamarineBathsheba3 {
+  }
+  number GenuineGreenIsobel4 {
+  }
+  json NumerousHarlequinJanean2 {
+  }
+  hidden_boolean VisitingScarletRoana {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean OralLimeKylie6 {
+  }
+  hidden_boolean ClumsyVioletTraci2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MinisterialTanSheela2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json LonelyAzureBobina3 {
+  }
+  dummy.OperationalOrangeMariana3 SatisfiedHarlequinJazmin4 {
+    HollowAmberAllsun = false
+    CuriousLimeKira2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HumanBronzeConstanta4 = "Why is Peter Pan always flying? Because he Neverlands."
+    DullVioletTrina2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  dummy.EducationalCrimsonErtha3 CalmPurpleNancee6 {
+    SwissPlumMikaela2 = 986
+    StraightAmethystAlyson = false
+  }
+}

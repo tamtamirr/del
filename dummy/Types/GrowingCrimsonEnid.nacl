@@ -1,0 +1,80 @@
+type dummy.GrowingCrimsonEnid {
+  annotations {
+    json OppositeHarlequinJaneen {
+    }
+    hidden_boolean WetAmberAlicia3 {
+    }
+    number PinkIndigoJenni {
+    }
+    json ColonialPeachMaude2 {
+    }
+    boolean BrightCoralElvira2 {
+    }
+    boolean SlimyAquaBamby {
+    }
+    serviceid DullMoccasinLori {
+    }
+  }
+  "List<hidden_boolean>" DistinctiveLimeKristel2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CrudePlumMildrid {
+    _hidden_value = true
+  }
+  string AfricanFuchsiaGianina {
+    _hidden_value = true
+  }
+  string NuttyWhiteVikki5 {
+    _hidden_value = true
+  }
+  dummy.LatinLimeKonstanze DelicateOliveMable {
+    ResidentSalmonRae = "How come the stadium got hot after the game? Because all of the fans left."
+    CrazyMoccasinLorrayne = "I'll tell you what often gets over looked... garden fences."
+    LevelJadeKally2 = "Why is Peter Pan always flying? Because he Neverlands."
+    WellFuchsiaGipsy = "Slept like a log last night  woke up in the fireplace."
+    ProperCoralElisabet = 367
+    OutstandingIndigoJenna = 780
+    PositiveCoffeeDona = 352
+    ThoughtlessBeigeBrit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CrowdedTomatoTania2 = 146
+    FairCoffeeDinnie = 953
+    PeacefulOrangeMargret = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ToxicSalmonPhedra = 51
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RoughGreenIdelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    IntegralSalmonPhilly = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MidPinkMelissa = "Why did the tomato blush? Because it saw the salad dressing."
+    SurprisingGreenIanthe = 699
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    KindVioletValma = "To be Frank, I'd have to change my name."
+    RainyAquaAurora = false
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  serviceid LegalBrownDahlia2 {
+    _hidden_value = true
+  }
+  string IndividualBrownCrystal3 {
+    _hidden_value = true
+  }
+  string MiniatureAmaranthAdriana2 {
+    _hidden_value = true
+  }
+  OppositeHarlequinJaneen = "Why is Peter Pan always flying? Because he Neverlands."
+  PinkIndigoJenni = 494
+  ColonialPeachMaude2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BrightCoralElvira2 = false
+  SlimyAquaBamby = true
+  DullMoccasinLori = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

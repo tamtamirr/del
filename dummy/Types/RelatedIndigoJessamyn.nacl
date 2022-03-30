@@ -1,0 +1,22 @@
+type dummy.RelatedIndigoJessamyn {
+  annotations {
+    string EstimatedOrangeMargie2 {
+    }
+    serviceid_number FollowingBrownCynthea3 {
+    }
+    serviceid_number FluffyAmberAlica2 {
+    }
+    serviceid_number GratefulIvoryJorie2 {
+    }
+  }
+  "List<hidden_boolean>" EssentialCoffeeDionne3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  EstimatedOrangeMargie2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FollowingBrownCynthea3 = 232
+  FluffyAmberAlica2 = 29
+  GratefulIvoryJorie2 = 652
+  _hidden_value = true
+}

@@ -1,0 +1,133 @@
+type dummy.BackMoccasinLonna {
+  annotations {
+    serviceid_number FavourablePinkMercy {
+    }
+    hidden_boolean PotentialCoralElbertina {
+    }
+    number PlasticAquaAurelia {
+    }
+    json ProudBlueCatherina {
+    }
+    boolean DisgustedAzureBettye2 {
+    }
+    dummy.PrivateBronzeCordy RunningPlumMirabel2 {
+    }
+  }
+  dummy.DEFAULT FunOrangeMarcy {
+    _hidden_value = true
+  }
+  boolean PanickyAzureBree {
+    _hidden_value = true
+  }
+  number FragileTealSonia {
+    _hidden_value = true
+  }
+  boolean ElaborateRedNicole2 {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmaranthAgace {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RelievedBlueCatherine3 {
+    _hidden_value = true
+  }
+  number ImaginativeTanSella {
+    _hidden_value = true
+  }
+  boolean FoolishAzureBinni {
+    _hidden_value = true
+  }
+  serviceid_number BigVioletTonie {
+    _hidden_value = true
+  }
+  string RedWhiteWendeline2 {
+    _hidden_value = true
+  }
+  string ForwardSapphireRici {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string WetAquamarineBelinda {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmi2 {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTealShir2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntermediateRoseOfelia {
+    _hidden_value = true
+  }
+  serviceid AlliedPlumMissy {
+    _hidden_value = true
+  }
+  serviceid InterestedCoffeeDierdre3 {
+    _hidden_value = true
+  }
+  boolean EvidentIvoryJune {
+    _hidden_value = true
+  }
+  serviceid IncredibleRosePattie2 {
+    _hidden_value = true
+  }
+  "List<json>" SwiftAmethystAnastasia {
+    _hidden_value = true
+  }
+  number ObligedOrangeMarcelline2 {
+    _hidden_value = true
+  }
+  boolean LikelyBlushClaribel {
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeirtza HiddenRedOdelle {
+    TallYellowXylia = "Why was it called the dark ages? Because of all the knights. "
+    CheapCopperEdita = "Why did the tomato blush? Because it saw the salad dressing."
+    SharedPinkMelicent = 634
+    StuckRoseOralee = 529
+    SorryBrownDanyelle = 764
+    GoverningTanSelle = 216
+    JointCoralEliza = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SorryBrownDanyelle2 = 629
+    PainfulMaroonLilly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RichTomatoStorm = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ImplicitSapphireRhea = 370
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  dummy.SwissPlumMikaela TypicalEmeraldFrancine3 {
+    UndergroundScarletRona = 980
+    SatisfiedHarlequinJeana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DynamicPeachMarlyn = "Why didnt the skeleton cross the road? Because he had no guts."
+    UselessRedNina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RegulatorySalmonQuintilla = "Whoever invented the knock-knock joke should get a no bell prize."
+    DrivingRoseOralle = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    _hidden_value = true
+  }
+  json SecondaryFuchsiaGertie {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthy2 {
+    _hidden_value = true
+  }
+  string CooingAmethystAngelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeeklyLavenderKeslie2 {
+    _hidden_value = true
+  }
+  FavourablePinkMercy = 15
+  PlasticAquaAurelia = 79
+  ProudBlueCatherina = "What do you call two barracuda fish?  A Pairacuda!"
+  DisgustedAzureBettye2 = false
+  RunningPlumMirabel2 = false
+  _hidden_value = true
+}

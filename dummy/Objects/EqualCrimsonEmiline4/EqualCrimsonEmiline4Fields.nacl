@@ -1,0 +1,29 @@
+type dummy.EqualCrimsonEmiline4 {
+  json JustMaroonLissi3 {
+  }
+  serviceid_number EnormousFuchsiaGinny3 {
+  }
+  serviceid CircularRoseOrly3 {
+  }
+  string ColdAmaranthAilyn2 {
+  }
+  number QuietCoralElaina7 {
+  }
+  serviceid_number ColossalAmaranthAbby {
+  }
+  string SteepMoccasinLuise2 {
+  }
+  serviceid DearGoldGloria3 {
+  }
+  serviceid EstimatedOrangeMargit2 {
+  }
+  json ModernAmethystAmelita3 {
+  }
+  hidden_boolean QuickWhiteViviyan {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PsychologicalIvoryJojo4 {
+  }
+}

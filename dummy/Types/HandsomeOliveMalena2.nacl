@@ -1,0 +1,109 @@
+type dummy.HandsomeOliveMalena2 {
+  annotations {
+    number SufficientCrimsonEolande2 {
+    }
+    number RelatedIndigoJessamyn2 {
+    }
+    hidden_boolean ExtensiveGoldGlyn {
+    }
+    string GreatAmaranthAddi2 {
+    }
+    boolean RightBlushCherlyn2 {
+    }
+  }
+  number LoudLavenderKial4 {
+    _hidden_value = true
+  }
+  serviceid PureGrayHenriette2 {
+    _hidden_value = true
+  }
+  serviceid_number AllegedOliveLynne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LateAmethystAmata3 {
+    _hidden_value = true
+  }
+  serviceid_number LevelJadeKamila3 {
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeirtza ShortYellowWilona4 {
+    TallYellowXylia = "Why was it called the dark ages? Because of all the knights. "
+    CheapCopperEdita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SharedPinkMelicent = 71
+    StuckRoseOralee = 146
+    SorryBrownDanyelle = 898
+    GoverningTanSelle = 194
+    JointCoralEliza = "Why did the kid cross the playground? To get to the other slide."
+    SorryBrownDanyelle2 = 990
+    PainfulMaroonLilly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RichTomatoStorm = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ImplicitSapphireRhea = 266
+    FlyingMoccasinLoralyn = true
+    _hidden_value = true
+  }
+  serviceid_number CharmingPlumMorgana {
+    _hidden_value = true
+  }
+  number LtdCoralElna4 {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthy4 {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana6 {
+    _hidden_value = true
+  }
+  json OfficialCopperDorisa2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPersis5 {
+    _hidden_value = true
+  }
+  serviceid_number GiantAmaranthAdaline2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeTurquoiseTimmie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PremierOrangeMari2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyBeigeBrook4 {
+    _hidden_value = true
+  }
+  number VastEmeraldFreddi3 {
+    _hidden_value = true
+  }
+  number IrrelevantPurpleNanette2 {
+    _hidden_value = true
+  }
+  dummy.AcuteLavenderKeri AverageTomatoTabbi {
+    TerribleBeigeBrinna = 616
+    ShrillApricotAntonetta = 815
+    FineBrownCourtenay = "Slept like a log last night  woke up in the fireplace."
+    HelpfulBlackCarolin = false
+    ConsiderableChocolateDemetra = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ThoughtfulBlueCaye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    LiveIndigoJody = "Why was it called the dark ages? Because of all the knights. "
+    PoorBronzeCorene = "Did you know that protons have mass? I didn't even know they were catholic."
+    ShallowAmberAlmire = 325
+    ClosedMagentaLela = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  serviceid OddWhiteVinnie {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma3 {
+    _hidden_value = true
+  }
+  json StripedYellowWinonah2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande2 = 896
+  RelatedIndigoJessamyn2 = 429
+  GreatAmaranthAddi2 = "Why did the kid cross the playground? To get to the other slide."
+  RightBlushCherlyn2 = false
+  _hidden_value = true
+}

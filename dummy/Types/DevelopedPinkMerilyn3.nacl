@@ -1,0 +1,152 @@
+type dummy.DevelopedPinkMerilyn3 {
+  annotations {
+    boolean ResidentSalmonRaf {
+    }
+    string AboveIvoryJoyce {
+    }
+    dummy.AcceptedTanSerena UncertainMagentaLeland {
+    }
+    number ComparableMoccasinLois {
+    }
+  }
+  boolean AliveFuchsiaGilligan {
+    _hidden_value = true
+  }
+  serviceid WanderingTomatoSuzann {
+    _hidden_value = true
+  }
+  "List<boolean>" VisibleIndigoJill {
+    _hidden_value = true
+  }
+  serviceid GeneticMoccasinLorilyn {
+    _hidden_value = true
+  }
+  dummy.AdverseSapphireRanna GayOrangeMariette {
+    CleanTomatoTami = 0
+    DreadfulPinkMerrile2 = 315
+    CompulsoryOrangeMalorie = false
+    VividTanShawna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  string HelpfulTealSonnie {
+    _hidden_value = true
+  }
+  string ExcitedOrangeMarion {
+    _hidden_value = true
+  }
+  boolean FaithfulBlackCarlie2 {
+    _hidden_value = true
+  }
+  number MammothAmaranthAdore2 {
+    _hidden_value = true
+  }
+  boolean ChangingJadeKassey {
+    _hidden_value = true
+  }
+  number ItchyVioletValentina {
+    _hidden_value = true
+  }
+  boolean WoodenGreenHoratia {
+    _hidden_value = true
+  }
+  hidden_boolean UniversalJadeKacey {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid NoblePurpleNeda {
+    _hidden_value = true
+  }
+  number RegulatorySalmonQuintana {
+    _hidden_value = true
+  }
+  hidden_boolean QuickWhiteVonni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowZoe4 {
+    _hidden_value = true
+  }
+  serviceid EvilPeachMaurita {
+    _hidden_value = true
+  }
+  serviceid_number RaspyApricotAnny {
+    _hidden_value = true
+  }
+  serviceid ComplicatedIndigoJoanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AsleepJadeKarmen {
+    _hidden_value = true
+  }
+  boolean CruelPlumMichaelina {
+    _hidden_value = true
+  }
+  dummy.PrivateBronzeCordy RareEmeraldFlorentia2 {
+    CoolAmaranthAindrea = "What creature is smarter than a talking parrot? A spelling bee."
+    CoherentScarletRoselin = "To be Frank, I'd have to change my name."
+    OverallCrimsonEmmalynn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IncreasedCrimsonEsther = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MightyWhiteVerena = "Slept like a log last night  woke up in the fireplace."
+    IrishCrimsonErminia = "Why did the kid cross the playground? To get to the other slide."
+    AutomaticLavenderKevyn = true
+    _hidden_value = true
+  }
+  serviceid QuietWhiteViviene {
+    _hidden_value = true
+  }
+  serviceid_number FineBlackCarly2 {
+    _hidden_value = true
+  }
+  string FamousCoralElianora {
+    _hidden_value = true
+  }
+  boolean NiceWhiteVevay {
+    _hidden_value = true
+  }
+  boolean CrudePlumMil {
+    _hidden_value = true
+  }
+  "List<boolean>" AbundantAmethystAndie {
+    _hidden_value = true
+  }
+  serviceid UnfortunatePeachMarta {
+    _hidden_value = true
+  }
+  string NuclearCoffeeDonica {
+    _hidden_value = true
+  }
+  number ExtendedPlumMilena {
+    _hidden_value = true
+  }
+  number ExpensiveCrimsonErnesta {
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeirtza GrubbyAquaAubry2 {
+    TallYellowXylia = "A steak pun is a rare medium well done."
+    CheapCopperEdita = "A steak pun is a rare medium well done."
+    SharedPinkMelicent = 625
+    StuckRoseOralee = 641
+    SorryBrownDanyelle = 966
+    GoverningTanSelle = 236
+    JointCoralEliza = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SorryBrownDanyelle2 = 788
+    PainfulMaroonLilly = "Dad Im hungry  Hi hungry Im dad"
+    RichTomatoStorm = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ImplicitSapphireRhea = 637
+    FlyingMoccasinLoralyn = true
+    _hidden_value = true
+  }
+  number FrequentLavenderKatie {
+    _hidden_value = true
+  }
+  boolean RareEmeraldFlorenza {
+    _hidden_value = true
+  }
+  ResidentSalmonRaf = false
+  AboveIvoryJoyce = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UncertainMagentaLeland = true
+  ComparableMoccasinLois = 455
+  _hidden_value = true
+}

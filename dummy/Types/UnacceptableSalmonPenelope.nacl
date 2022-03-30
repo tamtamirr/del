@@ -1,0 +1,27 @@
+type dummy.UnacceptableSalmonPenelope {
+  annotations {
+    hidden_boolean DefinitePeachMartelle2 {
+    }
+    serviceid_number OverseasIvoryJuditha2 {
+    }
+    serviceid DepressedPinkMelany2 {
+    }
+    boolean AshamedAquamarineBernadina {
+    }
+    serviceid_number SocialBlueCharo2 {
+    }
+    serviceid_number TragicRosePavia2 {
+    }
+  }
+  hidden_boolean ExplicitMaroonLisette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  OverseasIvoryJuditha2 = 273
+  DepressedPinkMelany2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AshamedAquamarineBernadina = false
+  SocialBlueCharo2 = 362
+  TragicRosePavia2 = 171
+  _hidden_value = true
+}

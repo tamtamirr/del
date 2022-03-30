@@ -1,0 +1,98 @@
+type dummy.FaithfulTanShayna {
+  annotations {
+    json ShortBronzeColene {
+    }
+    hidden_boolean VivaciousBlueCecilla2 {
+    }
+    string VisitingScarletRoanne2 {
+    }
+    hidden_boolean PunyAmaranthAeriell {
+    }
+    serviceid_number UglyTurquoiseTina {
+    }
+    serviceid_number FragileTealSonia2 {
+    }
+    number AmusedBeigeBunny2 {
+    }
+  }
+  number MagnificentMagentaLeeanne2 {
+    _hidden_value = true
+  }
+  dummy.ManyAmethystAngel LowBlushChristina {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 520
+    StaticSapphireRebeka = 683
+    CircularRoseOrly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "A steak pun is a rare medium well done."
+    BreezyAmaranthAigneis = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = false
+    KoreanSapphireRasia = 287
+    PrivateBronzeCoreen = 670
+    ShockedPinkMelisandra = "What creature is smarter than a talking parrot? A spelling bee."
+    ObedientBlackCassondra = 689
+    RapidAmethystAmy2 = 382
+    _hidden_value = true
+  }
+  number PoorTealStella {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolin {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveGreenHyacinthia {
+    _hidden_value = true
+  }
+  hidden_boolean OfficialCopperDorita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" DramaticGoldHadria3 {
+    _hidden_value = true
+  }
+  serviceid RegisteredPurpleNan {
+    _hidden_value = true
+  }
+  string ToxicSalmonPhedra2 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAileen2 {
+    _hidden_value = true
+  }
+  boolean OperationalOrangeMariam2 {
+    _hidden_value = true
+  }
+  number EvidentIvoryJunette {
+    _hidden_value = true
+  }
+  boolean VisibleIndigoJill2 {
+    _hidden_value = true
+  }
+  hidden_boolean MathematicalRoseOrtensia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT PowerfulCopperDrona {
+    _hidden_value = true
+  }
+  number AbundantAmethystAnderea2 {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeManon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlackVioletTorey {
+    _hidden_value = true
+  }
+  ShortBronzeColene = "A steak pun is a rare medium well done."
+  VisitingScarletRoanne2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  UglyTurquoiseTina = 780
+  FragileTealSonia2 = 177
+  AmusedBeigeBunny2 = 312
+  _hidden_value = true
+}

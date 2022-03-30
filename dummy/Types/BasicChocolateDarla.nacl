@@ -1,0 +1,80 @@
+type dummy.BasicChocolateDarla {
+  annotations {
+    dummy.FarBlushChristin ShortYellowWilone {
+    }
+    serviceid ElegantTurquoiseTeddi {
+    }
+    hidden_boolean RelaxedPlumMinni2 {
+    }
+    json ImpressedOrangeMaris {
+    }
+  }
+  string RottenApricotAriella2 {
+    _hidden_value = true
+  }
+  hidden_boolean EasternCrimsonEricka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SorryBrownDaphene {
+    _hidden_value = true
+  }
+  hidden_boolean IllEmeraldGale {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ViolentIvoryJolee {
+    _hidden_value = true
+  }
+  dummy.DiplomaticMagentaLenore MildOliveMadalyn2 {
+    SouthernCyanEvie = "Im only familiar with 25 letters in the English language. I dont know why."
+    TartYellowWynnie = "Why didnt the skeleton cross the road? Because he had no guts."
+    WonderfulYellowZoe2 = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    UnlikelyCrimsonEthelin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    JapaneseCyanFianna = 984
+    UpsetOliveMabel = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  hidden_boolean ProfoundPinkMerlina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSydel {
+    _hidden_value = true
+  }
+  serviceid_number PayableOrangeMarcie {
+    _hidden_value = true
+  }
+  number BreezyAmaranthAidan2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CanadianPlumMinerva2 {
+    _hidden_value = true
+  }
+  hidden_boolean SecureMoccasinLou {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosamond {
+    _hidden_value = true
+  }
+  json BrainyTealSherye {
+    _hidden_value = true
+  }
+  boolean IndividualBrownCthrine {
+    _hidden_value = true
+  }
+  string OptimisticSalmonPeg {
+    _hidden_value = true
+  }
+  ShortYellowWilone = false
+  ElegantTurquoiseTeddi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImpressedOrangeMaris = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

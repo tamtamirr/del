@@ -1,0 +1,48 @@
+type dummy.ArabLimeKirby {
+  annotations {
+    hidden_boolean SteadyJadeKaile2 {
+    }
+    number IsolatedPeachMarketa {
+    }
+    json KoreanSapphireRaquela4 {
+    }
+    serviceid SoftAquamarineBarbie3 {
+    }
+    serviceid ProvincialPeachMariya {
+    }
+    number MassiveFuchsiaGerri2 {
+    }
+    string EqualCrimsonEmilie2 {
+    }
+    number WetGrayHedvige2 {
+    }
+    serviceid SplendidOrangeManon4 {
+    }
+    boolean ChubbyAmberAline2 {
+    }
+    serviceid_number FullBlushChristi2 {
+    }
+    json WesternChocolateDeerdre7 {
+    }
+    boolean UninterestedTomatoSusie2 {
+    }
+    string HelpfulTealSonnie4 {
+    }
+    serviceid CautiousTealSibbie4 {
+    }
+  }
+  IsolatedPeachMarketa = 843
+  KoreanSapphireRaquela4 = "Why was it called the dark ages? Because of all the knights. "
+  SoftAquamarineBarbie3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ProvincialPeachMariya = "Why didnt the skeleton cross the road? Because he had no guts."
+  MassiveFuchsiaGerri2 = 621
+  EqualCrimsonEmilie2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  WetGrayHedvige2 = 758
+  SplendidOrangeManon4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ChubbyAmberAline2 = false
+  FullBlushChristi2 = 836
+  WesternChocolateDeerdre7 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UninterestedTomatoSusie2 = true
+  HelpfulTealSonnie4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CautiousTealSibbie4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

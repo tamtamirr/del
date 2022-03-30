@@ -1,0 +1,41 @@
+type dummy.CriminalFuchsiaGeorgia {
+  annotations {
+    serviceid_number HonestIndigoJerrine {
+    }
+    number ThunderingApricotArabella {
+    }
+    serviceid_number FriendlyGoldGunilla {
+    }
+    number SkilledMoccasinLuci {
+    }
+    serviceid AmazingMoccasinLizette {
+    }
+    serviceid ZanyYellowZulema2 {
+    }
+  }
+  number HealthyGoldGracie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmptyAmethystAndie {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenny {
+    _hidden_value = true
+  }
+  serviceid_number AgreedTanSelina {
+    _hidden_value = true
+  }
+  boolean FarBlushChristie3 {
+    _hidden_value = true
+  }
+  json SorryBrownDaphene2 {
+    _hidden_value = true
+  }
+  HonestIndigoJerrine = 11
+  ThunderingApricotArabella = 340
+  FriendlyGoldGunilla = 619
+  SkilledMoccasinLuci = 376
+  AmazingMoccasinLizette = "Why didnt the skeleton cross the road? Because he had no guts."
+  ZanyYellowZulema2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

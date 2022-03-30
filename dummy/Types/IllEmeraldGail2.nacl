@@ -1,0 +1,77 @@
+type dummy.IllEmeraldGail2 {
+  annotations {
+    hidden_boolean CompulsoryOliveMallissa {
+    }
+    dummy.LowBlushChristy SexualCopperEachelle2 {
+    }
+    string NoisySilverSal2 {
+    }
+    boolean OutrageousAzureBreanne2 {
+    }
+    hidden_boolean NumerousHarlequinJane {
+    }
+  }
+  json GracefulTurquoiseTerrijo2 {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulHarlequinJaquenetta2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" SleepyTomatoSuellen {
+    _hidden_value = true
+  }
+  number WetAmberAlicia4 {
+    _hidden_value = true
+  }
+  serviceid_number SolidGreenIda3 {
+    _hidden_value = true
+  }
+  json ShortYellowWilone3 {
+    _hidden_value = true
+  }
+  json NoisyApricotAnnemarie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MaturePeachMattie2 {
+    _hidden_value = true
+  }
+  dummy.ImmenseAmaranthAdelice ScrawnyYellowWilma2 {
+    PoliteSalmonRafa = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    FrightenedAzureBlaire = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AlertTomatoSydney = 990
+    AwakeRedNolana = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SteepAmberAlvira = true
+    InnocentTealStacey = true
+    GladGoldGlynnis = 213
+    ComingSilverSammy = "Why did the kid cross the playground? To get to the other slide."
+    UltimateJadeKandace = "How come the stadium got hot after the game? Because all of the fans left."
+    ScatteredAquaAvie = 234
+    ConceptualTanShelbi = "Why didnt the skeleton cross the road? Because he had no guts."
+    KindOrangeMaribelle = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean WrongBrownCrista3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna StraightHarlequinJaine2 {
+    ColonialPeachMaure = "What creature is smarter than a talking parrot? A spelling bee."
+    GloriousBlackCarmine = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  number CuddlyAmberAlberta5 {
+    _hidden_value = true
+  }
+  serviceid_number ProbableSalmonPhyllis {
+    _hidden_value = true
+  }
+  SexualCopperEachelle2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NoisySilverSal2 = "To be Frank, I'd have to change my name."
+  OutrageousAzureBreanne2 = true
+  _hidden_value = true
+}

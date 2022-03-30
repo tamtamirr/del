@@ -1,0 +1,26 @@
+type dummy.FilthyAmberAlexis {
+  annotations {
+    number ApparentCyanFawne {
+    }
+    hidden_boolean GrowingCrimsonEnrichetta2 {
+    }
+    serviceid_number UnemployedIvoryJolie3 {
+    }
+    serviceid CrudePlumMildred {
+    }
+    hidden_boolean BusyTealShirlene {
+    }
+    boolean LiberalCyanFarica {
+    }
+  }
+  hidden_boolean TerritorialSalmonPrisca2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ApparentCyanFawne = 806
+  UnemployedIvoryJolie3 = 381
+  CrudePlumMildred = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LiberalCyanFarica = false
+  _hidden_value = true
+}

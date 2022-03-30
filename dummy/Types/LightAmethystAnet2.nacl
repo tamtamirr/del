@@ -1,0 +1,44 @@
+type dummy.LightAmethystAnet2 {
+  annotations {
+    number AustralianJadeKassia {
+    }
+    serviceid_number UnsightlyTurquoiseTish3 {
+    }
+    boolean CrookedAmberAlane {
+    }
+    hidden_boolean ImperialLavenderKatey3 {
+    }
+    hidden_boolean ForeignBronzeCorine {
+    }
+    dummy.LatinLimeKonstanze CautiousTealSib {
+    }
+    json TightIvoryJoelynn3 {
+    }
+  }
+  hidden_boolean LightTurquoiseThalia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BoringPeachMarnia2 {
+    _hidden_value = true
+  }
+  string FirmGrayHedda2 {
+    _hidden_value = true
+  }
+  string OrangeWhiteViola2 {
+    _hidden_value = true
+  }
+  number ProtectiveRoseOlivette {
+    _hidden_value = true
+  }
+  serviceid_number FineBrownCourtenay3 {
+    _hidden_value = true
+  }
+  AustralianJadeKassia = 95
+  UnsightlyTurquoiseTish3 = 173
+  CrookedAmberAlane = true
+  CautiousTealSib = 688
+  TightIvoryJoelynn3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

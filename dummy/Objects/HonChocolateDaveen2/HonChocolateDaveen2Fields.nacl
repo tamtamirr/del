@@ -1,0 +1,46 @@
+type dummy.HonChocolateDaveen2 {
+  serviceid ImperialLavenderKaterine6 {
+  }
+  string FriendlyVioletTrudi3 {
+  }
+  hidden_boolean EverydayLimeKyrstin5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BroadCoralElise3 {
+  }
+  number CondemnedAquamarineBerti2 {
+  }
+  number ReliableLavenderKiley2 {
+  }
+  boolean OuterJadeKarrie2 {
+  }
+  number CompetentSalmonPepita3 {
+  }
+  dummy.VaryingPurpleNellie GenerousLavenderKaylee3 {
+    GrubbyAquaAubry4 = 27
+    ThinCyanEvangeline2 = true
+    FancyTurquoiseTedi = 720
+    BetterVioletTomasine2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  string LowBlushChristye2 {
+  }
+  serviceid_number SymbolicPurpleNadiya4 {
+  }
+  json GeneralBlushChristean6 {
+  }
+  serviceid_number WhisperingApricotArdelia2 {
+  }
+  number MinimalPlumMorganne2 {
+  }
+  hidden_boolean RoundIvoryJohnette5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PresentBrownCristi5 {
+  }
+  string MoralCyanFenelia3 {
+  }
+}

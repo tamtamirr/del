@@ -1,0 +1,18 @@
+type dummy.OccupationalOliveMadel is boolean {
+  annotations {
+    serviceid_number DifferentBlueCharleen {
+    }
+    dummy.DEFAULT AverageCoralElysha2 {
+    }
+    serviceid WearyBeigeBrooke {
+    }
+    serviceid_number PoisedTurquoiseThomasin {
+    }
+  }
+  DifferentBlueCharleen = 17
+  AverageCoralElysha2 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  WearyBeigeBrooke = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PoisedTurquoiseThomasin = 2
+}

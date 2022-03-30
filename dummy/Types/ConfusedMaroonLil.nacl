@@ -1,0 +1,70 @@
+type dummy.ConfusedMaroonLil {
+  annotations {
+    boolean ShyTomatoStormie2 {
+    }
+    number ProbableSalmonPhyllys3 {
+    }
+    serviceid TotalBrownDaniella2 {
+    }
+    hidden_boolean SatisfiedHarlequinJeana4 {
+    }
+    hidden_boolean FunnyBlackCarmel {
+    }
+    dummy.DEFAULT ExtraCoffeeDiane2 {
+    }
+  }
+  json FlexibleLavenderKathlin {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  boolean MonthlyMaroonLinnea2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  string AestheticSapphireRea2 {
+    _hidden_value = true
+  }
+  number OralLimeKylila2 {
+    _hidden_value = true
+  }
+  number MotionlessTurquoiseTheo {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulcy {
+    _hidden_value = true
+  }
+  dummy.LowBlushChristy RetiredSilverSarah2 {
+    ExplicitMaroonLisetta2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    UnevenAquamarineBeitris = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TameTomatoSusette = "Why is Peter Pan always flying? Because he Neverlands."
+    KindOrangeMaribeth = "Why is Peter Pan always flying? Because he Neverlands."
+    BrokenAmaranthAilee = 16
+    RelievedSalmonPetronia = false
+    ComplexCopperDrucie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PublicBlushChrysler = false
+    AverageCoralElysha = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EntireEmeraldFranciska = 409
+    CurrentBrownDacey = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  string FuriousRedNicolina2 {
+    _hidden_value = true
+  }
+  serviceid_number BizarreTanSeana2 {
+    _hidden_value = true
+  }
+  string VaguePinkMel {
+    _hidden_value = true
+  }
+  ShyTomatoStormie2 = false
+  ProbableSalmonPhyllys3 = 879
+  TotalBrownDaniella2 = "To be Frank, I'd have to change my name."
+  ExtraCoffeeDiane2 = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  _hidden_value = true
+}

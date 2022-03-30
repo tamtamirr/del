@@ -1,0 +1,39 @@
+type dummy.FrailVioletTrudey {
+  annotations {
+    json WideBronzeCorine3 {
+    }
+    serviceid_number CoolAmberAinslie {
+    }
+    hidden_boolean OutstandingTealStefania {
+    }
+    string BalancedSilverRosita3 {
+    }
+    hidden_boolean GreenVioletUla2 {
+    }
+    serviceid_number FutureCoffeeDolly2 {
+    }
+  }
+  hidden_boolean AmericanBronzeCorrie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnderlyingLimeKoressa3 {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRaquela2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  WideBronzeCorine3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CoolAmberAinslie = 856
+  BalancedSilverRosita3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FutureCoffeeDolly2 = 987
+  _hidden_value = true
+}

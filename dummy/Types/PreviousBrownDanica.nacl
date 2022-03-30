@@ -1,0 +1,56 @@
+type dummy.PreviousBrownDanica {
+  annotations {
+    hidden_boolean InappropriateRoseOttilie {
+    }
+    serviceid_number ApparentCyanFawnia2 {
+    }
+    string RoughGreenIdaline {
+    }
+    json ModestLavenderKelsi3 {
+    }
+  }
+  serviceid_number SquareJadeKaia2 {
+    _hidden_value = true
+  }
+  json UglyPlumMicky3 {
+    _hidden_value = true
+  }
+  number CourageousBeigeCamilla {
+    _hidden_value = true
+  }
+  boolean MinisterialTanSheba {
+    _hidden_value = true
+  }
+  string FaintMaroonLita3 {
+    _hidden_value = true
+  }
+  json ImmenseAmaranthAdele5 {
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette ApplicablePlumMireille {
+    UglyTurquoiseTiphani = "How come the stadium got hot after the game? Because all of the fans left."
+    FairBlackCarlen = "What creature is smarter than a talking parrot? A spelling bee."
+    FuriousRedNicolle = 666
+    AbstractMaroonLilyan = 432
+    RipeApricotAriel = 531
+    OlympicRedNessa = 703
+    SignificantBrownDanna = "What creature is smarter than a talking parrot? A spelling bee."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 613
+    VastEmeraldFreddi = 95
+    ConstantEmeraldFrayda = "Why did the kid cross the playground? To get to the other slide."
+    BigAmaranthAbbi = 381
+    WorriedGrayHarri = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  "List<string>" StillIndigoJoanne {
+    _hidden_value = true
+  }
+  string ShortYellowWilone2 {
+    _hidden_value = true
+  }
+  ApparentCyanFawnia2 = 592
+  RoughGreenIdaline = "To be Frank, I'd have to change my name."
+  ModestLavenderKelsi3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

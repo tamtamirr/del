@@ -1,0 +1,115 @@
+type dummy.SouthernCyanEvita {
+  annotations {
+    json HeavyChocolateDavita3 {
+    }
+    serviceid WonderfulYellowZoe6 {
+    }
+    json SymbolicPurpleNadine {
+    }
+    dummy.DEFAULT FierceAzureBillye3 {
+    }
+  }
+  number LightAmethystAnet {
+    _hidden_value = true
+  }
+  serviceid_number GreyEmeraldFranni2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDatha2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulCopperDru2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EagerBeigeCandra {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MutualLimeKimberley2 {
+    _hidden_value = true
+  }
+  number LivingGrayHenrietta {
+    _hidden_value = true
+  }
+  dummy.UrbanCyanFan StupidTomatoSusan3 {
+    KindBlackCaryl = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PremierOrangeMargy = "I'll tell you what often gets over looked... garden fences."
+    LtdCoralElnora = "Im only familiar with 25 letters in the English language. I dont know why."
+    SheerMagentaLauri = 503
+    FullBlushChristian = "A steak pun is a rare medium well done."
+    BroadAmberAlikee = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    AutomaticLavenderKi = "Why didnt the skeleton cross the road? Because he had no guts."
+    WesternChocolateDeerdre = 836
+    ExtraordinaryIndigoJessie = true
+    LittleBlushChlo = "Why did the kid cross the playground? To get to the other slide."
+    SurprisingGreenIbbie = 473
+    GloriousScarletRose = "Slept like a log last night  woke up in the fireplace."
+    ThickEmeraldFilippa = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    WeirdSilverRozanne = "Why was it called the dark ages? Because of all the knights. "
+    ExplicitMaroonLisetta = "I'll tell you what often gets over looked... garden fences."
+    GayOrangeMarietta = 223
+    DevotedRosePaulette = "Slept like a log last night  woke up in the fireplace."
+    LimitedCoralElke = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  serviceid OrangePurpleMufinella2 {
+    _hidden_value = true
+  }
+  boolean HappyVioletVale3 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianne3 {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerry4 {
+    _hidden_value = true
+  }
+  number WeeSapphireRetha3 {
+    _hidden_value = true
+  }
+  number KeenGrayHannah2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrandEmeraldFrancene3 {
+    _hidden_value = true
+  }
+  serviceid LightAmethystAnett3 {
+    _hidden_value = true
+  }
+  "List<json>" ConventionalGoldGussie3 {
+    _hidden_value = true
+  }
+  serviceid UptightBeigeBrook2 {
+    _hidden_value = true
+  }
+  string GothicSapphireRamona2 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlotta5 {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne4 {
+    _hidden_value = true
+  }
+  HeavyChocolateDavita3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WonderfulYellowZoe6 = "Why was it called the dark ages? Because of all the knights. "
+  SymbolicPurpleNadine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FierceAzureBillye3 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  _hidden_value = true
+}

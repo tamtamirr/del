@@ -1,0 +1,44 @@
+type dummy.ChubbyAmberAlis2 {
+  annotations {
+    number EnglishBrownCrissie {
+    }
+    hidden_boolean SpottyYellowWylma3 {
+    }
+    number TartYellowXaviera {
+    }
+    boolean ExcessiveOliveMadelene3 {
+    }
+    number SpotlessTurquoiseTildie2 {
+    }
+    serviceid PoorBronzeCorene5 {
+    }
+    serviceid_number IntensiveOliveLurette {
+    }
+  }
+  hidden_boolean EfficientGoldGretna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number OccupationalOliveMadel2 {
+    _hidden_value = true
+  }
+  serviceid_number EagerBeigeCandra2 {
+    _hidden_value = true
+  }
+  hidden_boolean SafeCopperDorey2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie OutsideGrayHelenka4 {
+    _hidden_value = true
+  }
+  EnglishBrownCrissie = 257
+  TartYellowXaviera = 664
+  ExcessiveOliveMadelene3 = true
+  SpotlessTurquoiseTildie2 = 333
+  PoorBronzeCorene5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  IntensiveOliveLurette = 562
+  _hidden_value = true
+}

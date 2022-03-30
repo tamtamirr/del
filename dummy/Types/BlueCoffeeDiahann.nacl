@@ -1,0 +1,24 @@
+type dummy.BlueCoffeeDiahann {
+  annotations {
+    hidden_boolean ContinuingGreenIsa2 {
+    }
+    dummy.OrdinaryCopperEdi AwkwardPeachMaryl5 {
+    }
+    dummy.DEFAULT WorthwhilePinkMelita2 {
+    }
+    boolean DisabledHarlequinJanifer2 {
+    }
+    serviceid_number LoudApricotAnnadiane2 {
+    }
+  }
+  number DustyAmberAlexina3 {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryl5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WorthwhilePinkMelita2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  DisabledHarlequinJanifer2 = false
+  LoudApricotAnnadiane2 = 619
+  _hidden_value = true
+}

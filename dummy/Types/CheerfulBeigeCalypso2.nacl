@@ -1,0 +1,41 @@
+type dummy.CheerfulBeigeCalypso2 {
+  annotations {
+    json ProspectiveRedNetti {
+    }
+    serviceid RequiredMaroonLeticia {
+    }
+    hidden_boolean SwiftAmethystAnastasie3 {
+    }
+    json WonderfulEmeraldFlss {
+    }
+    json SoleLimeKissee {
+    }
+    json OutstandingIndigoJenn {
+    }
+  }
+  number DistinctHarlequinJanelle {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueTurquoiseTerza2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RisingScarletRosemarie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ShallowAmberAloysia {
+    _hidden_value = true
+  }
+  serviceid FewAmethystAndrei {
+    _hidden_value = true
+  }
+  ProspectiveRedNetti = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RequiredMaroonLeticia = "A steak pun is a rare medium well done."
+  WonderfulEmeraldFlss = "Did you know that protons have mass? I didn't even know they were catholic."
+  SoleLimeKissee = "Whoever invented the knock-knock joke should get a no bell prize."
+  OutstandingIndigoJenn = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

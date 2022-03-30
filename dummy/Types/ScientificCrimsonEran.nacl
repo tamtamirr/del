@@ -1,0 +1,118 @@
+type dummy.ScientificCrimsonEran {
+  annotations {
+    boolean ShortYellowWilona3 {
+    }
+    number WeakFuchsiaGayle3 {
+    }
+    serviceid_number EconomicBlushClare2 {
+    }
+    serviceid_number InvisibleRoseOrelee2 {
+    }
+  }
+  "List<dummy.DEFAULT>" FoolishAzureBinnie3 {
+    _hidden_value = true
+  }
+  boolean ManualRosePaola {
+    _hidden_value = true
+  }
+  number ColouredMaroonLivia3 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" TestyYellowYoko {
+    _hidden_value = true
+  }
+  serviceid_number BlankPinkMelonie {
+    _hidden_value = true
+  }
+  serviceid_number RainyWhiteWallis {
+    _hidden_value = true
+  }
+  json EssentialCoffeeDione2 {
+    _hidden_value = true
+  }
+  number CoastalPlumMichal3 {
+    _hidden_value = true
+  }
+  serviceid_number ProfessionalChocolateDayle2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoredAquamarineBerri2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SouthernCyanEvie3 {
+    _hidden_value = true
+  }
+  boolean EnthusiasticBlackCarine3 {
+    _hidden_value = true
+  }
+  serviceid_number IntenseLavenderKatuscha5 {
+    _hidden_value = true
+  }
+  serviceid ObligedOrangeMarchelle {
+    _hidden_value = true
+  }
+  hidden_boolean TenderAquamarineBebe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MammothAmaranthAdorne {
+    _hidden_value = true
+  }
+  serviceid_number CompetentSalmonPepita2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingAmaranthAgretha2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPerry3 {
+    _hidden_value = true
+  }
+  json ShortAmethystAnabal {
+    _hidden_value = true
+  }
+  number ElegantTurquoiseTeddi4 {
+    _hidden_value = true
+  }
+  dummy.LatinLimeKonstanze WeeklyLavenderKessiah2 {
+    ResidentSalmonRae = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CrazyMoccasinLorrayne = "Why did the kid cross the playground? To get to the other slide."
+    LevelJadeKally2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    WellFuchsiaGipsy = "What do you call two barracuda fish?  A Pairacuda!"
+    ProperCoralElisabet = 225
+    OutstandingIndigoJenna = 478
+    PositiveCoffeeDona = 690
+    ThoughtlessBeigeBrit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CrowdedTomatoTania2 = 497
+    FairCoffeeDinnie = 332
+    PeacefulOrangeMargret = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ToxicSalmonPhedra = 217
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "Why is Peter Pan always flying? Because he Neverlands."
+    RoughGreenIdelle = "How come the stadium got hot after the game? Because all of the fans left."
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    IntegralSalmonPhilly = "A steak pun is a rare medium well done."
+    MidPinkMelissa = "Dad Im hungry  Hi hungry Im dad"
+    SurprisingGreenIanthe = 492
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    KindVioletValma = "Whoever invented the knock-knock joke should get a no bell prize."
+    RainyAquaAurora = false
+    RudeTanShayla = true
+    _hidden_value = true
+  }
+  ShortYellowWilona3 = false
+  WeakFuchsiaGayle3 = 401
+  EconomicBlushClare2 = 216
+  InvisibleRoseOrelee2 = 668
+  _hidden_value = true
+}

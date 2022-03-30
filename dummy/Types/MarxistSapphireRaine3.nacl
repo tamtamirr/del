@@ -1,0 +1,98 @@
+type dummy.MarxistSapphireRaine3 {
+  annotations {
+    serviceid_number CasualOliveLurline {
+    }
+    dummy.DEFAULT GiganticVioletUlrikaumeko {
+    }
+    serviceid_number IntelligentMaroonLinnie {
+    }
+    serviceid TightAquamarineBecky2 {
+    }
+    json CooperativeBeigeCamila {
+    }
+  }
+  hidden_boolean EnvironmentalCoffeeDominica {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number GrumpyVioletUrsula {
+    _hidden_value = true
+  }
+  dummy.ManyAmethystAngel FragileTealSofie2 {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 521
+    StaticSapphireRebeka = 143
+    CircularRoseOrly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OrangeWhiteVinny = false
+    PureGrayHermia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BreezyAmaranthAigneis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = false
+    KoreanSapphireRasia = 957
+    PrivateBronzeCoreen = 325
+    ShockedPinkMelisandra = "What creature is smarter than a talking parrot? A spelling bee."
+    ObedientBlackCassondra = 290
+    RapidAmethystAmy2 = 147
+    _hidden_value = true
+  }
+  string UnacceptableSalmonPenelopa {
+    _hidden_value = true
+  }
+  hidden_boolean MeltedAquaAurelea2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CooingAmethystAngelique3 {
+    _hidden_value = true
+  }
+  serviceid_number DistinctiveLimeKristen2 {
+    _hidden_value = true
+  }
+  serviceid_number ComfortableGoldGrier {
+    _hidden_value = true
+  }
+  string BreakableTealShir5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MultipleLimeKimmie {
+    _hidden_value = true
+  }
+  "List<number>" AverageCoralElysee3 {
+    _hidden_value = true
+  }
+  serviceid FrontCopperEadith2 {
+    _hidden_value = true
+  }
+  number OrangePurpleMuire4 {
+    _hidden_value = true
+  }
+  hidden_boolean HollowAmberAllix {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" ComparativePlumModestia {
+    _hidden_value = true
+  }
+  number NuttyWhiteVikki4 {
+    _hidden_value = true
+  }
+  boolean IntegratedOliveMadonna2 {
+    _hidden_value = true
+  }
+  hidden_boolean EntitledIvoryJuliann3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CasualOliveLurline = 197
+  GiganticVioletUlrikaumeko = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  IntelligentMaroonLinnie = 691
+  TightAquamarineBecky2 = "Why did the kid cross the playground? To get to the other slide."
+  CooperativeBeigeCamila = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,111 @@
+type dummy.PowerfulCopperDruci {
+  annotations {
+    boolean TroubledBeigeBrittan {
+    }
+    serviceid MagentaWhiteVenita {
+    }
+    dummy.DEFAULT AverageAmaranthAaren {
+    }
+    serviceid_number DevotedRosePaulette2 {
+    }
+  }
+  string ManualRosePaolina {
+    _hidden_value = true
+  }
+  serviceid_number FaintAmethystAnica2 {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalLimeKorry2 {
+    _hidden_value = true
+  }
+  json IntactRosePatricia3 {
+    _hidden_value = true
+  }
+  hidden_boolean QuaintTurquoiseTierney {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CuddlyAmberAlberta3 {
+    _hidden_value = true
+  }
+  serviceid FancyTurquoiseTedi2 {
+    _hidden_value = true
+  }
+  boolean AlliedPlumMisti2 {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeBrownDanila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ChubbyAmberAlisa3 {
+    _hidden_value = true
+  }
+  string VastYellowZaria {
+    _hidden_value = true
+  }
+  boolean UncomfortablePlumModesty2 {
+    _hidden_value = true
+  }
+  serviceid FaintAmethystAnissa {
+    _hidden_value = true
+  }
+  dummy.AcuteLavenderKeri BriefAmethystAmaleta {
+    TerribleBeigeBrinna = 812
+    ShrillApricotAntonetta = 137
+    FineBrownCourtenay = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HelpfulBlackCarolin = false
+    ConsiderableChocolateDemetra = "Why do birds fly south for the winter? Because it's too far to walk."
+    ThoughtfulBlueCaye = "Im only familiar with 25 letters in the English language. I dont know why."
+    LiveIndigoJody = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PoorBronzeCorene = "Dad Im hungry  Hi hungry Im dad"
+    ShallowAmberAlmire = 719
+    ClosedMagentaLela = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean LiberalCyanFarand {
+    _hidden_value = true
+  }
+  "List<serviceid>" NoisySilverSal {
+    _hidden_value = true
+  }
+  string DyingScarletRoby {
+    _hidden_value = true
+  }
+  hidden_boolean BlackBlushClarita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.FashionableSapphireRenae RottenApricotAriela2 {
+    RealBlushClarie = 107
+    WholeBronzeClotilda = "Why didnt the skeleton cross the road? Because he had no guts."
+    UnitedCopperEddi = "Why did the tomato blush? Because it saw the salad dressing."
+    RearPurpleMuire = "Why did the tomato blush? Because it saw the salad dressing."
+    GeographicalPeachMarlena = 518
+    EventualTanSharona = true
+    PureGrayHenryetta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SymbolicPurpleNadia = "Why did the kid cross the playground? To get to the other slide."
+    RespectiveSalmonPerry = "Im only familiar with 25 letters in the English language. I dont know why."
+    DeepChocolateDelora = "I'll tell you what often gets over looked... garden fences."
+    RattyWhiteWenda = 814
+    RareWhiteWaly = "A steak pun is a rare medium well done."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  boolean GrandEmeraldFlss {
+    _hidden_value = true
+  }
+  serviceid FriendlyVioletTrudy {
+    _hidden_value = true
+  }
+  TroubledBeigeBrittan = false
+  MagentaWhiteVenita = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AverageAmaranthAaren = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  DevotedRosePaulette2 = 749
+  _hidden_value = true
+}

@@ -1,0 +1,48 @@
+type dummy.WeirdSilverRozele {
+  annotations {
+    serviceid SillyBlueCathlene {
+    }
+    number PleasedEmeraldGabriell {
+    }
+    string FarBlushChristiana {
+    }
+  }
+  number AnnualCoffeeDonny {
+    _hidden_value = true
+  }
+  hidden_boolean GloriousScarletRosanna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MagentaWhiteVelma {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string OpenBronzeClio {
+    _hidden_value = true
+  }
+  json JustMaroonLissi {
+    _hidden_value = true
+  }
+  json EndlessPeachMarjorie {
+    _hidden_value = true
+  }
+  serviceid AngryAquamarineBenedicta {
+    _hidden_value = true
+  }
+  number InterestingChocolateDelphine2 {
+    _hidden_value = true
+  }
+  json DramaticGoldHadria {
+    _hidden_value = true
+  }
+  serviceid_number StingyYellowWinnah {
+    _hidden_value = true
+  }
+  SillyBlueCathlene = "Why didnt the skeleton cross the road? Because he had no guts."
+  PleasedEmeraldGabriell = 998
+  FarBlushChristiana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

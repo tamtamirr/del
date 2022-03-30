@@ -1,0 +1,91 @@
+type dummy.IncCrimsonErma3 {
+  annotations {
+    hidden_boolean BusyCyanFayre5 {
+    }
+    json CarefulTealShirline3 {
+    }
+    boolean TemporaryGrayHalimeda2 {
+    }
+    serviceid_number AdditionalCopperDottie5 {
+    }
+  }
+  serviceid CrudePlumMildred5 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlyn3 {
+    _hidden_value = true
+  }
+  number NovelScarletRosette2 {
+    _hidden_value = true
+  }
+  boolean PreparedCyanFelicdad3 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessika3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json BritishBlushCherilyn3 {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLoise {
+    _hidden_value = true
+  }
+  json ArrogantAquamarineBerget2 {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTaryn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ImmenseAmaranthAdelice LoudApricotAnnabelle2 {
+    PoliteSalmonRafa = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    FrightenedAzureBlaire = "What creature is smarter than a talking parrot? A spelling bee."
+    AlertTomatoSydney = 864
+    AwakeRedNolana = "Whoever invented the knock-knock joke should get a no bell prize."
+    SteepAmberAlvira = true
+    InnocentTealStacey = false
+    GladGoldGlynnis = 696
+    ComingSilverSammy = "Slept like a log last night  woke up in the fireplace."
+    UltimateJadeKandace = "Slept like a log last night  woke up in the fireplace."
+    ScatteredAquaAvie = 175
+    ConceptualTanShelbi = "Whoever invented the knock-knock joke should get a no bell prize."
+    KindOrangeMaribelle = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  hidden_boolean ItchyVioletValentina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number EvilPeachMaurise {
+    _hidden_value = true
+  }
+  hidden_boolean IndianGrayHarmonia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" LateAmethystAmata4 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotArielle4 {
+    _hidden_value = true
+  }
+  json TameTomatoSusannah4 {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousTurquoiseTeresita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CarefulTealShirline3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TemporaryGrayHalimeda2 = true
+  AdditionalCopperDottie5 = 301
+  _hidden_value = true
+}

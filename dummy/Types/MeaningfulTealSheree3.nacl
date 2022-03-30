@@ -1,0 +1,36 @@
+type dummy.MeaningfulTealSheree3 {
+  annotations {
+    dummy.SpectacularMaroonLibbie InfluentialMoccasinLorette3 {
+    }
+    json DistinctTurquoiseTatiania3 {
+    }
+    number FranticAzureBirgit2 {
+    }
+    string DisturbingTealSherill4 {
+    }
+    hidden_boolean VitalEmeraldFifi2 {
+    }
+    json ChineseGoldGuenevere {
+    }
+  }
+  json StrangeCoralEdiva {
+    _hidden_value = true
+  }
+  string DrivingRoseOralia {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" OriginalChocolateDarsey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json MissingPinkMelly {
+    _hidden_value = true
+  }
+  InfluentialMoccasinLorette3 = 901
+  DistinctTurquoiseTatiania3 = "Slept like a log last night  woke up in the fireplace."
+  FranticAzureBirgit2 = 144
+  DisturbingTealSherill4 = "Dad Im hungry  Hi hungry Im dad"
+  ChineseGoldGuenevere = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

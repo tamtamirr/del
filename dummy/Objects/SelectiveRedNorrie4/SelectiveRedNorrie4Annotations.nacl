@@ -1,0 +1,66 @@
+type dummy.SelectiveRedNorrie4 {
+  annotations {
+    serviceid SlimRoseOlwen4 {
+    }
+    serviceid_number ElaborateRedNicolea {
+    }
+    serviceid OpenTealStefania {
+    }
+    dummy.ExtremeHarlequinJackelyn StingyYellowWinni2 {
+    }
+    boolean PastCoffeeDianemarie3 {
+    }
+    serviceid_number OverallCrimsonEmmalynn3 {
+    }
+    serviceid_number LoudLavenderKial6 {
+    }
+    boolean RearPurpleMureil2 {
+    }
+    json TheoreticalIndigoJeniffer3 {
+    }
+    boolean DeepAmberAllene2 {
+    }
+    hidden_boolean CombativeAquamarineBert3 {
+    }
+    boolean DramaticGoldHadria7 {
+    }
+    dummy.EntitledIvoryJuliann BrilliantGreenIlyse {
+    }
+    serviceid GastricMagentaLavina2 {
+    }
+    boolean PromisingRedNonie4 {
+    }
+    number DecisiveSalmonPepi3 {
+    }
+    serviceid MassGreenIlise3 {
+    }
+    serviceid GreenChocolateDebora3 {
+    }
+    string WesternChocolateDeeyn3 {
+    }
+    serviceid_number MarriedCyanFannie4 {
+    }
+    number FewAmethystAndrei4 {
+    }
+  }
+  SlimRoseOlwen4 = "A steak pun is a rare medium well done."
+  ElaborateRedNicolea = 981
+  OpenTealStefania = "Dad Im hungry  Hi hungry Im dad"
+  StingyYellowWinni2 = false
+  PastCoffeeDianemarie3 = true
+  OverallCrimsonEmmalynn3 = 25
+  LoudLavenderKial6 = 215
+  RearPurpleMureil2 = true
+  TheoreticalIndigoJeniffer3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DeepAmberAllene2 = false
+  DramaticGoldHadria7 = false
+  BrilliantGreenIlyse = file("GentleIndigoJobyna7.txt")
+  GastricMagentaLavina2 = "What creature is smarter than a talking parrot? A spelling bee."
+  PromisingRedNonie4 = true
+  DecisiveSalmonPepi3 = 795
+  MassGreenIlise3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GreenChocolateDebora3 = "What do you call two barracuda fish?  A Pairacuda!"
+  WesternChocolateDeeyn3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MarriedCyanFannie4 = 745
+  FewAmethystAndrei4 = 612
+}

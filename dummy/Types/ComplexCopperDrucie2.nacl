@@ -1,0 +1,90 @@
+type dummy.ComplexCopperDrucie2 {
+  annotations {
+    serviceid_number SingleBronzeCorabella2 {
+    }
+    serviceid_number GiganticAmaranthAdara {
+    }
+    string ModernTealStarla {
+    }
+    json IncredibleRosePatty {
+    }
+    number VariousBrownCorry {
+    }
+    dummy.DEFAULT PresidentialLimeKrystalle2 {
+    }
+  }
+  serviceid EntitledIvoryJuliane {
+    _hidden_value = true
+  }
+  serviceid LikelyBlushClarice2 {
+    _hidden_value = true
+  }
+  serviceid HealthyGoldGracia {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMahalia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSara {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloe {
+    _hidden_value = true
+  }
+  number GloriousScarletRosanne {
+    _hidden_value = true
+  }
+  string CompetitiveGrayHeida {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FineBrownCourtenay2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.StrongBronzeColly StupidTomatoSunshine {
+    MilitaryChocolateDarlleen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SophisticatedJadeKarlie = "What creature is smarter than a talking parrot? A spelling bee."
+    ElectricGreenIngrid = false
+    FatVioletTrixie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AdditionalCopperDotti = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnderlyingLimeKoressa = false
+    MoralCyanFenelia = false
+    BraveMoccasinLucinda = "Why was it called the dark ages? Because of all the knights. "
+    SpectacularMaroonLibbi = false
+    ExpectedLimeLaney = false
+    IsraeliPinkMeriel = 137
+    ExceptionalOliveMadonna = true
+    DefensiveRoseOpal = 784
+    AnxiousHarlequinJanna2 = 488
+    SweetAquaAshien = false
+    LongAmaranthAdi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  boolean DeliciousScarletRodi {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn3 {
+    _hidden_value = true
+  }
+  string GrumpyVioletUrsulina {
+    _hidden_value = true
+  }
+  string FranticAzureBird {
+    _hidden_value = true
+  }
+  string FashionableSapphireRenata4 {
+    _hidden_value = true
+  }
+  SingleBronzeCorabella2 = 688
+  GiganticAmaranthAdara = 951
+  ModernTealStarla = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IncredibleRosePatty = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VariousBrownCorry = 597
+  PresidentialLimeKrystalle2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

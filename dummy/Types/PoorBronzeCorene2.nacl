@@ -1,0 +1,44 @@
+type dummy.PoorBronzeCorene2 {
+  annotations {
+    dummy.DEFAULT StrangeYellowWinny {
+    }
+    string HonChocolateDasya {
+    }
+    json ShyTomatoSue {
+    }
+    string BlueCoffeeDian {
+    }
+    serviceid RealBlushClarine2 {
+    }
+    number BusyCyanFayre2 {
+    }
+  }
+  hidden_boolean GrandEmeraldFran {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PlannedPlumMiranda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DueCopperDosi {
+    _hidden_value = true
+  }
+  boolean RollingSilverRubia {
+    _hidden_value = true
+  }
+  number WorriedBeigeBryna {
+    _hidden_value = true
+  }
+  StrangeYellowWinny = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  HonChocolateDasya = "A steak pun is a rare medium well done."
+  ShyTomatoSue = "To be Frank, I'd have to change my name."
+  BlueCoffeeDian = "I'll tell you what often gets over looked... garden fences."
+  RealBlushClarine2 = "Why is Peter Pan always flying? Because he Neverlands."
+  BusyCyanFayre2 = 276
+  _hidden_value = true
+}

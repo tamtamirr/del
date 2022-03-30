@@ -1,0 +1,115 @@
+type dummy.CorporateEmeraldGarnet5 {
+  annotations {
+    serviceid_number GiganticVioletUlrike {
+    }
+    serviceid VoluntaryGoldGwenette3 {
+    }
+    hidden_boolean DeterminedBeigeCandie {
+    }
+    string LocalBlueCharmane3 {
+    }
+    string PartialOliveLyndel2 {
+    }
+  }
+  json DrabTurquoiseTasha2 {
+    _hidden_value = true
+  }
+  hidden_boolean DistinctHarlequinJanene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AnnoyedAquamarineBennie {
+    _hidden_value = true
+  }
+  hidden_boolean UncomfortablePlumMoina3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string StructuralIvoryJosey {
+    _hidden_value = true
+  }
+  hidden_boolean ArtificialMagentaLenee2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SecretGrayHetty {
+    _hidden_value = true
+  }
+  "Map<dummy.MagnificentWhiteVanya>" MuddyTurquoiseTheodosia {
+    ProspectiveRedNettie = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    CooperativeBeigeCami = 317
+    PlainTurquoiseTheressa = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    WorriedGrayHarmony = 307
+    CrowdedTomatoTania = "Why is Peter Pan always flying? Because he Neverlands."
+    PreciousOrangeMariele = 963
+    UnderlyingLimeKori = 901
+    FragileTealSondra = 916
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCilka {
+    _hidden_value = true
+  }
+  "List<boolean>" ParliamentaryFuchsiaGiacinta3 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorie {
+    _hidden_value = true
+  }
+  string ResidentialIndigoJessamyn {
+    _hidden_value = true
+  }
+  "List<serviceid>" ProudBlueCathee2 {
+    _hidden_value = true
+  }
+  hidden_boolean NoisySilverSadie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ProgressiveOliveMadella3 {
+    _hidden_value = true
+  }
+  json PricklyAquaAurlie2 {
+    _hidden_value = true
+  }
+  dummy.SwissPlumMikaela SleepyTomatoSukey {
+    UndergroundScarletRona = 5
+    SatisfiedHarlequinJeana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DynamicPeachMarlyn = "What creature is smarter than a talking parrot? A spelling bee."
+    UselessRedNina = "Why did the kid cross the playground? To get to the other slide."
+    RegulatorySalmonQuintilla = "How come the stadium got hot after the game? Because all of the fans left."
+    DrivingRoseOralle = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    _hidden_value = true
+  }
+  serviceid VaguePinkMehetabel3 {
+    _hidden_value = true
+  }
+  number MagicOrangeMara {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRasla2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnfortunatePeachMarsha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntenseLavenderKattie3 {
+    _hidden_value = true
+  }
+  GiganticVioletUlrike = 851
+  VoluntaryGoldGwenette3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LocalBlueCharmane3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PartialOliveLyndel2 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

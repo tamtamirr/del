@@ -1,0 +1,62 @@
+type dummy.SeriousBrownDanette3 {
+  annotations {
+    string ResidentialIndigoJessi {
+    }
+    string RuralCoralElsa2 {
+    }
+    number SlowCyanEugenie8 {
+    }
+    string AddedPinkMelinde3 {
+    }
+    dummy.RedundantSalmonPhilippe JustMaroonLissy {
+    }
+    number HissingApricotAnnadiana3 {
+    }
+    number ConfusedAquamarineBertina3 {
+    }
+    serviceid BizarreTanSean6 {
+    }
+    string WickedScarletRoselia5 {
+    }
+    serviceid SuperbMagentaLaurena4 {
+    }
+    string WonderfulYellowZoe8 {
+    }
+    number GoldenGrayHalette4 {
+    }
+    json RespectableRosePearl4 {
+    }
+    boolean StraightforwardMaroonLeyla3 {
+    }
+    boolean VaguePinkMel2 {
+    }
+    boolean CreepyAquamarineBess {
+    }
+    json DisciplinarySilverRycca3 {
+    }
+    json RetiredSilverSarah4 {
+    }
+    number TenderYellowYevette3 {
+    }
+    hidden_boolean OverallCrimsonEmmalyn2 {
+    }
+  }
+  ResidentialIndigoJessi = "Why is Peter Pan always flying? Because he Neverlands."
+  RuralCoralElsa2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SlowCyanEugenie8 = 409
+  AddedPinkMelinde3 = "I'll tell you what often gets over looked... garden fences."
+  HissingApricotAnnadiana3 = 706
+  ConfusedAquamarineBertina3 = 836
+  BizarreTanSean6 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WickedScarletRoselia5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SuperbMagentaLaurena4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WonderfulYellowZoe8 = "Why did the kid cross the playground? To get to the other slide."
+  GoldenGrayHalette4 = 992
+  RespectableRosePearl4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StraightforwardMaroonLeyla3 = false
+  VaguePinkMel2 = false
+  CreepyAquamarineBess = true
+  DisciplinarySilverRycca3 = "Dad Im hungry  Hi hungry Im dad"
+  RetiredSilverSarah4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TenderYellowYevette3 = 154
+}

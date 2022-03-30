@@ -1,0 +1,88 @@
+type dummy.JealousAzureBobby2 {
+  annotations {
+    json ImprovedMagentaLark {
+    }
+    dummy.DEFAULT AgreedTanSelina2 {
+    }
+    boolean AfricanFuchsiaGianina2 {
+    }
+    json FriendlyBlackCarlynn {
+    }
+    serviceid_number DistantIndigoJilly2 {
+    }
+    hidden_boolean IntimateSilverRuth {
+    }
+  }
+  hidden_boolean HonChocolateDasya4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThinCyanEvangeline3 {
+    _hidden_value = true
+  }
+  number RealTomatoStesha3 {
+    _hidden_value = true
+  }
+  dummy.PrivateBronzeCordy TightAquamarineBecky3 {
+    CoolAmaranthAindrea = "To be Frank, I'd have to change my name."
+    CoherentScarletRoselin = "What do you call two barracuda fish?  A Pairacuda!"
+    OverallCrimsonEmmalynn = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IncreasedCrimsonEsther = "Im only familiar with 25 letters in the English language. I dont know why."
+    MightyWhiteVerena = "A steak pun is a rare medium well done."
+    IrishCrimsonErminia = "Why do birds fly south for the winter? Because it's too far to walk."
+    AutomaticLavenderKevyn = false
+    _hidden_value = true
+  }
+  string SpecificBrownDarb3 {
+    _hidden_value = true
+  }
+  hidden_boolean LivelyBlackCasi4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GrossLavenderKetty2 {
+    _hidden_value = true
+  }
+  serviceid FatAmaranthAbigale6 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKarie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GloriousScarletRoseann {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PinkIndigoJennica2 {
+    _hidden_value = true
+  }
+  json ShinyTurquoiseTiffani2 {
+    _hidden_value = true
+  }
+  serviceid_number MarxistSapphireRaine5 {
+    _hidden_value = true
+  }
+  json OnlyBlushClareta {
+    _hidden_value = true
+  }
+  serviceid_number ClassicJadeKaitlin2 {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMarianna4 {
+    _hidden_value = true
+  }
+  serviceid_number LostJadeKaralynn3 {
+    _hidden_value = true
+  }
+  ImprovedMagentaLark = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AgreedTanSelina2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  AfricanFuchsiaGianina2 = false
+  FriendlyBlackCarlynn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DistantIndigoJilly2 = 313
+  _hidden_value = true
+}

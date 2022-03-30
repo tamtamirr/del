@@ -1,0 +1,122 @@
+type dummy.DelightfulSilverRosy {
+  annotations {
+    serviceid ConfidentialScarletRodina {
+    }
+    boolean SpecifiedSalmonPortia2 {
+    }
+    string StillIndigoJoann2 {
+    }
+    serviceid_number ForthcomingPeachMarquita2 {
+    }
+    number GentleBlackCarmelita2 {
+    }
+    boolean WittyBlueCelene2 {
+    }
+  }
+  json ImmediateCrimsonEmeline3 {
+    _hidden_value = true
+  }
+  string ZealousBlueCelestine {
+    _hidden_value = true
+  }
+  json WonderfulBlueCeleste2 {
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi BitterJadeKasey {
+    SillyYellowWini = 211
+    CruelAquamarineBessy = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    TameYellowYalonda = 462
+    RareWhiteWanda = 917
+    SpareMaroonLillis = "Whoever invented the knock-knock joke should get a no bell prize."
+    StupidGreenIzabel = 543
+    MaximumGreenIlyssa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    TerritorialSalmonPriscella = "Why didnt the skeleton cross the road? Because he had no guts."
+    VariedRedNoreen = 252
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 993
+    IntenseLavenderKatuscha = 506
+    SubtleMoccasinLucie = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid MassGreenIlla2 {
+    _hidden_value = true
+  }
+  string PalestinianTanShanda {
+    _hidden_value = true
+  }
+  number SpontaneousTanShaun4 {
+    _hidden_value = true
+  }
+  string KindBlackCaryn2 {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGerianne {
+    _hidden_value = true
+  }
+  json ObligedOrangeMarcelline3 {
+    _hidden_value = true
+  }
+  serviceid DistantIndigoJilli {
+    _hidden_value = true
+  }
+  hidden_boolean PurringApricotAnnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DarkTurquoiseTarrah2 {
+    _hidden_value = true
+  }
+  serviceid RelaxedPlumMinni6 {
+    _hidden_value = true
+  }
+  dummy.KeenGrayHannah StickyAquamarineBeatrisa4 {
+    ExoticScarletRina = true
+    LiquidRoseOttilie = 454
+    WidespreadHarlequinJacquie = "Why did the kid cross the playground? To get to the other slide."
+    HolyIndigoJemie = 687
+    SlowAmethystAnalise = "Why is Peter Pan always flying? Because he Neverlands."
+    MarginalLimeKriste = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    AcuteLavenderKerianne = 609
+    HugeCoffeeDoralynne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ShrillApricotAntonella = 778
+    PublicBlushChrysa = "Why didnt the skeleton cross the road? Because he had no guts."
+    PleasantIvoryJosee = 797
+    ExcessiveOliveMadelena = "What do you call two barracuda fish?  A Pairacuda!"
+    ScaredSalmonRafaelita2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    IndustrialBrownDanny = 416
+    DoubtfulRosePansie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    InteriorPurpleNathalie = 71
+    BlackVioletTonya = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    CurvedAmberAlix = 772
+    _hidden_value = true
+  }
+  string ComingSilverSammy3 {
+    _hidden_value = true
+  }
+  number GratefulIvoryJorey4 {
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle2 {
+    _hidden_value = true
+  }
+  string CooingAmethystAngelique2 {
+    _hidden_value = true
+  }
+  string FamousCoralElga {
+    _hidden_value = true
+  }
+  ConfidentialScarletRodina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SpecifiedSalmonPortia2 = false
+  StillIndigoJoann2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ForthcomingPeachMarquita2 = 361
+  GentleBlackCarmelita2 = 100
+  WittyBlueCelene2 = false
+  _hidden_value = true
+}

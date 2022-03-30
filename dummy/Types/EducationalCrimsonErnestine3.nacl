@@ -1,0 +1,79 @@
+type dummy.EducationalCrimsonErnestine3 {
+  annotations {
+    boolean DesperateIvoryJunia {
+    }
+    dummy.DEFAULT SorryBrownDanyelle4 {
+    }
+    serviceid RomanticMagentaLeandra3 {
+    }
+  }
+  boolean EnormousFuchsiaGinny2 {
+    _hidden_value = true
+  }
+  json FrozenScarletRosabel3 {
+    _hidden_value = true
+  }
+  dummy.RoastedWhiteWenonah ProfessionalChocolateDayle3 {
+    WhiteBronzeClotilda = "Did you know that protons have mass? I didn't even know they were catholic."
+    MutualLimeKimberli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    BreakableTealShir = "What do you call two barracuda fish?  A Pairacuda!"
+    AgreedTanSelestina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObnoxiousAzureBrandie5 {
+    _hidden_value = true
+  }
+  boolean ColourfulScarletRosalia4 {
+    _hidden_value = true
+  }
+  number GlamorousTurquoiseTerese {
+    _hidden_value = true
+  }
+  json FlatGrayHannis2 {
+    _hidden_value = true
+  }
+  dummy.AlrightGoldGoldina SouthernCyanEvey3 {
+    RivalPurpleNara = 338
+    SingleBronzeCoral = 532
+    ProfoundPinkMerlina = 13
+    RelativeGoldGui = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AngryFuchsiaGilli = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    QuickestWhiteVyky = "Whoever invented the knock-knock joke should get a no bell prize."
+    AgreedTanSelia = "To be Frank, I'd have to change my name."
+    IntenseLavenderKattie = true
+    ExcitingGreenIvett = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  boolean ExpensiveCrimsonErnestine2 {
+    _hidden_value = true
+  }
+  json EconomicBlushClarabelle3 {
+    _hidden_value = true
+  }
+  serviceid_number PrintedRedNevsa4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyBeigeBrooke4 {
+    _hidden_value = true
+  }
+  "Map<boolean>" NakedMagentaLebbie3 {
+    _hidden_value = true
+  }
+  hidden_boolean NewWhiteVeronique3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ThoughtlessBeigeBrita {
+    _hidden_value = true
+  }
+  number SweetAquaAshla3 {
+    _hidden_value = true
+  }
+  DesperateIvoryJunia = true
+  SorryBrownDanyelle4 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  RomanticMagentaLeandra3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

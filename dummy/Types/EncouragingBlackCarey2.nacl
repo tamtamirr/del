@@ -1,0 +1,89 @@
+type dummy.EncouragingBlackCarey2 {
+  annotations {
+    serviceid StrongAquaAryn2 {
+    }
+    boolean SharpFuchsiaGeorgine2 {
+    }
+    serviceid CausalSapphireRene3 {
+    }
+    serviceid ColdAmaranthAilyn {
+    }
+  }
+  hidden_boolean BadBlushCicily2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasyTealSioux {
+    _hidden_value = true
+  }
+  hidden_boolean InteriorPurpleNathalie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelectedPlumMillicent {
+    _hidden_value = true
+  }
+  json GreatAmaranthAddia4 {
+    _hidden_value = true
+  }
+  json ReadyChocolateDebor2 {
+    _hidden_value = true
+  }
+  json RichTomatoStoddard4 {
+    _hidden_value = true
+  }
+  json CivilianSapphireRanda6 {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalChocolateDeidre2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IndirectPeachMarty {
+    _hidden_value = true
+  }
+  serviceid CombinedOliveMaighdiln6 {
+    _hidden_value = true
+  }
+  string CrucialFuchsiaGennie4 {
+    _hidden_value = true
+  }
+  serviceid_number GrievingAzureBlakeley {
+    _hidden_value = true
+  }
+  string GloriousScarletRosanne4 {
+    _hidden_value = true
+  }
+  boolean AverageTomatoTabbatha4 {
+    _hidden_value = true
+  }
+  json ViolentIvoryJoletta {
+    _hidden_value = true
+  }
+  serviceid_number CriminalFuchsiaGeorgia3 {
+    _hidden_value = true
+  }
+  serviceid_number ExperiencedMagentaLauralee2 {
+    _hidden_value = true
+  }
+  string ShortBronzeColette {
+    _hidden_value = true
+  }
+  string CivicTanShelley3 {
+    _hidden_value = true
+  }
+  serviceid QuietCoralElaina5 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBlackCarola3 {
+    _hidden_value = true
+  }
+  StrongAquaAryn2 = "Why did the tomato blush? Because it saw the salad dressing."
+  SharpFuchsiaGeorgine2 = true
+  CausalSapphireRene3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ColdAmaranthAilyn = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

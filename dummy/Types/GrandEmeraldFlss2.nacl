@@ -1,0 +1,84 @@
+type dummy.GrandEmeraldFlss2 {
+  annotations {
+    serviceid BloodyTomatoTally4 {
+    }
+    number AverageTomatoTabbatha5 {
+    }
+    number EmotionalGrayHester2 {
+    }
+    json LabourBrownDaffy {
+    }
+    serviceid_number PlasticAquaAurelie2 {
+    }
+  }
+  serviceid_number SquealingApricotArabel3 {
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdella {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie OccasionalIvoryJuliette3 {
+    _hidden_value = true
+  }
+  hidden_boolean PreciseIndigoJobie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json OkSapphireRhianon4 {
+    _hidden_value = true
+  }
+  string SimilarBronzeConstancia {
+    _hidden_value = true
+  }
+  json BadVioletToma5 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMiquela3 {
+    _hidden_value = true
+  }
+  number PricklyWhiteVivi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ApparentCyanFay3 {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlthea {
+    _hidden_value = true
+  }
+  boolean SuccessfulBlueCatriona {
+    _hidden_value = true
+  }
+  serviceid_number FancyTurquoiseTedi5 {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordanna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HelpfulBlackCaroline {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamie3 {
+    _hidden_value = true
+  }
+  serviceid PerfectCrimsonEttie {
+    _hidden_value = true
+  }
+  serviceid EquivalentJadeKakalina2 {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGaye {
+    _hidden_value = true
+  }
+  BloodyTomatoTally4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AverageTomatoTabbatha5 = 531
+  EmotionalGrayHester2 = 21
+  LabourBrownDaffy = "What creature is smarter than a talking parrot? A spelling bee."
+  PlasticAquaAurelie2 = 545
+  _hidden_value = true
+}

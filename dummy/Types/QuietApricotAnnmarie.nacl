@@ -1,0 +1,87 @@
+type dummy.QuietApricotAnnmarie {
+  annotations {
+    serviceid_number SelectSalmonPhilippe {
+    }
+    hidden_boolean AfraidCrimsonEmmie2 {
+    }
+    serviceid_number DizzyVioletTrina {
+    }
+    serviceid NaturalBrownCrysta {
+    }
+  }
+  hidden_boolean ExtensiveGoldGloriane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number PricklyAquaAuroora {
+    _hidden_value = true
+  }
+  boolean FreeBronzeCodi {
+    _hidden_value = true
+  }
+  hidden_boolean InterimOrangeMalory2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string MadHarlequinJanet {
+    _hidden_value = true
+  }
+  string GenerousLavenderKaylee {
+    _hidden_value = true
+  }
+  serviceid_number ParallelMoccasinLudovika2 {
+    _hidden_value = true
+  }
+  serviceid_number SmoothIndigoJemmy {
+    _hidden_value = true
+  }
+  serviceid_number AdministrativeGreenHollyanne {
+    _hidden_value = true
+  }
+  serviceid ShockedPinkMelisandra2 {
+    _hidden_value = true
+  }
+  "List<string>" RightBlushCherise2 {
+    _hidden_value = true
+  }
+  boolean DramaticGoldHadria2 {
+    _hidden_value = true
+  }
+  hidden_boolean AngryAquamarineBenetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HeavyChocolateDawn2 {
+    _hidden_value = true
+  }
+  string TechnologicalOrangeMaribel2 {
+    _hidden_value = true
+  }
+  serviceid SuccessfulChocolateDarya2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki2 {
+    _hidden_value = true
+  }
+  number MilitaryChocolateDaron {
+    _hidden_value = true
+  }
+  boolean CognitiveSalmonQueenie {
+    _hidden_value = true
+  }
+  hidden_boolean SolidGreenIdalina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string OutstandingTealSteffi {
+    _hidden_value = true
+  }
+  SelectSalmonPhilippe = 162
+  DizzyVioletTrina = 286
+  NaturalBrownCrysta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

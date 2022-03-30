@@ -1,0 +1,78 @@
+type dummy.ExtraCoffeeDiane3 {
+  annotations {
+    number IntensiveMoccasinLura {
+    }
+    string CruelPlumMicaela {
+    }
+    dummy.DEFAULT StrictLavenderKatharine {
+    }
+    serviceid_number BroadCoralElisabetta4 {
+    }
+    hidden_boolean FollowingBrownCyndie2 {
+    }
+  }
+  "List<number>" SupremeGreenIsabel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NumerousHarlequinJanaye3 {
+    _hidden_value = true
+  }
+  string DeepAmberAllegra {
+    _hidden_value = true
+  }
+  number IraqiOliveMadelle3 {
+    _hidden_value = true
+  }
+  boolean EducationalCrimsonEryn3 {
+    _hidden_value = true
+  }
+  serviceid_number LittleBlushChiquita {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJess {
+    _hidden_value = true
+  }
+  hidden_boolean CurvedAmberAliza2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AggregateScarletRobbie2 {
+    _hidden_value = true
+  }
+  json ScaredSapphireRahel {
+    _hidden_value = true
+  }
+  boolean RetiredSilverSaraann2 {
+    _hidden_value = true
+  }
+  boolean WorriedBeigeBrynne {
+    _hidden_value = true
+  }
+  serviceid_number DutchLavenderKendre2 {
+    _hidden_value = true
+  }
+  dummy.AdverseSapphireRanna UnusualGoldGladi3 {
+    CleanTomatoTami = 642
+    DreadfulPinkMerrile2 = 240
+    CompulsoryOrangeMalorie = false
+    VividTanShawna = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  string TallYellowXenia2 {
+    _hidden_value = true
+  }
+  number BrilliantGreenIlse3 {
+    _hidden_value = true
+  }
+  json CalmPurpleNancey3 {
+    _hidden_value = true
+  }
+  IntensiveMoccasinLura = 680
+  CruelPlumMicaela = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StrictLavenderKatharine = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  BroadCoralElisabetta4 = 118
+  _hidden_value = true
+}

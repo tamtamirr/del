@@ -1,0 +1,52 @@
+type dummy.VeryCoralElfreda {
+  annotations {
+    boolean LegalBrownDagmar {
+    }
+    dummy.DEFAULT RegulatorySalmonQuintilla2 {
+    }
+    hidden_boolean RadicalGrayHelena {
+    }
+    serviceid CorporateEmeraldGarland2 {
+    }
+    boolean ObnoxiousAzureBrandi {
+    }
+    boolean PossibleBlushChery {
+    }
+    json DelightedIvoryJulie {
+    }
+  }
+  hidden_boolean BroadCoralElisabetta2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number UncomfortablePlumMoina {
+    _hidden_value = true
+  }
+  serviceid BeneficialPlumMonah2 {
+    _hidden_value = true
+  }
+  serviceid NovelScarletRoshelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean SolarRosePammi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PeculiarPlumMichelina {
+    _hidden_value = true
+  }
+  json ManagingLimeKitti {
+    _hidden_value = true
+  }
+  LegalBrownDagmar = false
+  RegulatorySalmonQuintilla2 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  CorporateEmeraldGarland2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ObnoxiousAzureBrandi = false
+  PossibleBlushChery = true
+  DelightedIvoryJulie = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

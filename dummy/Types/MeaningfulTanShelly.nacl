@@ -1,0 +1,80 @@
+type dummy.MeaningfulTanShelly {
+  annotations {
+    serviceid SevereEmeraldGabriellia {
+    }
+    hidden_boolean BeautifulCoffeeDita {
+    }
+    number ThenSalmonPhilomena {
+    }
+    hidden_boolean VerticalOliveLynnette {
+    }
+    string DeepAmberAlla {
+    }
+    serviceid_number SkinnyAmberAlta {
+    }
+    boolean EnormousFuchsiaGinny {
+    }
+  }
+  boolean JollyVioletValida {
+    _hidden_value = true
+  }
+  hidden_boolean OccupationalOliveMaddie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number GlobalGrayHerminia {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthia {
+    _hidden_value = true
+  }
+  serviceid PregnantLimeKizzee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AmazingMoccasinLizette3 {
+    _hidden_value = true
+  }
+  boolean IsraeliPinkMeridith {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ReligiousCoralElena2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DeafIvoryJoya2 {
+    _hidden_value = true
+  }
+  json MadHarlequinJanessa {
+    _hidden_value = true
+  }
+  dummy.ImportantTealSophi AliveTealSherline2 {
+    PrimeBrownDanielle = 407
+    FilthyTurquoiseTera = 841
+    ExuberantBlackCarleen = "I'll tell you what often gets over looked... garden fences."
+    DutchLavenderKelsy = 861
+    SpareMaroonLilli = 35
+    OldAmethystAmie2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DominantIndigoJenda = 330
+    AncientEmeraldFlora = 330
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowZitella2 {
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna StickyAquaArlyne2 {
+    ColonialPeachMaure = "Why didnt the skeleton cross the road? Because he had no guts."
+    GloriousBlackCarmine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  string LtdCoralElna2 {
+    _hidden_value = true
+  }
+  SevereEmeraldGabriellia = "Why was it called the dark ages? Because of all the knights. "
+  ThenSalmonPhilomena = 779
+  DeepAmberAlla = "Why is Peter Pan always flying? Because he Neverlands."
+  SkinnyAmberAlta = 310
+  EnormousFuchsiaGinny = true
+  _hidden_value = true
+}

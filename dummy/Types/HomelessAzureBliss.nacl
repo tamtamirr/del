@@ -1,0 +1,24 @@
+type dummy.HomelessAzureBliss {
+  annotations {
+    number AmericanBronzeCorrianne2 {
+    }
+    dummy.DEFAULT SureBlushCindi {
+    }
+    hidden_boolean ContemporaryFuchsiaGeorgianna3 {
+    }
+    number AdorableTomatoSydel3 {
+    }
+    boolean CheerfulSapphireRhodie4 {
+    }
+  }
+  string TanYellowYettie {
+    _hidden_value = true
+  }
+  AmericanBronzeCorrianne2 = 20
+  SureBlushCindi = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  AdorableTomatoSydel3 = 652
+  CheerfulSapphireRhodie4 = false
+  _hidden_value = true
+}

@@ -1,0 +1,62 @@
+type dummy.GreekIndigoJoana5 {
+  annotations {
+    boolean MysteriousAzureBonita3 {
+    }
+    string AnxiousHarlequinJanka2 {
+    }
+    dummy.EntitledIvoryJuliann FavourablePinkMercedes {
+    }
+    dummy.AnonymousSapphireRaynell2 FullBlushChristen2 {
+    }
+    boolean ShrillApricotAntonella2 {
+    }
+    number BlindIvoryJudi8 {
+    }
+    boolean HomelessSilverSalome2 {
+    }
+    number NumerousHarlequinJanaye5 {
+    }
+    dummy.FaintAmethystAnica AfraidAquamarineBenedetta3 {
+    }
+    dummy.ComingSilverSammy2 LongBlueChelsy3 {
+    }
+    string InlandSalmonPrudi {
+    }
+    serviceid_number EagerBeigeCandie {
+    }
+    number LittleAmaranthAdey {
+    }
+    serviceid_number FamiliarCrimsonEthel3 {
+    }
+    serviceid_number GayOrangeMarigold2 {
+    }
+    json ThenSalmonPhilomena3 {
+    }
+    hidden_boolean IntellectualJadeKalila3 {
+    }
+    serviceid_number TastelessAquaAshlee3 {
+    }
+    hidden_boolean GreatBlueCharis2 {
+    }
+    serviceid_number BlueVioletTorrie {
+    }
+    serviceid_number StrictLavenderKatha4 {
+    }
+  }
+  MysteriousAzureBonita3 = true
+  AnxiousHarlequinJanka2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FavourablePinkMercedes = file("UnconsciousSapphireRaven7.txt")
+  ShrillApricotAntonella2 = true
+  BlindIvoryJudi8 = 321
+  HomelessSilverSalome2 = false
+  NumerousHarlequinJanaye5 = 227
+  InlandSalmonPrudi = "Why did the kid cross the playground? To get to the other slide."
+  EagerBeigeCandie = 869
+  LittleAmaranthAdey = 945
+  FamiliarCrimsonEthel3 = 237
+  GayOrangeMarigold2 = 882
+  ThenSalmonPhilomena3 = "Why was it called the dark ages? Because of all the knights. "
+  TastelessAquaAshlee3 = 789
+  BlueVioletTorrie = 228
+  StrictLavenderKatha4 = 387
+}

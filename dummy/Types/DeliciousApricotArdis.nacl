@@ -1,0 +1,48 @@
+type dummy.DeliciousApricotArdis {
+  annotations {
+    serviceid BeneficialPlumMonah {
+    }
+    serviceid_number NiceWhiteVicki {
+    }
+    serviceid WickedScarletRoselia {
+    }
+    hidden_boolean GentleIndigoJobyna {
+    }
+    number HelplessAzureBlanch {
+    }
+  }
+  json AlliedPlumMisha {
+    _hidden_value = true
+  }
+  serviceid_number FunnyEmeraldGabbi {
+    _hidden_value = true
+  }
+  string AdministrativeGreenHonoria {
+    _hidden_value = true
+  }
+  serviceid SpottyYellowWrennie {
+    _hidden_value = true
+  }
+  boolean StupidTomatoSusan {
+    _hidden_value = true
+  }
+  serviceid SteadyAquamarineBea {
+    _hidden_value = true
+  }
+  hidden_boolean EqualCrimsonEmilia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UrbanCyanFallon {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IndividualBrownCrystie {
+    _hidden_value = true
+  }
+  BeneficialPlumMonah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NiceWhiteVicki = 160
+  WickedScarletRoselia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HelplessAzureBlanch = 457
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type dummy.StatutoryGrayHarriette is boolean {
+  annotations {
+    json BeneficialPlumMonika {
+    }
+    json PossibleBlushCheryl {
+    }
+    serviceid SpotlessTurquoiseTilly {
+    }
+    dummy.DEFAULT SadYellowWilletta {
+    }
+    string RottenApricotArielle {
+    }
+    hidden_boolean WonderfulEmeraldFlossi {
+    }
+    boolean WetGrayHedi {
+    }
+    boolean PrettyWhiteVirgie {
+    }
+    hidden_boolean IndependentChocolateDella {
+    }
+    serviceid_number NetGoldGlen {
+    }
+    number FreeBronzeCody {
+    }
+  }
+  BeneficialPlumMonika = "What creature is smarter than a talking parrot? A spelling bee."
+  PossibleBlushCheryl = "Dad Im hungry  Hi hungry Im dad"
+  SpotlessTurquoiseTilly = "Im only familiar with 25 letters in the English language. I dont know why."
+  SadYellowWilletta = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  RottenApricotArielle = "Whoever invented the knock-knock joke should get a no bell prize."
+  WetGrayHedi = false
+  PrettyWhiteVirgie = true
+  NetGoldGlen = 690
+  FreeBronzeCody = 842
+}

@@ -1,0 +1,141 @@
+type dummy.TypicalEmeraldFrancisca {
+  annotations {
+    hidden_boolean DynamicPeachMarna2 {
+    }
+    json HeavyChocolateDavita2 {
+    }
+    string TastelessAquaAshley {
+    }
+    hidden_boolean MarxistSapphireRakel2 {
+    }
+    boolean SimpleBronzeCornela {
+    }
+  }
+  string CreepyAquamarineBeryl2 {
+    _hidden_value = true
+  }
+  dummy.ImportantTealSophi WorriedGrayHarmony2 {
+    PrimeBrownDanielle = 707
+    FilthyTurquoiseTera = 671
+    ExuberantBlackCarleen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DutchLavenderKelsy = 664
+    SpareMaroonLilli = 833
+    OldAmethystAmie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DominantIndigoJenda = 781
+    AncientEmeraldFlora = 302
+    _hidden_value = true
+  }
+  dummy.LatinLimeKonstanze PrincipalGoldGreer {
+    ResidentSalmonRae = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CrazyMoccasinLorrayne = "What creature is smarter than a talking parrot? A spelling bee."
+    LevelJadeKally2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WellFuchsiaGipsy = "A steak pun is a rare medium well done."
+    ProperCoralElisabet = 387
+    OutstandingIndigoJenna = 379
+    PositiveCoffeeDona = 837
+    ThoughtlessBeigeBrit = "Why was it called the dark ages? Because of all the knights. "
+    CrowdedTomatoTania2 = 235
+    FairCoffeeDinnie = 49
+    PeacefulOrangeMargret = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ToxicSalmonPhedra = 928
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RoughGreenIdelle = "Why was it called the dark ages? Because of all the knights. "
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    IntegralSalmonPhilly = "To be Frank, I'd have to change my name."
+    MidPinkMelissa = "What creature is smarter than a talking parrot? A spelling bee."
+    SurprisingGreenIanthe = 985
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    KindVioletValma = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RainyAquaAurora = true
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  dummy.CharmingBeigeCallida ImmenseAmaranthAdelice3 {
+    LonelyAzureBobette = "How come the stadium got hot after the game? Because all of the fans left."
+    IndustrialBrownDanya = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DelightfulBeigeCandi = 945
+    PrettyIndigoJennilee = false
+    RollingSilverRubie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MinimalPlumMorgen = 991
+    IntegratedOliveMadonna = true
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 768
+    BusyCyanFayina = 390
+    _hidden_value = true
+  }
+  string RacialPlumMicki {
+    _hidden_value = true
+  }
+  boolean EventualTanSharona3 {
+    _hidden_value = true
+  }
+  serviceid NetGoldGleda4 {
+    _hidden_value = true
+  }
+  serviceid_number BrokenAmaranthAile2 {
+    _hidden_value = true
+  }
+  string RapidAmethystAmy3 {
+    _hidden_value = true
+  }
+  number AwareChocolateDasi {
+    _hidden_value = true
+  }
+  json AncientEmeraldFlorance3 {
+    _hidden_value = true
+  }
+  json FundamentalFuchsiaGenevieve6 {
+    _hidden_value = true
+  }
+  number BroadCoralElise {
+    _hidden_value = true
+  }
+  serviceid IntellectualJadeKalina3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SouthernCyanEvelyn2 {
+    _hidden_value = true
+  }
+  json TenderRedOdelinda {
+    _hidden_value = true
+  }
+  serviceid_number UnawareSapphireReena {
+    _hidden_value = true
+  }
+  json ExoticScarletRikki3 {
+    _hidden_value = true
+  }
+  serviceid_number NearbyLimeKoral2 {
+    _hidden_value = true
+  }
+  json SillyIvoryJoell {
+    _hidden_value = true
+  }
+  boolean MultipleLimeKinna {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanis2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CatholicHarlequinJamie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousApricotArdenia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  HeavyChocolateDavita2 = "How come the stadium got hot after the game? Because all of the fans left."
+  TastelessAquaAshley = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SimpleBronzeCornela = false
+  _hidden_value = true
+}

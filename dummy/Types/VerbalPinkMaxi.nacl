@@ -1,0 +1,31 @@
+type dummy.VerbalPinkMaxi {
+  annotations {
+    number PreferredTanSavina {
+    }
+    string UncertainMagentaLelia2 {
+    }
+    hidden_boolean FierceAzureBilly {
+    }
+    dummy.IllAzureBobbee UnpleasantRedNora2 {
+    }
+    json DizzyVioletTricia2 {
+    }
+    string OppositeHarlequinJaneczka2 {
+    }
+  }
+  serviceid MightyWhiteVerene {
+    _hidden_value = true
+  }
+  serviceid_number InvisibleRoseOrelia {
+    _hidden_value = true
+  }
+  string CoolGreenIolande2 {
+    _hidden_value = true
+  }
+  PreferredTanSavina = 619
+  UncertainMagentaLelia2 = "What do you call two barracuda fish?  A Pairacuda!"
+  UnpleasantRedNora2 = true
+  DizzyVioletTricia2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  OppositeHarlequinJaneczka2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

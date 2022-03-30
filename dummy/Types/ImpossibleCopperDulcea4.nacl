@@ -1,0 +1,56 @@
+type dummy.ImpossibleCopperDulcea4 {
+  annotations {
+    string SweetGreenHolly {
+    }
+    serviceid_number BlackVioletTonye3 {
+    }
+    serviceid FancyTurquoiseTedi6 {
+    }
+    serviceid GentleBlackCarmelita4 {
+    }
+    number LegitimatePinkMaye {
+    }
+  }
+  number FutureCoffeeDoloritas {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTomatoSusana2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PrettyIndigoJennine2 {
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella4 {
+    _hidden_value = true
+  }
+  string ReliableLavenderKim2 {
+    _hidden_value = true
+  }
+  serviceid MeaningfulTanShena2 {
+    _hidden_value = true
+  }
+  serviceid RussianCyanFelipa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProposedGoldGwendolin3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SupportingSilverSamantha2 {
+    _hidden_value = true
+  }
+  SweetGreenHolly = "What do you call two barracuda fish?  A Pairacuda!"
+  BlackVioletTonye3 = 849
+  FancyTurquoiseTedi6 = "Dad Im hungry  Hi hungry Im dad"
+  GentleBlackCarmelita4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LegitimatePinkMaye = 617
+  _hidden_value = true
+}

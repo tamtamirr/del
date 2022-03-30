@@ -1,0 +1,50 @@
+type dummy.ManyAmethystAngel is number {
+  annotations {
+    boolean MinorEmeraldGabie {
+    }
+    hidden_boolean ArrogantAquamarineBerget {
+    }
+    number SplendidOrangeMandy {
+    }
+    serviceid_number StaticSapphireRebeka {
+    }
+    json CircularRoseOrly {
+    }
+    boolean OrangeWhiteVinny {
+    }
+    serviceid PureGrayHermia {
+    }
+    json BreezyAmaranthAigneis {
+    }
+    boolean MiserableSalmonRachael {
+    }
+    boolean DomesticCopperEaster {
+    }
+    serviceid_number KoreanSapphireRasia {
+    }
+    serviceid_number PrivateBronzeCoreen {
+    }
+    serviceid ShockedPinkMelisandra {
+    }
+    serviceid_number ObedientBlackCassondra {
+    }
+    number RapidAmethystAmy2 {
+    }
+    hidden_boolean FirmGrayHedda {
+    }
+  }
+  MinorEmeraldGabie = true
+  SplendidOrangeMandy = 817
+  StaticSapphireRebeka = 253
+  CircularRoseOrly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OrangeWhiteVinny = false
+  PureGrayHermia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BreezyAmaranthAigneis = "I'll tell you what often gets over looked... garden fences."
+  MiserableSalmonRachael = false
+  DomesticCopperEaster = true
+  KoreanSapphireRasia = 827
+  PrivateBronzeCoreen = 696
+  ShockedPinkMelisandra = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ObedientBlackCassondra = 519
+  RapidAmethystAmy2 = 646
+}

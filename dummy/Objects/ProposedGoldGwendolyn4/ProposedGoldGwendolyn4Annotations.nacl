@@ -1,0 +1,65 @@
+type dummy.ProposedGoldGwendolyn4 {
+  annotations {
+    string BadBlushCicely {
+    }
+    hidden_boolean EmpiricalPinkMeara3 {
+    }
+    dummy.RoastedWhiteWenonah ColorfulTomatoTandy {
+    }
+    boolean StrangeYellowWinni2 {
+    }
+    dummy.EntitledIvoryJuliann InadequateLavenderKeeley2 {
+    }
+    number AdvancedHarlequinJacintha {
+    }
+    string QuickAmethystAmil2 {
+    }
+    boolean SensibleIvoryJordain3 {
+    }
+    number ExpensiveCrimsonErna {
+    }
+    json AttractiveCyanFiann {
+    }
+    serviceid StrangeCoralEdna4 {
+    }
+    number ShyScarletRosemonde4 {
+    }
+    hidden_boolean CharmingPlumMorgana3 {
+    }
+    serviceid ReligiousCoralEleen {
+    }
+    serviceid_number ReducedPinkMia3 {
+    }
+    number DizzyVioletTressa2 {
+    }
+    json ConventionalGoldGussie4 {
+    }
+    dummy.SpectacularMaroonLibbie MagicOrangeManya6 {
+    }
+    json ReasonableCrimsonEmelda5 {
+    }
+    json HappyBrownDaisie2 {
+    }
+    json CoherentScarletRoselin3 {
+    }
+  }
+  BadBlushCicely = "Why is Peter Pan always flying? Because he Neverlands."
+  ColorfulTomatoTandy = file("PowerfulCopperDru3.txt")
+  StrangeYellowWinni2 = true
+  InadequateLavenderKeeley2 = file("SoundAmethystAngelica3.txt")
+  AdvancedHarlequinJacintha = 140
+  QuickAmethystAmil2 = "Dad Im hungry  Hi hungry Im dad"
+  SensibleIvoryJordain3 = true
+  ExpensiveCrimsonErna = 98
+  AttractiveCyanFiann = "Im only familiar with 25 letters in the English language. I dont know why."
+  StrangeCoralEdna4 = "To be Frank, I'd have to change my name."
+  ShyScarletRosemonde4 = 96
+  ReligiousCoralEleen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ReducedPinkMia3 = 233
+  DizzyVioletTressa2 = 841
+  ConventionalGoldGussie4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MagicOrangeManya6 = 806
+  ReasonableCrimsonEmelda5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  HappyBrownDaisie2 = "A steak pun is a rare medium well done."
+  CoherentScarletRoselin3 = "Why was it called the dark ages? Because of all the knights. "
+}

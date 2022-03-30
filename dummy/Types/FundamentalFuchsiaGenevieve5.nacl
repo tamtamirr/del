@@ -1,0 +1,63 @@
+type dummy.FundamentalFuchsiaGenevieve5 {
+  annotations {
+    serviceid ImpressiveIndigoJessa4 {
+    }
+    serviceid_number DistinctTurquoiseTatum2 {
+    }
+    dummy.DEFAULT GleamingTurquoiseTeriann {
+    }
+    serviceid ElegantMoccasinLucille {
+    }
+    json TenderYellowYoko {
+    }
+    string DryAmberAlex {
+    }
+  }
+  hidden_boolean WeakFuchsiaGayle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExperimentalLavenderKatine2 {
+    _hidden_value = true
+  }
+  number AdverseSapphireRaphaela3 {
+    _hidden_value = true
+  }
+  json TechnologicalOrangeMarianna3 {
+    _hidden_value = true
+  }
+  number MarriedCyanFanni3 {
+    _hidden_value = true
+  }
+  json ModernBrownDacy2 {
+    _hidden_value = true
+  }
+  serviceid_number IsolatedPeachMarjy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SeriousBrownDanella4 {
+    _hidden_value = true
+  }
+  "List<serviceid>" RenewedSilverSandye {
+    _hidden_value = true
+  }
+  serviceid IndividualBrownCrystie3 {
+    _hidden_value = true
+  }
+  string JustMaroonLissa {
+    _hidden_value = true
+  }
+  json ElectronicGreenInessa {
+    _hidden_value = true
+  }
+  ImpressiveIndigoJessa4 = "Why is Peter Pan always flying? Because he Neverlands."
+  DistinctTurquoiseTatum2 = 139
+  GleamingTurquoiseTeriann = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ElegantMoccasinLucille = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TenderYellowYoko = "Whoever invented the knock-knock joke should get a no bell prize."
+  DryAmberAlex = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

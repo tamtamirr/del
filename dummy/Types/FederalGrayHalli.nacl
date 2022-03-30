@@ -1,0 +1,42 @@
+type dummy.FederalGrayHalli is number {
+  annotations {
+    serviceid_number DullVioletTrina {
+    }
+    number PunyAmaranthAeriel {
+    }
+    json YoungBlueCheri {
+    }
+    json InquisitiveTealStacie {
+    }
+    boolean ExtraCoffeeDiandra2 {
+    }
+    hidden_boolean NewWhiteVeronika {
+    }
+    boolean SensibleIvoryJordan {
+    }
+    hidden_boolean EthnicLavenderKaye {
+    }
+    hidden_boolean OutrageousAzureBrandy {
+    }
+    dummy.DEFAULT DeadTealSile {
+    }
+    boolean LexicalSilverSadella {
+    }
+    serviceid_number SuddenGoldGusty {
+    }
+    serviceid DeadTealSigrid {
+    }
+  }
+  DullVioletTrina = 737
+  PunyAmaranthAeriel = 226
+  YoungBlueCheri = "Why do birds fly south for the winter? Because it's too far to walk."
+  InquisitiveTealStacie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExtraCoffeeDiandra2 = true
+  SensibleIvoryJordan = true
+  DeadTealSile = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  LexicalSilverSadella = true
+  SuddenGoldGusty = 561
+  DeadTealSigrid = "Why did the kid cross the playground? To get to the other slide."
+}

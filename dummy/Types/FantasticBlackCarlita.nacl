@@ -1,0 +1,87 @@
+type dummy.FantasticBlackCarlita {
+  annotations {
+    string PrivateBronzeCordula2 {
+    }
+    number TenderRedOdele {
+    }
+    serviceid_number DeafIvoryJoy {
+    }
+    serviceid SpottyYellowWylma {
+    }
+  }
+  "List<boolean>" InfluentialMoccasinLorene2 {
+    _hidden_value = true
+  }
+  dummy.LatinLimeKonstanze ProgressiveOliveMadella2 {
+    ResidentSalmonRae = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    CrazyMoccasinLorrayne = "Did you know that protons have mass? I didn't even know they were catholic."
+    LevelJadeKally2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WellFuchsiaGipsy = "Im only familiar with 25 letters in the English language. I dont know why."
+    ProperCoralElisabet = 626
+    OutstandingIndigoJenna = 817
+    PositiveCoffeeDona = 482
+    ThoughtlessBeigeBrit = "What creature is smarter than a talking parrot? A spelling bee."
+    CrowdedTomatoTania2 = 659
+    FairCoffeeDinnie = 487
+    PeacefulOrangeMargret = "Why did the kid cross the playground? To get to the other slide."
+    ToxicSalmonPhedra = 303
+    GleamingTurquoiseTeri = true
+    JoyousBlackCarry = "Why was it called the dark ages? Because of all the knights. "
+    RoughGreenIdelle = "Why is Peter Pan always flying? Because he Neverlands."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    IntegralSalmonPhilly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MidPinkMelissa = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SurprisingGreenIanthe = 698
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    KindVioletValma = "What creature is smarter than a talking parrot? A spelling bee."
+    RainyAquaAurora = true
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  serviceid_number HarshOliveMahalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean DevelopedPinkMerissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubjectiveSapphireRhonda {
+    _hidden_value = true
+  }
+  boolean MistyTurquoiseTheadora2 {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJeana2 {
+    _hidden_value = true
+  }
+  json SteadyJadeKailey {
+    _hidden_value = true
+  }
+  string SpottyYellowWylma2 {
+    _hidden_value = true
+  }
+  serviceid HiddenRedOdessa {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigale2 {
+    _hidden_value = true
+  }
+  number OkayOliveMaggee {
+    _hidden_value = true
+  }
+  serviceid EnglishBrownCourtney2 {
+    _hidden_value = true
+  }
+  PrivateBronzeCordula2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  TenderRedOdele = 429
+  DeafIvoryJoy = 117
+  SpottyYellowWylma = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

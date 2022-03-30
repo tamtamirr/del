@@ -1,0 +1,143 @@
+type dummy.CurvedAmberAliza {
+  annotations {
+    serviceid_number DramaticGoldHaily {
+    }
+    dummy.FederalGrayHalli ClosedMagentaLeilah3 {
+    }
+    serviceid DampMoccasinLory2 {
+    }
+    string UnevenAquamarineBeilul {
+    }
+    serviceid WideBronzeCorilla {
+    }
+  }
+  dummy.DEFAULT ManagerialPurpleNerita3 {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJaclin2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.CharmingBeigeCallida DeliciousApricotArdith {
+    LonelyAzureBobette = "What creature is smarter than a talking parrot? A spelling bee."
+    IndustrialBrownDanya = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DelightfulBeigeCandi = 836
+    PrettyIndigoJennilee = false
+    RollingSilverRubie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MinimalPlumMorgen = 359
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 237
+    BusyCyanFayina = 57
+    _hidden_value = true
+  }
+  hidden_boolean ChineseGoldGuglielma2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CuddlyAmberAlayne3 {
+    _hidden_value = true
+  }
+  hidden_boolean SolidAquamarineBarry2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoundIvoryJohnette3 {
+    _hidden_value = true
+  }
+  serviceid_number BigAmaranthAbagail2 {
+    _hidden_value = true
+  }
+  string VastEmeraldFred {
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringPurpleNana {
+    _hidden_value = true
+  }
+  serviceid_number SlowCyanEugine {
+    _hidden_value = true
+  }
+  boolean FunnyEmeraldGabbi2 {
+    _hidden_value = true
+  }
+  serviceid_number ClearTomatoTammara {
+    _hidden_value = true
+  }
+  dummy.CharmingBeigeCallida EarlyBlushCherrita {
+    LonelyAzureBobette = "A steak pun is a rare medium well done."
+    IndustrialBrownDanya = "Whoever invented the knock-knock joke should get a no bell prize."
+    DelightfulBeigeCandi = 87
+    PrettyIndigoJennilee = false
+    RollingSilverRubie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MinimalPlumMorgen = 777
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 35
+    BusyCyanFayina = 532
+    _hidden_value = true
+  }
+  string HandicappedTanShanon2 {
+    _hidden_value = true
+  }
+  serviceid IllAzureBobbette2 {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillisent2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GloriousBlackCarmine4 {
+    _hidden_value = true
+  }
+  dummy.IllAzureBobbee AssociatedMaroonLindy2 {
+    CriticalCrimsonEstell = "A steak pun is a rare medium well done."
+    GorgeousVioletUna = 894
+    TraditionalChocolateDeidre = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ScaredSalmonRafaelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MotionlessTurquoiseTheodora = 346
+    BreezyAmaranthAidan = "Why did the kid cross the playground? To get to the other slide."
+    ScaredSapphireRahal = false
+    BeautifulTomatoTabina = "I'll tell you what often gets over looked... garden fences."
+    ExceptionalOliveMadlin = 147
+    HeadPinkMeg = 651
+    UrgentLimeKristyn = false
+    DeliberateRedNoelyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BeneficialPlumMonica = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WillingGoldGussy = "Im only familiar with 25 letters in the English language. I dont know why."
+    MobilePurpleMoria = false
+    _hidden_value = true
+  }
+  boolean FatIvoryJoella3 {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDion {
+    _hidden_value = true
+  }
+  boolean BigAmaranthAbbey {
+    _hidden_value = true
+  }
+  serviceid WelshGrayHattie3 {
+    _hidden_value = true
+  }
+  boolean HomelessAzureBlinny {
+    _hidden_value = true
+  }
+  json VaguePinkMeghann3 {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveGreenHyacinthie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DramaticGoldHaily = 578
+  ClosedMagentaLeilah3 = 102
+  DampMoccasinLory2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnevenAquamarineBeilul = "Why do birds fly south for the winter? Because it's too far to walk."
+  WideBronzeCorilla = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

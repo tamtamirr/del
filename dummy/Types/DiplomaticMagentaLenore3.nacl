@@ -1,0 +1,98 @@
+type dummy.DiplomaticMagentaLenore3 {
+  annotations {
+    hidden_boolean ExcitingGreenIvett3 {
+    }
+    serviceid_number OralLimeKylie3 {
+    }
+    json TallAmaranthAggy2 {
+    }
+    json EssentialCoffeeDion2 {
+    }
+    hidden_boolean IntellectualJadeKalina2 {
+    }
+  }
+  boolean QuietCoralElaina4 {
+    _hidden_value = true
+  }
+  serviceid_number LabourBrownDaffie2 {
+    _hidden_value = true
+  }
+  number StickyAquaArly {
+    _hidden_value = true
+  }
+  string InvolvedCoffeeDena {
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna ConfidentHarlequinJacynth {
+    ColonialPeachMaure = "A steak pun is a rare medium well done."
+    GloriousBlackCarmine = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeBeigeCamile3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<number>" RelevantCoffeeDoralin2 {
+    _hidden_value = true
+  }
+  hidden_boolean KindOrangeMaribeth3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number DifferentTealSilva {
+    _hidden_value = true
+  }
+  dummy.IllAzureBobbee NiceWhiteVicki2 {
+    CriticalCrimsonEstell = "Dad Im hungry  Hi hungry Im dad"
+    GorgeousVioletUna = 766
+    TraditionalChocolateDeidre = "How come the stadium got hot after the game? Because all of the fans left."
+    ScaredSalmonRafaelita = "I'll tell you what often gets over looked... garden fences."
+    MotionlessTurquoiseTheodora = 694
+    BreezyAmaranthAidan = "To be Frank, I'd have to change my name."
+    ScaredSapphireRahal = false
+    BeautifulTomatoTabina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExceptionalOliveMadlin = 589
+    HeadPinkMeg = 855
+    UrgentLimeKristyn = false
+    DeliberateRedNoelyn = "Slept like a log last night  woke up in the fireplace."
+    BeneficialPlumMonica = "To be Frank, I'd have to change my name."
+    WillingGoldGussy = "Why is Peter Pan always flying? Because he Neverlands."
+    MobilePurpleMoria = false
+    _hidden_value = true
+  }
+  json HandsomeOliveMala {
+    _hidden_value = true
+  }
+  serviceid_number ImpossibleTealSosanna2 {
+    _hidden_value = true
+  }
+  string RepresentativePinkMerralee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HarshOliveMahala {
+    _hidden_value = true
+  }
+  string GreenChocolateDebra3 {
+    _hidden_value = true
+  }
+  hidden_boolean ColourfulScarletRosabella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AfraidAquamarineBenedetta {
+    _hidden_value = true
+  }
+  boolean AshamedScarletRosamond2 {
+    _hidden_value = true
+  }
+  serviceid_number DirtyIvoryJosefa2 {
+    _hidden_value = true
+  }
+  OralLimeKylie3 = 837
+  TallAmaranthAggy2 = "Dad Im hungry  Hi hungry Im dad"
+  EssentialCoffeeDion2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

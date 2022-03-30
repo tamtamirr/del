@@ -1,0 +1,88 @@
+type dummy.MajorBlushCissy {
+  annotations {
+    dummy.FashionableSapphireRenae QuietApricotAnnmaria {
+    }
+    number ImpressiveIndigoJessa {
+    }
+    json HostileOrangeMariejeanne {
+    }
+    string DrivingRoseOralle2 {
+    }
+    hidden_boolean LtdCoralElnora3 {
+    }
+  }
+  number InfluentialMoccasinLorene {
+    _hidden_value = true
+  }
+  serviceid_number DesperateIvoryJunie2 {
+    _hidden_value = true
+  }
+  string ThinCyanEvania {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveRedNettle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number MagentaWhiteVelvet {
+    _hidden_value = true
+  }
+  json StupidTomatoSula {
+    _hidden_value = true
+  }
+  hidden_boolean AgreedTanSelie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StructuralIvoryJosephina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ComplicatedIndigoJoanie {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string PlainTurquoiseTheresita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BurningRedNikolia {
+    _hidden_value = true
+  }
+  serviceid EnthusiasticPinkMerrielle {
+    _hidden_value = true
+  }
+  "List<number>" ScreechingApricotAnthia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObligedOrangeMarcellina {
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline {
+    _hidden_value = true
+  }
+  number CharmingPlumMorgan {
+    _hidden_value = true
+  }
+  dummy.RoastedWhiteWenonah QuickWhiteVonni2 {
+    WhiteBronzeClotilda = "Did you know that protons have mass? I didn't even know they were catholic."
+    MutualLimeKimberli = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    BreakableTealShir = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AgreedTanSelestina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  serviceid LatinLimeKonstance {
+    _hidden_value = true
+  }
+  QuietApricotAnnmaria = false
+  ImpressiveIndigoJessa = 359
+  HostileOrangeMariejeanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DrivingRoseOralle2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,51 @@
+type dummy.GreekIndigoJoana2 {
+  annotations {
+    dummy.DEFAULT HotAquaAudry4 {
+    }
+    boolean SillyIvoryJoelie2 {
+    }
+    number SlimyAquamarineBarbara3 {
+    }
+    serviceid_number FancyTurquoiseTedi3 {
+    }
+    serviceid DueCopperDot {
+    }
+    json PlainIndigoJewel2 {
+    }
+    boolean PreciseIndigoJobi {
+    }
+  }
+  string YellowGoldGiulietta2 {
+    _hidden_value = true
+  }
+  number HollowAmberAllx2 {
+    _hidden_value = true
+  }
+  json ExpectedLimeLaney2 {
+    _hidden_value = true
+  }
+  json CoolAmaranthAinsley4 {
+    _hidden_value = true
+  }
+  string PleasantBlueCathe {
+    _hidden_value = true
+  }
+  boolean GlamorousTurquoiseTeressa {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTasia3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  HotAquaAudry4 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  SillyIvoryJoelie2 = false
+  SlimyAquamarineBarbara3 = 409
+  FancyTurquoiseTedi3 = 595
+  DueCopperDot = "Why did the kid cross the playground? To get to the other slide."
+  PlainIndigoJewel2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PreciseIndigoJobi = false
+  _hidden_value = true
+}

@@ -1,0 +1,67 @@
+type dummy.TropicalOliveLydia3 {
+  annotations {
+    json ImprovedMagentaLaryssa2 {
+    }
+    hidden_boolean DisastrousScarletRochella3 {
+    }
+    serviceid_number BadBlushCicily4 {
+    }
+    json MildOliveMaddalena2 {
+    }
+    json MoralCyanFelita2 {
+    }
+    dummy.UrbanCyanFan OtherBlueCelinka2 {
+    }
+    string SpecifiedSalmonPortia4 {
+    }
+    number EnglishBrownCrin4 {
+    }
+    dummy.DiverseRedNicola2 IntelligentMaroonLinnet7 {
+    }
+    number SwissPlumMiguela4 {
+    }
+    string ClinicalIndigoJere3 {
+    }
+    number PeculiarPlumMichelina5 {
+    }
+    boolean DeliberateRedNoelyn6 {
+    }
+    number UpsetBeigeBritte {
+    }
+    serviceid GenerousLavenderKayle3 {
+    }
+    boolean AwkwardPeachMaryjane2 {
+    }
+    serviceid NeatMoccasinLorita {
+    }
+    json SharpFuchsiaGeorgina3 {
+    }
+    boolean ConsistentHarlequinJanith2 {
+    }
+    hidden_boolean InternalCoralEdyth2 {
+    }
+    serviceid ThoroughScarletRonica {
+    }
+    boolean MedievalJadeKaree2 {
+    }
+  }
+  ImprovedMagentaLaryssa2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  BadBlushCicily4 = 832
+  MildOliveMaddalena2 = "Why did the kid cross the playground? To get to the other slide."
+  MoralCyanFelita2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OtherBlueCelinka2 = file("InitialCoralElsie3.txt")
+  SpecifiedSalmonPortia4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EnglishBrownCrin4 = 47
+  SwissPlumMiguela4 = 314
+  ClinicalIndigoJere3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  PeculiarPlumMichelina5 = 357
+  DeliberateRedNoelyn6 = false
+  UpsetBeigeBritte = 751
+  GenerousLavenderKayle3 = "What do you call two barracuda fish?  A Pairacuda!"
+  AwkwardPeachMaryjane2 = true
+  NeatMoccasinLorita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SharpFuchsiaGeorgina3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConsistentHarlequinJanith2 = true
+  ThoroughScarletRonica = "Why is Peter Pan always flying? Because he Neverlands."
+  MedievalJadeKaree2 = false
+}

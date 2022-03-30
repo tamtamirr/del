@@ -1,0 +1,39 @@
+type dummy.ExistingCoffeeDeva is boolean {
+  annotations {
+    string PetiteAmaranthAdrianna {
+    }
+    json ExtraordinaryIndigoJessy {
+    }
+    boolean HonChocolateDaveen {
+    }
+    json ProfoundPinkMerla {
+    }
+    hidden_boolean TerribleEmeraldFredrika {
+    }
+    json UpperCyanFaunie {
+    }
+    number LegalBrownDahlia {
+    }
+    string FeministPlumMina {
+    }
+    serviceid_number RelaxedPlumMinni {
+    }
+    json FilthyTurquoiseTera2 {
+    }
+    serviceid_number RareEmeraldFlorentia {
+    }
+    serviceid_number EducationalCrimsonEryn {
+    }
+  }
+  PetiteAmaranthAdrianna = "Why was it called the dark ages? Because of all the knights. "
+  ExtraordinaryIndigoJessy = "What creature is smarter than a talking parrot? A spelling bee."
+  HonChocolateDaveen = true
+  ProfoundPinkMerla = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UpperCyanFaunie = "Why is Peter Pan always flying? Because he Neverlands."
+  LegalBrownDahlia = 842
+  FeministPlumMina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RelaxedPlumMinni = 383
+  FilthyTurquoiseTera2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RareEmeraldFlorentia = 127
+  EducationalCrimsonEryn = 686
+}

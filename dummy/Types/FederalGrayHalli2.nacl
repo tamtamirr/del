@@ -1,0 +1,73 @@
+type dummy.FederalGrayHalli2 {
+  annotations {
+    boolean DigitalMaroonLib3 {
+    }
+    string AdjacentSilverRoxi {
+    }
+    number EmbarrassedRedNisse {
+    }
+    hidden_boolean UglyPlumMidge {
+    }
+    json StickyAquamarineBeatrix2 {
+    }
+    dummy.BindingSalmonPeta OrganicLimeLacy {
+    }
+  }
+  serviceid TallYellowXylia4 {
+    _hidden_value = true
+  }
+  serviceid YellowYellowZora3 {
+    _hidden_value = true
+  }
+  dummy.SteepAmberAlyce RequiredMaroonLethia3 {
+    ChangingJadeKassia = "Why was it called the dark ages? Because of all the knights. "
+    RightBlushCherish = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PreviousBrownDania = true
+    ClosedMagentaLeilah = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    SuperTomatoSusanna = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ZanyYellowZulema = false
+    ChubbyAmberAline = false
+    CheerfulBeigeCalypso = 251
+    SympatheticPinkMead2 = "How come the stadium got hot after the game? Because all of the fans left."
+    FuzzyAquaAuberta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GoverningTanSelma = "Slept like a log last night  woke up in the fireplace."
+    MinorEmeraldGabriel2 = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  serviceid_number SteadyJadeKaila {
+    _hidden_value = true
+  }
+  string WickedScarletRoseanne {
+    _hidden_value = true
+  }
+  serviceid LowAmberAllyce2 {
+    _hidden_value = true
+  }
+  boolean BlackVioletTonye2 {
+    _hidden_value = true
+  }
+  string ExplicitMaroonLise3 {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarPlumMichelina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella2 {
+    _hidden_value = true
+  }
+  serviceid_number AcuteLavenderKeri5 {
+    _hidden_value = true
+  }
+  DigitalMaroonLib3 = true
+  AdjacentSilverRoxi = "Why do birds fly south for the winter? Because it's too far to walk."
+  EmbarrassedRedNisse = 43
+  StickyAquamarineBeatrix2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  OrganicLimeLacy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

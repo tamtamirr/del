@@ -1,0 +1,66 @@
+type dummy.MarkedMagentaLauraine2 {
+  annotations {
+    string PleasantBlueCathe2 {
+    }
+    serviceid_number MightyTanShandie3 {
+    }
+    hidden_boolean CrookedAmberAlissa {
+    }
+    number ApparentCyanFay2 {
+    }
+    serviceid_number MathematicalRoseOthelia2 {
+    }
+  }
+  string SoftApricotAppolonia2 {
+    _hidden_value = true
+  }
+  hidden_boolean IllegalJadeKarole2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ArtisticPeachMatelda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SpareMaroonLillis2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string PainfulMaroonLilllie2 {
+    _hidden_value = true
+  }
+  serviceid_number SuccessfulBlueCatrina2 {
+    _hidden_value = true
+  }
+  serviceid_number ShinyTurquoiseTiff2 {
+    _hidden_value = true
+  }
+  json ManyWhiteVeradis3 {
+    _hidden_value = true
+  }
+  boolean LostJadeKaralee {
+    _hidden_value = true
+  }
+  number WeirdSilverRozella2 {
+    _hidden_value = true
+  }
+  number WetAquamarineBelinda3 {
+    _hidden_value = true
+  }
+  boolean SmilingBlueCathryn3 {
+    _hidden_value = true
+  }
+  hidden_boolean RequiredMaroonLeticia3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PleasantBlueCathe2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  MightyTanShandie3 = 841
+  ApparentCyanFay2 = 969
+  MathematicalRoseOthelia2 = 517
+  _hidden_value = true
+}

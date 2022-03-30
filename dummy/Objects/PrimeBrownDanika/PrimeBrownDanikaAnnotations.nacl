@@ -1,0 +1,52 @@
+type dummy.PrimeBrownDanika {
+  annotations {
+    dummy.LongAmaranthAdina EmptyCyanFanechka {
+    }
+    hidden_boolean VitalEmeraldFilia3 {
+    }
+    hidden_boolean WeeSapphireRey {
+    }
+    dummy.HelpfulHarlequinJaneta CooperativeBeigeCamile5 {
+    }
+    serviceid_number SecureMoccasinLou3 {
+    }
+    serviceid_number MarineMagentaLeona2 {
+    }
+    number LonelyAzureBobina2 {
+    }
+    serviceid TerritorialSalmonPriscilla5 {
+    }
+    boolean CurrentBrownCynthy6 {
+    }
+    json KeyCopperDorothea3 {
+    }
+    number EducationalCrimsonErtha4 {
+    }
+    string WorthyRoseOdille3 {
+    }
+    serviceid SlimRoseOlwen2 {
+    }
+    boolean QuaintTurquoiseThomasine2 {
+    }
+    string OverseasIvoryJuditha4 {
+    }
+    json TeenageScarletRobinett3 {
+    }
+    number MedicalCoffeeDevora4 {
+    }
+  }
+  EmptyCyanFanechka = file("YoungBlueChere3.txt")
+  SecureMoccasinLou3 = 387
+  MarineMagentaLeona2 = 123
+  LonelyAzureBobina2 = 126
+  TerritorialSalmonPriscilla5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  CurrentBrownCynthy6 = true
+  KeyCopperDorothea3 = "How come the stadium got hot after the game? Because all of the fans left."
+  EducationalCrimsonErtha4 = 105
+  WorthyRoseOdille3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SlimRoseOlwen2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  QuaintTurquoiseThomasine2 = true
+  OverseasIvoryJuditha4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TeenageScarletRobinett3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MedicalCoffeeDevora4 = 927
+}

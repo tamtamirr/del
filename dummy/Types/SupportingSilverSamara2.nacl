@@ -1,0 +1,66 @@
+type dummy.SupportingSilverSamara2 {
+  annotations {
+    serviceid BeautifulVioletToni {
+    }
+    string ItalianGoldGrayce {
+    }
+    boolean OddWhiteVinita5 {
+    }
+    serviceid FellowJadeJustinn4 {
+    }
+    dummy.DEFAULT SingleBronzeCorabella3 {
+    }
+  }
+  serviceid PremierOrangeMaria2 {
+    _hidden_value = true
+  }
+  json PublicBlushChristyna2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubtleMoccasinLuciana2 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBria4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CoherentScarletRoseline2 {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience3 {
+    _hidden_value = true
+  }
+  json KindOrangeMarice4 {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKessiah3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddFuchsiaGenevra2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedicta3 {
+    _hidden_value = true
+  }
+  number PreciousWhiteVitia {
+    _hidden_value = true
+  }
+  serviceid_number RemoteIndigoJenelle2 {
+    _hidden_value = true
+  }
+  number FinalBrownDalenna2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki4 {
+    _hidden_value = true
+  }
+  BeautifulVioletToni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ItalianGoldGrayce = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OddWhiteVinita5 = false
+  FellowJadeJustinn4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SingleBronzeCorabella3 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

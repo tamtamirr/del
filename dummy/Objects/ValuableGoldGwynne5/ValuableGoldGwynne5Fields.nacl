@@ -1,0 +1,9 @@
+type dummy.ValuableGoldGwynne5 {
+  hidden_boolean ColdAmaranthAimee5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SoleLimeKirsti3 {
+  }
+}

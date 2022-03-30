@@ -1,0 +1,60 @@
+type dummy.PositiveCoffeeDominique {
+  annotations {
+    json PrimitiveOrangeMargalit {
+    }
+    hidden_boolean ScornfulBeigeBrianne2 {
+    }
+    hidden_boolean WearyBeigeBrooke3 {
+    }
+    number GratefulIvoryJorey6 {
+    }
+  }
+  json ElegantMoccasinLucilia {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie3 {
+    _hidden_value = true
+  }
+  number FineBlackCarlye {
+    _hidden_value = true
+  }
+  serviceid_number MonthlyMaroonLinnea3 {
+    _hidden_value = true
+  }
+  number EqualCrimsonEmiline {
+    _hidden_value = true
+  }
+  string HealthyBlackCarolan {
+    _hidden_value = true
+  }
+  string MagneticPeachMavis3 {
+    _hidden_value = true
+  }
+  json OriginalChocolateDarryl2 {
+    _hidden_value = true
+  }
+  "Map<string>" QuickCoralEleonore3 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlin {
+    _hidden_value = true
+  }
+  json ConvenientMagentaLegra2 {
+    _hidden_value = true
+  }
+  dummy.AlrightGoldGoldina GloriousScarletRosanne2 {
+    RivalPurpleNara = 395
+    SingleBronzeCoral = 809
+    ProfoundPinkMerlina = 791
+    RelativeGoldGui = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AngryFuchsiaGilli = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QuickestWhiteVyky = "Im only familiar with 25 letters in the English language. I dont know why."
+    AgreedTanSelia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  PrimitiveOrangeMargalit = "Whoever invented the knock-knock joke should get a no bell prize."
+  GratefulIvoryJorey6 = 849
+  _hidden_value = true
+}

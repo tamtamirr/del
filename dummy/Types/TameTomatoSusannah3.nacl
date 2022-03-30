@@ -1,0 +1,78 @@
+type dummy.TameTomatoSusannah3 {
+  annotations {
+    boolean BitterApricotArden {
+    }
+    dummy.OrdinaryCopperEdi IraqiOliveMadelon {
+    }
+    serviceid RandomMoccasinLorena3 {
+    }
+    string EthnicLavenderKaye2 {
+    }
+    number WateryYellowZelda {
+    }
+  }
+  serviceid_number ArrogantAquamarineBernadene {
+    _hidden_value = true
+  }
+  boolean EncouragingLimeLacey4 {
+    _hidden_value = true
+  }
+  number LongAmethystAme {
+    _hidden_value = true
+  }
+  serviceid ManagerialRedNerta {
+    _hidden_value = true
+  }
+  string ImpressiveIndigoJerry {
+    _hidden_value = true
+  }
+  boolean FierceOliveMaisie {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelley2 {
+    _hidden_value = true
+  }
+  number GorgeousVioletUrsa {
+    _hidden_value = true
+  }
+  string AbstractMaroonLina {
+    _hidden_value = true
+  }
+  serviceid IrrelevantPurpleNanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChineseGoldGuglielma {
+    _hidden_value = true
+  }
+  json DutchLavenderKelsy2 {
+    _hidden_value = true
+  }
+  number VisualGreenIngaborg2 {
+    _hidden_value = true
+  }
+  string RearPurpleMureil {
+    _hidden_value = true
+  }
+  "List<json>" ForeignBronzeCoriss2 {
+    _hidden_value = true
+  }
+  json NaturalBrownCrysta2 {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHyacinth {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SharedPinkMelesa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BitterApricotArden = true
+  IraqiOliveMadelon = "Why do birds fly south for the winter? Because it's too far to walk."
+  RandomMoccasinLorena3 = "A steak pun is a rare medium well done."
+  EthnicLavenderKaye2 = "Why was it called the dark ages? Because of all the knights. "
+  WateryYellowZelda = 773
+  _hidden_value = true
+}

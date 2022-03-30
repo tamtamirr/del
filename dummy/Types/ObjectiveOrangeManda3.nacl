@@ -1,0 +1,70 @@
+type dummy.ObjectiveOrangeManda3 {
+  annotations {
+    serviceid FollowingBrownCynthea4 {
+    }
+    serviceid AllegedOliveLynn5 {
+    }
+    string ConsciousHarlequinJeanelle {
+    }
+    json ElderlyEmeraldFlore {
+    }
+    dummy.DEFAULT CuriousLimeKirbie2 {
+    }
+    dummy.ImmenseAmaranthAdelice FatalPurpleMyrtle3 {
+    }
+    json SportingSilverRuthy {
+    }
+  }
+  json TinyCyanEulalie2 {
+    _hidden_value = true
+  }
+  serviceid DailyCyanEveleen {
+    _hidden_value = true
+  }
+  json ScrawnyYellowWilmette {
+    _hidden_value = true
+  }
+  number FantasticSapphireRegine3 {
+    _hidden_value = true
+  }
+  string StableHarlequinJasmin3 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette5 {
+    _hidden_value = true
+  }
+  "Map<string>" DutchLavenderKelsy5 {
+    _hidden_value = true
+  }
+  string FrontCopperEadie4 {
+    _hidden_value = true
+  }
+  boolean PainfulMaroonLillis2 {
+    _hidden_value = true
+  }
+  number CalmPurpleNancey4 {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalRedNoelani2 {
+    _hidden_value = true
+  }
+  boolean AustralianJadeKassie {
+    _hidden_value = true
+  }
+  number ProfoundPinkMerla5 {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorri {
+    _hidden_value = true
+  }
+  FollowingBrownCynthea4 = "A steak pun is a rare medium well done."
+  AllegedOliveLynn5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ConsciousHarlequinJeanelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ElderlyEmeraldFlore = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CuriousLimeKirbie2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  FatalPurpleMyrtle3 = 738
+  SportingSilverRuthy = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

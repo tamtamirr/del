@@ -1,0 +1,7 @@
+type dummy.AmateurSalmonPier3 {
+  hidden_boolean CoastalPlumMichal4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

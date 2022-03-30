@@ -1,0 +1,67 @@
+type dummy.ObjectiveOrangeMame2 {
+  annotations {
+    hidden_boolean PreciousOrangeMariele5 {
+    }
+    hidden_boolean DisastrousScarletRochella2 {
+    }
+    dummy.PrivateBronzeCordy BroadAmberAlikee3 {
+    }
+    hidden_boolean SurroundingOrangeMargery2 {
+    }
+    serviceid_number CulturalCoralElie2 {
+    }
+  }
+  "List<serviceid_number>" ResponsibleCoffeeDevi3 {
+    _hidden_value = true
+  }
+  "List<string>" CrucialFuchsiaGenny5 {
+    _hidden_value = true
+  }
+  string WildTomatoSuzi2 {
+    _hidden_value = true
+  }
+  "List<dummy.LatinLimeKonstanze>" QuickestWhiteVonny2 {
+    ResidentSalmonRae = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CrazyMoccasinLorrayne = "Why didnt the skeleton cross the road? Because he had no guts."
+    LevelJadeKally2 = "Why did the kid cross the playground? To get to the other slide."
+    WellFuchsiaGipsy = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ProperCoralElisabet = 448
+    OutstandingIndigoJenna = 515
+    PositiveCoffeeDona = 242
+    ThoughtlessBeigeBrit = "I'll tell you what often gets over looked... garden fences."
+    CrowdedTomatoTania2 = 167
+    FairCoffeeDinnie = 403
+    PeacefulOrangeMargret = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ToxicSalmonPhedra = 281
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "Why did the kid cross the playground? To get to the other slide."
+    RoughGreenIdelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    IntegralSalmonPhilly = "Why was it called the dark ages? Because of all the knights. "
+    MidPinkMelissa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SurprisingGreenIanthe = 580
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    KindVioletValma = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RainyAquaAurora = true
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  string WrongTomatoSybille {
+    _hidden_value = true
+  }
+  string AccessibleOrangeMarika5 {
+    _hidden_value = true
+  }
+  serviceid_number AvailableBlushChrystal3 {
+    _hidden_value = true
+  }
+  BroadAmberAlikee3 = false
+  CulturalCoralElie2 = 135
+  _hidden_value = true
+}

@@ -1,0 +1,62 @@
+type dummy.UnacceptableSalmonPen4 {
+  annotations {
+    hidden_boolean SadYellowWilletta5 {
+    }
+    hidden_boolean HappyBrownDaisy4 {
+    }
+    dummy.AwfulAquamarineBernete2 ClearBlushCindy3 {
+    }
+    serviceid_number BrownFuchsiaGaylene2 {
+    }
+    hidden_boolean EuropeanBronzeConcordia3 {
+    }
+    boolean FlexibleLavenderKathrine {
+    }
+    hidden_boolean TenderRedOdelinda4 {
+    }
+    number NuttyWhiteVikki6 {
+    }
+    json NursingSalmonPhaedra2 {
+    }
+    number ArtificialMagentaLenka3 {
+    }
+    json LateAmethystAmata6 {
+    }
+    json AwareChocolateDasi2 {
+    }
+    json FriendlyBlackCarlynn3 {
+    }
+    serviceid_number MidPinkMelisse3 {
+    }
+    dummy.StrongBronzeColly AcceptedTanSerene4 {
+    }
+    boolean ScaredSapphireRahal3 {
+    }
+    boolean CoolGreenIolande4 {
+    }
+    string RegularCopperDorthea2 {
+    }
+    serviceid ScientificCrimsonErda {
+    }
+    string RulingLimeKippie3 {
+    }
+    string FluffyAmberAlia3 {
+    }
+  }
+  BrownFuchsiaGaylene2 = 466
+  FlexibleLavenderKathrine = true
+  NuttyWhiteVikki6 = 341
+  NursingSalmonPhaedra2 = "Why was it called the dark ages? Because of all the knights. "
+  ArtificialMagentaLenka3 = 259
+  LateAmethystAmata6 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AwareChocolateDasi2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FriendlyBlackCarlynn3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MidPinkMelisse3 = 2
+  AcceptedTanSerene4 = 38
+  ScaredSapphireRahal3 = false
+  CoolGreenIolande4 = true
+  RegularCopperDorthea2 = "What creature is smarter than a talking parrot? A spelling bee."
+  ScientificCrimsonErda = "Im only familiar with 25 letters in the English language. I dont know why."
+  RulingLimeKippie3 = "A steak pun is a rare medium well done."
+  FluffyAmberAlia3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

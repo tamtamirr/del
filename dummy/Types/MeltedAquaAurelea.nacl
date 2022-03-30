@@ -1,0 +1,128 @@
+type dummy.MeltedAquaAurelea {
+  annotations {
+    string BizarreTanSeka2 {
+    }
+    json IllegalJadeKarolina {
+    }
+    json BoldPlumMinetta {
+    }
+    dummy.DEFAULT SolarRosePammie {
+    }
+    json GayOrangeMarijo {
+    }
+    dummy.AnxiousHarlequinJanna HappyBlackCaroljean {
+    }
+  }
+  serviceid_number EverydayLimeKyrstin {
+    _hidden_value = true
+  }
+  json NegativeFuchsiaGavra {
+    _hidden_value = true
+  }
+  number DarkChocolateDeanne2 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana2 {
+    _hidden_value = true
+  }
+  number PerfectBlackCate {
+    _hidden_value = true
+  }
+  string BrainyTealSherye2 {
+    _hidden_value = true
+  }
+  json AsianMaroonLinda {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaye {
+    _hidden_value = true
+  }
+  hidden_boolean SoftApricotAnya {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SteepMoccasinLuise {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyPeachMaryellen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.MarriedCyanFannie EmptyAmethystAndra2 {
+    WonderfulYellowZoe = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UsualCoralElmira = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ProtestantScarletRobina = false
+    InquisitiveTealStacia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RoundIvoryJohnette = false
+    QuickestWhiteVonnie = 831
+    _hidden_value = true
+  }
+  hidden_boolean MadHarlequinJanenna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WoodenAquamarineBellanca2 {
+    _hidden_value = true
+  }
+  string LinearRedNetta {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverlee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PossibleBlushCheryl2 {
+    _hidden_value = true
+  }
+  json MuddyTurquoiseTheresina2 {
+    _hidden_value = true
+  }
+  boolean SensitiveGrayHendrika {
+    _hidden_value = true
+  }
+  hidden_boolean OverallCrimsonEmmalynne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SwissPlumMikaela DeafIvoryJoya {
+    UndergroundScarletRona = 531
+    SatisfiedHarlequinJeana = "What creature is smarter than a talking parrot? A spelling bee."
+    DynamicPeachMarlyn = "Slept like a log last night  woke up in the fireplace."
+    UselessRedNina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RegulatorySalmonQuintilla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DrivingRoseOralle = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette SupremeGreenIsabella {
+    UglyTurquoiseTiphani = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FairBlackCarlen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FuriousRedNicolle = 489
+    AbstractMaroonLilyan = 923
+    RipeApricotAriel = 61
+    OlympicRedNessa = 11
+    SignificantBrownDanna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 495
+    VastEmeraldFreddi = 937
+    ConstantEmeraldFrayda = "A steak pun is a rare medium well done."
+    BigAmaranthAbbi = 227
+    WorriedGrayHarri = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  BizarreTanSeka2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IllegalJadeKarolina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BoldPlumMinetta = "Im only familiar with 25 letters in the English language. I dont know why."
+  SolarRosePammie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  GayOrangeMarijo = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HappyBlackCaroljean = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

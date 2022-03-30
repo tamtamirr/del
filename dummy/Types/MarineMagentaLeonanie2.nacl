@@ -1,0 +1,23 @@
+type dummy.MarineMagentaLeonanie2 {
+  annotations {
+    string MushyWhiteVerine2 {
+    }
+    hidden_boolean AtomicScarletRory {
+    }
+    hidden_boolean VerticalOliveLyssa3 {
+    }
+    dummy.DEFAULT PrivateBronzeCordy2 {
+    }
+    string SuperPeachMarthe {
+    }
+  }
+  serviceid_number GenuineGreenIssi {
+    _hidden_value = true
+  }
+  MushyWhiteVerine2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  PrivateBronzeCordy2 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  SuperPeachMarthe = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

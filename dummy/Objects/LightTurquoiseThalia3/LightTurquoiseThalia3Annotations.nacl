@@ -1,0 +1,56 @@
+type dummy.LightTurquoiseThalia3 {
+  annotations {
+    dummy.ExactLimeKordula SoreBeigeBrietta2 {
+    }
+    hidden_boolean DefiantAzureBetti {
+    }
+    boolean ChineseGoldGuenevere2 {
+    }
+    dummy.FastAmethystAmargo WickedScarletRoseanne4 {
+    }
+    number BlueCoffeeDi2 {
+    }
+    number FirmGrayHedi {
+    }
+    json NearbyLimeKoral3 {
+    }
+    boolean MagentaWhiteVelma3 {
+    }
+    string FrenchBrownCyndi4 {
+    }
+    serviceid PlainTurquoiseTheressa2 {
+    }
+    serviceid_number SilentApricotAntonie2 {
+    }
+    string PinkIndigoJennette4 {
+    }
+    boolean MinorEmeraldGabriel5 {
+    }
+    string VeryCoralElfreda2 {
+    }
+    boolean SunnyTanSharla {
+    }
+    serviceid_number PlainIndigoJewell3 {
+    }
+    serviceid CapableEmeraldFlorina3 {
+    }
+    string CorrespondingPlumMinny5 {
+    }
+  }
+  SoreBeigeBrietta2 = 708
+  ChineseGoldGuenevere2 = true
+  BlueCoffeeDi2 = 690
+  FirmGrayHedi = 486
+  NearbyLimeKoral3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  MagentaWhiteVelma3 = true
+  FrenchBrownCyndi4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PlainTurquoiseTheressa2 = "To be Frank, I'd have to change my name."
+  SilentApricotAntonie2 = 834
+  PinkIndigoJennette4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MinorEmeraldGabriel5 = false
+  VeryCoralElfreda2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SunnyTanSharla = true
+  PlainIndigoJewell3 = 296
+  CapableEmeraldFlorina3 = "Why did the kid cross the playground? To get to the other slide."
+  CorrespondingPlumMinny5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

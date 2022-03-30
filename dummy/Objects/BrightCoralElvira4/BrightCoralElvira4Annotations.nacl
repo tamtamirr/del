@@ -1,0 +1,62 @@
+type dummy.BrightCoralElvira4 {
+  annotations {
+    hidden_boolean RenewedSilverSandy3 {
+    }
+    string StormyTurquoiseTimmi3 {
+    }
+    serviceid_number DoubtfulTealSimonne2 {
+    }
+    hidden_boolean WorriedBeigeBrynna2 {
+    }
+    string ModernBrownDacie {
+    }
+    hidden_boolean AnxiousAquamarineBerenice5 {
+    }
+    json QualifiedPinkMellicent3 {
+    }
+    json DarkChocolateDeanne7 {
+    }
+    dummy.AcuteLavenderKeri SkinnyAmberAlthea2 {
+    }
+    dummy.ExtraCoffeeDianemarie AssistantOliveLynnelle2 {
+    }
+    string VaguePinkMei {
+    }
+    boolean KnownMaroonLettie {
+    }
+    serviceid_number HomelessSilverSalomi {
+    }
+    boolean ManyWhiteVenus {
+    }
+    boolean MiserableSalmonRachel3 {
+    }
+    dummy.LatinLimeKonstanze EarlyAmethystAmalita {
+    }
+    dummy.FullBlushChristian2 DevelopedPinkMeris3 {
+    }
+    dummy.RedundantSalmonPhilis HomelessSilverSalomi2 {
+    }
+    boolean UsualCoralEllyn3 {
+    }
+    number FashionableSapphireRenata10 {
+    }
+    number BrokenIndigoJocelyne3 {
+    }
+  }
+  StormyTurquoiseTimmi3 = "Why did the kid cross the playground? To get to the other slide."
+  DoubtfulTealSimonne2 = 876
+  ModernBrownDacie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  QualifiedPinkMellicent3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DarkChocolateDeanne7 = "Why didnt the skeleton cross the road? Because he had no guts."
+  SkinnyAmberAlthea2 = 409
+  AssistantOliveLynnelle2 = true
+  VaguePinkMei = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  KnownMaroonLettie = false
+  HomelessSilverSalomi = 303
+  ManyWhiteVenus = true
+  MiserableSalmonRachel3 = true
+  EarlyAmethystAmalita = 49
+  UsualCoralEllyn3 = false
+  FashionableSapphireRenata10 = 217
+  BrokenIndigoJocelyne3 = 917
+}

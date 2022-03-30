@@ -1,0 +1,37 @@
+type dummy.UnhappyMaroonLicha3 {
+  annotations {
+    json ChillyAmaranthAilyn {
+    }
+    serviceid RedWhiteWendie3 {
+    }
+    number FierceAzureBilli {
+    }
+    string SacredRedNorma2 {
+    }
+    boolean ReadyChocolateDebi {
+    }
+  }
+  number YoungAmethystAndeee {
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalBlushChloette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AccusedSilverSally2 {
+    _hidden_value = true
+  }
+  serviceid_number IncredibleRosePatty3 {
+    _hidden_value = true
+  }
+  serviceid_number StatutoryGrayHarriot2 {
+    _hidden_value = true
+  }
+  ChillyAmaranthAilyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  RedWhiteWendie3 = "Why is Peter Pan always flying? Because he Neverlands."
+  FierceAzureBilli = 228
+  SacredRedNorma2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ReadyChocolateDebi = true
+  _hidden_value = true
+}

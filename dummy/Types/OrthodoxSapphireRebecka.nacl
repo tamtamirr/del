@@ -1,0 +1,56 @@
+type dummy.OrthodoxSapphireRebecka {
+  annotations {
+    number UninterestedTomatoSusie {
+    }
+    hidden_boolean PassingSalmonPippy {
+    }
+    serviceid_number SecondaryFuchsiaGertruda {
+    }
+    hidden_boolean PainfulMaroonLilly3 {
+    }
+    serviceid_number ProbableSalmonPhylys2 {
+    }
+    serviceid LoudApricotAnnadiana {
+    }
+  }
+  dummy.DEFAULT LovelyCoralEllissa3 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticBlackCarline {
+    _hidden_value = true
+  }
+  number SkilledMoccasinLuce {
+    _hidden_value = true
+  }
+  hidden_boolean DoubleCrimsonEthyl2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SillyIvoryJoelie {
+    _hidden_value = true
+  }
+  number JollyVioletValina2 {
+    _hidden_value = true
+  }
+  json FrozenScarletRos {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarita3 {
+    _hidden_value = true
+  }
+  boolean RoundAmberAlmeta {
+    _hidden_value = true
+  }
+  number CuddlyAmberAlayne {
+    _hidden_value = true
+  }
+  string PleasantBlackCatha2 {
+    _hidden_value = true
+  }
+  UninterestedTomatoSusie = 766
+  SecondaryFuchsiaGertruda = 824
+  ProbableSalmonPhylys2 = 994
+  LoudApricotAnnadiana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,65 @@
+type dummy.StrangeYellowWinnifred5 {
+  annotations {
+    dummy.StandardCopperDrusy2 SilentGrayHappy2 {
+    }
+    dummy.KeenGrayHannah StrikingOliveMagda {
+    }
+    hidden_boolean AcademicEmeraldFrieda4 {
+    }
+    serviceid HelpfulTealSonnie3 {
+    }
+    boolean OutdoorSilverSascha3 {
+    }
+    number PrintedRedNeysa3 {
+    }
+    serviceid_number LinguisticJadeKarilynn2 {
+    }
+    number SheerMagentaLaurene {
+    }
+    dummy.EagerPlumMillie ShortAmaranthAfton2 {
+    }
+    boolean JointCoralElissa2 {
+    }
+    number TiredGoldGretal2 {
+    }
+    hidden_boolean FamousCoralElga2 {
+    }
+    number SilentApricotAntonina {
+    }
+    serviceid_number MarkedMagentaLatrena2 {
+    }
+    dummy.DevelopingHarlequinJeanine ControversialLimeKylen3 {
+    }
+    hidden_boolean LuckyBlackCassaundra5 {
+    }
+    serviceid IncreasedCrimsonEstelle5 {
+    }
+    string HolyIndigoJehanna2 {
+    }
+    dummy.TroubledBeigeBrittan3 RainyAquaAurore3 {
+    }
+    hidden_boolean LowBlushChristye {
+    }
+    number AfraidCrimsonEmmye3 {
+    }
+    json CharmingBeigeCallie5 {
+    }
+    number ExtraordinaryIndigoJessika4 {
+    }
+  }
+  StrikingOliveMagda = true
+  HelpfulTealSonnie3 = "To be Frank, I'd have to change my name."
+  OutdoorSilverSascha3 = true
+  PrintedRedNeysa3 = 122
+  LinguisticJadeKarilynn2 = 130
+  SheerMagentaLaurene = 126
+  JointCoralElissa2 = false
+  TiredGoldGretal2 = 671
+  SilentApricotAntonina = 947
+  MarkedMagentaLatrena2 = 263
+  IncreasedCrimsonEstelle5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HolyIndigoJehanna2 = "Slept like a log last night  woke up in the fireplace."
+  AfraidCrimsonEmmye3 = 82
+  CharmingBeigeCallie5 = "Dad Im hungry  Hi hungry Im dad"
+  ExtraordinaryIndigoJessika4 = 694
+}

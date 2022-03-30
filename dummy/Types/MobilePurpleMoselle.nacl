@@ -1,0 +1,46 @@
+type dummy.MobilePurpleMoselle {
+  annotations {
+    json UrbanCyanFallon2 {
+    }
+    dummy.DEFAULT FashionableSapphireRenata3 {
+    }
+    dummy.StatutoryGrayHarriette UnchangedSilverRozella {
+    }
+    serviceid VastYellowZea {
+    }
+    boolean ChemicalGreenIsahella2 {
+    }
+  }
+  json FrozenScarletRosa {
+    _hidden_value = true
+  }
+  json DistinctTurquoiseTatiana {
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrin {
+    _hidden_value = true
+  }
+  serviceid TemporaryGrayHalie {
+    _hidden_value = true
+  }
+  number DreadfulPinkMerrili3 {
+    _hidden_value = true
+  }
+  json CircularRoseOrsa {
+    _hidden_value = true
+  }
+  serviceid PotentialCoralElbertine {
+    _hidden_value = true
+  }
+  string ParallelMoccasinLudovika {
+    _hidden_value = true
+  }
+  UrbanCyanFallon2 = "Why did the kid cross the playground? To get to the other slide."
+  FashionableSapphireRenata3 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  UnchangedSilverRozella = false
+  VastYellowZea = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ChemicalGreenIsahella2 = false
+  _hidden_value = true
+}

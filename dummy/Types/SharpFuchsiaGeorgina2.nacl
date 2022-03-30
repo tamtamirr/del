@@ -1,0 +1,27 @@
+type dummy.SharpFuchsiaGeorgina2 {
+  annotations {
+    dummy.DEFAULT FunnyEmeraldGabbie {
+    }
+    dummy.DEFAULT AccusedSilverSallyann {
+    }
+    boolean UnconsciousSapphireRaychel3 {
+    }
+    dummy.SpectacularMaroonLibbie FriendlyBlackCarma2 {
+    }
+    number FuzzyAquaAtlante {
+    }
+  }
+  serviceid YoungBlueCherey2 {
+    _hidden_value = true
+  }
+  FunnyEmeraldGabbie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  AccusedSilverSallyann = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  UnconsciousSapphireRaychel3 = false
+  FriendlyBlackCarma2 = 367
+  FuzzyAquaAtlante = 593
+  _hidden_value = true
+}

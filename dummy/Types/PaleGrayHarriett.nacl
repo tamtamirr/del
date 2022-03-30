@@ -1,0 +1,85 @@
+type dummy.PaleGrayHarriett {
+  annotations {
+    boolean CrookedAmberAlisa {
+    }
+    serviceid ColouredMoccasinLivvy {
+    }
+    dummy.AlrightGoldGoldina GreatBlueChantalle {
+    }
+    json WonderfulBlueCelesta {
+    }
+    dummy.DEFAULT RealTomatoStephine {
+    }
+    hidden_boolean KindOrangeMarice3 {
+    }
+    serviceid_number CivilCoffeeDode2 {
+    }
+  }
+  json FriendlyVioletTrula {
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMozelle {
+    _hidden_value = true
+  }
+  string DisturbedAzureBeverley {
+    _hidden_value = true
+  }
+  json BizarreTanSeana {
+    _hidden_value = true
+  }
+  json CorporateEmeraldGarnet2 {
+    _hidden_value = true
+  }
+  serviceid_number SuspiciousPurpleMyriam {
+    _hidden_value = true
+  }
+  serviceid SolidAquamarineBarrie {
+    _hidden_value = true
+  }
+  string StrictLavenderKatharina {
+    _hidden_value = true
+  }
+  serviceid SureBlushCinderella {
+    _hidden_value = true
+  }
+  dummy.FederalGrayHalli DelightedIvoryJulianne {
+    DullVioletTrina = 644
+    PunyAmaranthAeriel = 853
+    YoungBlueCheri = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    InquisitiveTealStacie = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExtraCoffeeDiandra2 = false
+    SensibleIvoryJordan = true
+    DeadTealSile = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 735
+    DeadTealSigrid = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna OuterJadeKaron {
+    ColonialPeachMaure = "Whoever invented the knock-knock joke should get a no bell prize."
+    GloriousBlackCarmine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  number InstitutionalMaroonLesley {
+    _hidden_value = true
+  }
+  number DistinctHarlequinJanella {
+    _hidden_value = true
+  }
+  hidden_boolean NaughtyAzureBonny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrookedAmberAlisa = true
+  ColouredMoccasinLivvy = "Did you know that protons have mass? I didn't even know they were catholic."
+  GreatBlueChantalle = true
+  WonderfulBlueCelesta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RealTomatoStephine = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  CivilCoffeeDode2 = 653
+  _hidden_value = true
+}

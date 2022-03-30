@@ -1,0 +1,85 @@
+type dummy.SocialBlueCharmine {
+  annotations {
+    number RemainingGoldGodiva {
+    }
+    json HarshApricotAnjela {
+    }
+    boolean DangerousAzureBetsey {
+    }
+    hidden_boolean ContinentalOliveMagdalena {
+    }
+    serviceid_number EncouragingBlackCaressa {
+    }
+    serviceid_number FashionableSapphireRenata2 {
+    }
+  }
+  serviceid_number LeftCoffeeDenys {
+    _hidden_value = true
+  }
+  string DevotedRosePauletta {
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi FiscalRedNike {
+    SillyYellowWini = 662
+    CruelAquamarineBessy = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    TameYellowYalonda = 412
+    RareWhiteWanda = 939
+    SpareMaroonLillis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StupidGreenIzabel = 92
+    MaximumGreenIlyssa = "Why did the kid cross the playground? To get to the other slide."
+    TerritorialSalmonPriscella = "What creature is smarter than a talking parrot? A spelling bee."
+    VariedRedNoreen = 594
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 825
+    IntenseLavenderKatuscha = 647
+    SubtleMoccasinLucie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  json RelativeGoldGui2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella {
+    _hidden_value = true
+  }
+  string ChubbyAmberAlisa {
+    _hidden_value = true
+  }
+  string EqualCrimsonEmilia {
+    _hidden_value = true
+  }
+  json AnonymousSapphireRayshell {
+    _hidden_value = true
+  }
+  number RequiredMaroonLethia {
+    _hidden_value = true
+  }
+  serviceid SadGrayHestia {
+    _hidden_value = true
+  }
+  json MightyWhiteVeriee {
+    _hidden_value = true
+  }
+  serviceid CheerfulBeigeCally {
+    _hidden_value = true
+  }
+  boolean FlatGrayHanny {
+    _hidden_value = true
+  }
+  json DryCyanEvaleen {
+    _hidden_value = true
+  }
+  boolean CurlyAmberAlbertine {
+    _hidden_value = true
+  }
+  "List<serviceid>" BrightVioletTove {
+    _hidden_value = true
+  }
+  RemainingGoldGodiva = 760
+  HarshApricotAnjela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DangerousAzureBetsey = true
+  EncouragingBlackCaressa = 84
+  FashionableSapphireRenata2 = 424
+  _hidden_value = true
+}

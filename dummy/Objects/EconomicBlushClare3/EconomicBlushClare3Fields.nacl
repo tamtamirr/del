@@ -1,0 +1,53 @@
+type dummy.EconomicBlushClare3 {
+  boolean DoubtfulRosePansy2 {
+  }
+  boolean ElegantTurquoiseTeddi5 {
+  }
+  string ProposedGoldGweneth5 {
+  }
+  string LivingGrayHenrietta3 {
+  }
+  serviceid_number ResonantApricotAnselma3 {
+  }
+  "List<dummy.StandardCopperDrusy2>" AliveFuchsiaGillian2 {
+    CorrespondingPlumMinny2 = 628
+    NervousAzureBrande3 = true
+    AdverseSapphireRanna4 = "How come the stadium got hot after the game? Because all of the fans left."
+    DefensiveRoseOneida = 552
+    DependentGrayHeather3 = 336
+  }
+  json StructuralIvoryJosephine {
+  }
+  number InstitutionalMaroonLesli5 {
+  }
+  number RisingScarletRosemary {
+  }
+  serviceid UniversalJadeKacey3 {
+  }
+  number SportingSilverRuthy4 {
+  }
+  json WarmCopperDulsea2 {
+  }
+  string ManualRosePat {
+  }
+  dummy.DisciplinarySilverSaba ChineseGoldGuenna3 {
+    ElegantTurquoiseTeddi2 = 870
+    VariedRedNoreen2 = file("StatisticalMagentaLanni3.txt")
+    PrettyWhiteVirgina = false
+    ParticularBlushClaude = "Whoever invented the knock-knock joke should get a no bell prize."
+    ImpossibleTealSorcha = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  boolean RetailMagentaLeonore {
+  }
+  boolean MagneticPeachMax4 {
+  }
+  boolean DifficultBronzeClementia4 {
+  }
+  hidden_boolean RoughAquaAustina4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json GrumpyVioletUrsula3 {
+  }
+}

@@ -1,0 +1,75 @@
+type dummy.SillyYellowWinna4 {
+  annotations {
+    string AbsoluteGreenImojean4 {
+    }
+    dummy.CharmingBeigeCallida CurvedAmberAlla2 {
+    }
+    json MoaningApricotAnne5 {
+    }
+    serviceid_number RareWhiteWaly2 {
+    }
+    boolean InstitutionalMaroonLeshia4 {
+    }
+    boolean CrudePlumMil5 {
+    }
+    serviceid_number CheerfulSapphireRhona2 {
+    }
+    json EldestTanSharlene5 {
+    }
+    serviceid_number StrikingOliveMagda2 {
+    }
+    json CompetentSalmonPeri3 {
+    }
+    serviceid_number NuclearCoffeeDonielle6 {
+    }
+    serviceid_number PoisedTurquoiseThomasa8 {
+    }
+    number WelshGrayHatty {
+    }
+    number CompleteCoffeeDevondra2 {
+    }
+    number DistinguishedPurpleNatassia4 {
+    }
+    serviceid MushyWhiteVerile3 {
+    }
+    hidden_boolean ExceptionalOliveMadlin3 {
+    }
+    json ExtensiveGoldGloriane4 {
+    }
+    dummy.LowBlushChristy BoringPeachMarni4 {
+    }
+    serviceid SpareMaroonLillian5 {
+    }
+    json CreepyAquamarineBess2 {
+    }
+    hidden_boolean BurningRedNikki4 {
+    }
+    dummy.SocialBlueCharmine RegisteredPurpleNalani {
+    }
+    hidden_boolean OralLimeKylynn2 {
+    }
+    boolean ImmenseAmaranthAdele7 {
+    }
+  }
+  AbsoluteGreenImojean4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CurvedAmberAlla2 = file("TightAquamarineBecki4.txt")
+  MoaningApricotAnne5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RareWhiteWaly2 = 966
+  InstitutionalMaroonLeshia4 = false
+  CrudePlumMil5 = true
+  CheerfulSapphireRhona2 = 610
+  EldestTanSharlene5 = "To be Frank, I'd have to change my name."
+  StrikingOliveMagda2 = 627
+  CompetentSalmonPeri3 = "How come the stadium got hot after the game? Because all of the fans left."
+  NuclearCoffeeDonielle6 = 411
+  PoisedTurquoiseThomasa8 = 757
+  WelshGrayHatty = 1
+  CompleteCoffeeDevondra2 = 546
+  DistinguishedPurpleNatassia4 = 971
+  MushyWhiteVerile3 = "To be Frank, I'd have to change my name."
+  ExtensiveGoldGloriane4 = "What creature is smarter than a talking parrot? A spelling bee."
+  BoringPeachMarni4 = file("RealisticMoccasinLona2.txt")
+  SpareMaroonLillian5 = "I'll tell you what often gets over looked... garden fences."
+  CreepyAquamarineBess2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ImmenseAmaranthAdele7 = false
+}

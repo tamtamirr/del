@@ -1,0 +1,57 @@
+type dummy.ValuableGoldGwynne5 {
+  annotations {
+    json UnawareSapphireReeta2 {
+    }
+    hidden_boolean HelpfulHarlequinJanette4 {
+    }
+    boolean RapidGrayHildagarde3 {
+    }
+    string CuteTomatoTanya {
+    }
+    string CommonBronzeConsuelo2 {
+    }
+    string BiologicalMaroonLetta3 {
+    }
+    boolean ShortBronzeColleen2 {
+    }
+    serviceid ScottishChocolateDelcina2 {
+    }
+    number SkinnyAmberAlvera {
+    }
+    boolean DifferentBlueCharline4 {
+    }
+    hidden_boolean IdenticalLimeKorrie3 {
+    }
+    json UnhappyMaroonLicha5 {
+    }
+    json TartYellowWynny {
+    }
+    json OralLimeKylila3 {
+    }
+    string AlertTomatoSydney2 {
+    }
+    dummy.VerbalPinkMaxi FunnyVioletTwyla3 {
+    }
+    dummy.OccupationalOliveMadel WickedScarletRoseanne3 {
+    }
+    boolean PlainIndigoJewell {
+    }
+    hidden_boolean HarshOliveMaia3 {
+    }
+  }
+  UnawareSapphireReeta2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RapidGrayHildagarde3 = false
+  CuteTomatoTanya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CommonBronzeConsuelo2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BiologicalMaroonLetta3 = "I'll tell you what often gets over looked... garden fences."
+  ShortBronzeColleen2 = true
+  ScottishChocolateDelcina2 = "A steak pun is a rare medium well done."
+  SkinnyAmberAlvera = 276
+  DifferentBlueCharline4 = false
+  UnhappyMaroonLicha5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  TartYellowWynny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OralLimeKylila3 = "Dad Im hungry  Hi hungry Im dad"
+  AlertTomatoSydney2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WickedScarletRoseanne3 = false
+  PlainIndigoJewell = true
+}

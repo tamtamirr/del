@@ -1,0 +1,39 @@
+type dummy.ThoroughScarletRona3 {
+  annotations {
+    dummy.DEFAULT SolidGreenIdalina3 {
+    }
+    number InvolvedCoffeeDenice3 {
+    }
+    hidden_boolean SoundAmethystAngeline2 {
+    }
+    string BroadCoralElisabetta5 {
+    }
+    serviceid_number ContinuousIvoryJoycelin {
+    }
+  }
+  json RelatedIndigoJessamine2 {
+    _hidden_value = true
+  }
+  string KindBlackCaryl3 {
+    _hidden_value = true
+  }
+  serviceid WesternChocolateDeerdre4 {
+    _hidden_value = true
+  }
+  serviceid_number CondemnedAquamarineBerthe2 {
+    _hidden_value = true
+  }
+  json AmericanBronzeCorrianne4 {
+    _hidden_value = true
+  }
+  json AmbitiousPeachMaureene2 {
+    _hidden_value = true
+  }
+  SolidGreenIdalina3 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  InvolvedCoffeeDenice3 = 239
+  BroadCoralElisabetta5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ContinuousIvoryJoycelin = 238
+  _hidden_value = true
+}

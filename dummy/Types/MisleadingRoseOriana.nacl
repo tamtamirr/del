@@ -1,0 +1,33 @@
+type dummy.MisleadingRoseOriana {
+  annotations {
+    json ShakyAquaAvrit {
+    }
+    hidden_boolean EnthusiasticPinkMerrie2 {
+    }
+    dummy.ManyAmethystAngel SlowAmethystAnabelle {
+    }
+    json WeakAquamarineBelia {
+    }
+    hidden_boolean GrubbyAquaAubrie {
+    }
+    boolean PowerfulTomatoStephana2 {
+    }
+  }
+  dummy.AlrightGoldGoldina CompatibleSapphireRenell {
+    RivalPurpleNara = 943
+    SingleBronzeCoral = 667
+    ProfoundPinkMerlina = 236
+    RelativeGoldGui = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AngryFuchsiaGilli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    QuickestWhiteVyky = "Why do birds fly south for the winter? Because it's too far to walk."
+    AgreedTanSelia = "Dad Im hungry  Hi hungry Im dad"
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  ShakyAquaAvrit = "Why did the kid cross the playground? To get to the other slide."
+  SlowAmethystAnabelle = 490
+  WeakAquamarineBelia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PowerfulTomatoStephana2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.WoodenGreenHortense {
+  annotations {
+    hidden_boolean OrdinaryCopperEdie {
+    }
+    serviceid CapableEmeraldFlorinda {
+    }
+    string ColourfulScarletRosalia2 {
+    }
+  }
+  boolean LuckyFuchsiaGinnie {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcettina {
+    _hidden_value = true
+  }
+  hidden_boolean SillyYellowWinna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ProductivePlumMommy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah ElderlyEmeraldFlorence {
+    TragicRosePauline = "Why didnt the skeleton cross the road? Because he had no guts."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  json HeadPinkMegen {
+    _hidden_value = true
+  }
+  serviceid IsolatedPeachMarjory {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelene {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmi {
+    _hidden_value = true
+  }
+  serviceid EssentialCoffeeDionne {
+    _hidden_value = true
+  }
+  number SophisticatedJadeKarlotte {
+    _hidden_value = true
+  }
+  json FascinatingOrangeMargarete {
+    _hidden_value = true
+  }
+  CapableEmeraldFlorinda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ColourfulScarletRosalia2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.ValidLavenderKesley {
+  string HeavyAmethystAndy2 {
+  }
+  number IraqiOliveMadelyn2 {
+  }
+  "List<number>" QuickestWhiteVonny3 {
+  }
+  dummy.ExcitedOrangeMarinna NewBlueChad3 {
+    BritishBlushCherilyn2 = "To be Frank, I'd have to change my name."
+    ImaginativeTanSeline6 = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    SillyBlueCathlene2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ElectricalLavenderKerrie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WorryingSilverRozalie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AmazingMoccasinLizbeth2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    CooingAmethystAngelle2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ShockedPinkMelisande2 = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+  }
+  string InstitutionalMaroonLesli3 {
+  }
+  json FragileTealSondra4 {
+  }
+  serviceid_number RivalPurpleNariko2 {
+  }
+  serviceid SatisfactoryLimeKrissy7 {
+  }
+  dummy.PlannedPlumMiran ReasonableCrimsonEmelda4 {
+    RipeApricotAriel2 = false
+    UnhappyMaroonLida = "Why is Peter Pan always flying? Because he Neverlands."
+    JitteryVioletValeria2 = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  string EthnicLavenderKaycee3 {
+  }
+  serviceid_number RoastedWhiteWendy {
+  }
+  hidden_boolean RandomMoccasinLorelle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SuitableCrimsonEmera4 {
+  }
+}

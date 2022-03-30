@@ -1,0 +1,125 @@
+type dummy.LiberalCyanFarra2 {
+  annotations {
+    dummy.ExtraCoffeeDianemarie DeliberateRedNoelle {
+    }
+    string MassiveAmaranthAdria {
+    }
+    json LovelyBlackCass {
+    }
+    serviceid_number HostileOrangeMarieann3 {
+    }
+    serviceid DisciplinarySilverRycca2 {
+    }
+    number LevelJadeKamila2 {
+    }
+  }
+  boolean StaticSapphireRebecka {
+    _hidden_value = true
+  }
+  serviceid_number LightTurquoiseTessy2 {
+    _hidden_value = true
+  }
+  serviceid RetiredSilverSarah3 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula UnpleasantRedNonna {
+    _hidden_value = true
+  }
+  string TenderYellowYnes2 {
+    _hidden_value = true
+  }
+  number BareLavenderKelley3 {
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah HurtAzureBlythe5 {
+    TragicRosePauline = "Why was it called the dark ages? Because of all the knights. "
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  json OddWhiteVinita4 {
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureAmaranthAdriane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DivineRoseOpal2 {
+    _hidden_value = true
+  }
+  json CreativeJadeKania3 {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbye5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnacceptableSalmonPenelope3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OlympicRedNessi2 {
+    _hidden_value = true
+  }
+  serviceid_number OrdinaryWhiteVirgie {
+    _hidden_value = true
+  }
+  number ShiveringAquaBabette2 {
+    _hidden_value = true
+  }
+  string TinyCyanEula3 {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha2 {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ConstitutionalHarlequinJayne {
+    _hidden_value = true
+  }
+  json HomelyTurquoiseTerza {
+    _hidden_value = true
+  }
+  number SignificantBrownDanna3 {
+    _hidden_value = true
+  }
+  boolean HarshOliveMahala2 {
+    _hidden_value = true
+  }
+  string FriendlyVioletTrudie3 {
+    _hidden_value = true
+  }
+  boolean DeterminedOrangeMarillin5 {
+    _hidden_value = true
+  }
+  string ShiveringAquaBabette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggie2 {
+    _hidden_value = true
+  }
+  serviceid_number FrontCopperEalasaid {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryGrayHarriott {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.OccupationalOliveMadel MelodicApricotAnnamaria2 {
+    DifferentBlueCharleen = 578
+    AverageCoralElysha2 = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    WearyBeigeBrooke = "Slept like a log last night  woke up in the fireplace."
+    PoisedTurquoiseThomasin = 975
+    _hidden_value = true
+  }
+  DeliberateRedNoelle = true
+  MassiveAmaranthAdria = "Why is Peter Pan always flying? Because he Neverlands."
+  LovelyBlackCass = "What creature is smarter than a talking parrot? A spelling bee."
+  HostileOrangeMarieann3 = 330
+  DisciplinarySilverRycca2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LevelJadeKamila2 = 346
+  _hidden_value = true
+}

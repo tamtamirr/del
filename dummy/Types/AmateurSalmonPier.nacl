@@ -1,0 +1,48 @@
+type dummy.AmateurSalmonPier {
+  annotations {
+    boolean OutstandingIndigoJenna2 {
+    }
+    hidden_boolean CompatibleSapphireRennie {
+    }
+    serviceid StupidHarlequinJacenta {
+    }
+    serviceid_number GreenChocolateDebra {
+    }
+    string ReliableLavenderKimberlee {
+    }
+    string EducationalCrimsonErtha {
+    }
+  }
+  number WorkingCrimsonEmmaline {
+    _hidden_value = true
+  }
+  string StandardCopperDrusie {
+    _hidden_value = true
+  }
+  boolean AmbitiousPeachMaureene {
+    _hidden_value = true
+  }
+  serviceid_number JudicialJadeKarisa {
+    _hidden_value = true
+  }
+  serviceid ProspectiveRedNetty {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExclusiveMagentaLatia {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishSapphireReina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WonderfulBlueCeleste {
+    _hidden_value = true
+  }
+  OutstandingIndigoJenna2 = true
+  StupidHarlequinJacenta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GreenChocolateDebra = 954
+  ReliableLavenderKimberlee = "What do you call two barracuda fish?  A Pairacuda!"
+  EducationalCrimsonErtha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

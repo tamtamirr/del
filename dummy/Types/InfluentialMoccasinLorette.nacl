@@ -1,0 +1,29 @@
+type dummy.InfluentialMoccasinLorette {
+  annotations {
+    dummy.DEFAULT ProudBlueCatherin {
+    }
+    hidden_boolean ChemicalGreenIsadora {
+    }
+    string AmusedBeigeCacilie3 {
+    }
+  }
+  serviceid HomelessSilverSalome {
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosalynd {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalCyanEvangelina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number NecessaryBronzeCorabella {
+    _hidden_value = true
+  }
+  ProudBlueCatherin = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  AmusedBeigeCacilie3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

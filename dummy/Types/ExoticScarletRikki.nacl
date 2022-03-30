@@ -1,0 +1,108 @@
+type dummy.ExoticScarletRikki {
+  annotations {
+    boolean SquealingApricotArabel {
+    }
+    hidden_boolean AnnualCoffeeDonnie {
+    }
+    boolean CoolGreenInna {
+    }
+    dummy.DEFAULT AmazingMoccasinLizbeth {
+    }
+    number GladGoldGlynnis2 {
+    }
+  }
+  number BoredAquamarineBerry {
+    _hidden_value = true
+  }
+  serviceid_number FatIvoryJoella {
+    _hidden_value = true
+  }
+  dummy.PrivateBronzeCordy BlueVioletTorie {
+    CoolAmaranthAindrea = "To be Frank, I'd have to change my name."
+    CoherentScarletRoselin = "Why did the kid cross the playground? To get to the other slide."
+    OverallCrimsonEmmalynn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    IncreasedCrimsonEsther = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MightyWhiteVerena = "Dad Im hungry  Hi hungry Im dad"
+    IrishCrimsonErminia = "How come the stadium got hot after the game? Because all of the fans left."
+    AutomaticLavenderKevyn = false
+    _hidden_value = true
+  }
+  number FoolishSapphireReiko {
+    _hidden_value = true
+  }
+  serviceid PleasantIvoryJorry {
+    _hidden_value = true
+  }
+  hidden_boolean YellowYellowZora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TremendousMagentaLeoine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ImpossibleCopperDulcea {
+    _hidden_value = true
+  }
+  boolean SorryBrownDanyette {
+    _hidden_value = true
+  }
+  json SurroundingOrangeMargette {
+    _hidden_value = true
+  }
+  serviceid_number UpsetOliveMab {
+    _hidden_value = true
+  }
+  string TightAquamarineBee {
+    _hidden_value = true
+  }
+  json ObedientBlackCassy {
+    _hidden_value = true
+  }
+  boolean ConcernedBronzeCorrena {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie TragicRosePavia {
+    FriendlyBlackCarma = 883
+    FrightenedMagentaLavena = 828
+    RepulsiveBeigeBrena = "Dad Im hungry  Hi hungry Im dad"
+    UptightBeigeBrittni = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ExactLimeKordula2 = 498
+    LocalBlueCharmian = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SensibleIvoryJordana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MonetaryIvoryJoey = "Im only familiar with 25 letters in the English language. I dont know why."
+    WickedBeigeBryna = "Why did the tomato blush? Because it saw the salad dressing."
+    AshamedScarletRosamund = 245
+    ChillyAmaranthAilsun = 208
+    CooingAmethystAngelique = 364
+    FatalPurpleMyrtle = 154
+    ThoughtlessBeigeBrinna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EvilAzureBili = 447
+    RelievedBlueCathie = true
+    CleverTealSibeal = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GrowingCrimsonEnrichetta = 898
+    _hidden_value = true
+  }
+  string ExpectedLimeLane {
+    _hidden_value = true
+  }
+  boolean SmoothIndigoJemimah {
+    _hidden_value = true
+  }
+  string PhysicalCoffeeDenise {
+    _hidden_value = true
+  }
+  SquealingApricotArabel = true
+  CoolGreenInna = true
+  AmazingMoccasinLizbeth = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  GladGoldGlynnis2 = 834
+  _hidden_value = true
+}

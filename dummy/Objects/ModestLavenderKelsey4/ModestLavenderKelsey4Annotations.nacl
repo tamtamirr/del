@@ -1,0 +1,49 @@
+type dummy.ModestLavenderKelsey4 {
+  annotations {
+    json BlindIvoryJudith {
+    }
+    string NearbyLimeKora2 {
+    }
+    serviceid ShaggyAquaAvis {
+    }
+    dummy.StatutoryGrayHarriette UsefulChocolateDee {
+    }
+    string CuteTomatoTara6 {
+    }
+    serviceid FaithfulBlackCarlina4 {
+    }
+    dummy.MobilePurpleMoselle BroadCoralElisabet {
+    }
+    boolean EnergeticBlackCaril3 {
+    }
+    dummy.FaithfulTanShayna UnknownFuchsiaGilberta3 {
+    }
+    number ProfitablePurpleNanon2 {
+    }
+    dummy.MinimumIndigoJeri SophisticatedJadeKarlene3 {
+    }
+    string ArabLimeKirsteni2 {
+    }
+    hidden_boolean CoolGreenIona {
+    }
+    hidden_boolean EerieAzureBeverly2 {
+    }
+    serviceid_number ConcernedBronzeCorny4 {
+    }
+    hidden_boolean ChiefCopperDorree {
+    }
+    boolean HungryAzureBlithe2 {
+    }
+  }
+  BlindIvoryJudith = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NearbyLimeKora2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShaggyAquaAvis = "Why did the kid cross the playground? To get to the other slide."
+  UsefulChocolateDee = false
+  CuteTomatoTara6 = "To be Frank, I'd have to change my name."
+  FaithfulBlackCarlina4 = "I'll tell you what often gets over looked... garden fences."
+  EnergeticBlackCaril3 = false
+  ProfitablePurpleNanon2 = 446
+  ArabLimeKirsteni2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ConcernedBronzeCorny4 = 531
+  HungryAzureBlithe2 = false
+}

@@ -1,0 +1,18 @@
+type dummy.VariousBronzeCorrina {
+  annotations {
+    json DampAmberAlene {
+    }
+    hidden_boolean NovelScarletRosette {
+    }
+    string UnchangedSilverRozina {
+    }
+  }
+  hidden_boolean VariableRedNollie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DampAmberAlene = "What do you call two barracuda fish?  A Pairacuda!"
+  UnchangedSilverRozina = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

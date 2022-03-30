@@ -1,0 +1,94 @@
+type dummy.GrowingCrimsonEnrica {
+  annotations {
+    json EncouragingBlackCaresse {
+    }
+    number UnlikelyCrimsonEthelin4 {
+    }
+    json RedWhiteWendeline3 {
+    }
+    number ExoticSapphireRiki {
+    }
+    string OrganisationalTanSharai {
+    }
+  }
+  serviceid InclinedRedNovelia {
+    _hidden_value = true
+  }
+  dummy.PrivateBronzeCordy DecisiveSalmonPenny2 {
+    CoolAmaranthAindrea = "A steak pun is a rare medium well done."
+    CoherentScarletRoselin = "Why was it called the dark ages? Because of all the knights. "
+    OverallCrimsonEmmalynn = "To be Frank, I'd have to change my name."
+    IncreasedCrimsonEsther = "Why is Peter Pan always flying? Because he Neverlands."
+    MightyWhiteVerena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    IrishCrimsonErminia = "Why was it called the dark ages? Because of all the knights. "
+    AutomaticLavenderKevyn = true
+    _hidden_value = true
+  }
+  boolean SingleBronzeCoral3 {
+    _hidden_value = true
+  }
+  boolean SacredRedNorma {
+    _hidden_value = true
+  }
+  serviceid_number ImaginativeTanSelinda {
+    _hidden_value = true
+  }
+  serviceid_number PainfulMaroonLilly2 {
+    _hidden_value = true
+  }
+  boolean ProgressiveOliveMadelina3 {
+    _hidden_value = true
+  }
+  boolean IntellectualJadeKalila2 {
+    _hidden_value = true
+  }
+  serviceid_number DifferentTealSilvia3 {
+    _hidden_value = true
+  }
+  string AtomicScarletRorie {
+    _hidden_value = true
+  }
+  string PuzzledTanShandy2 {
+    _hidden_value = true
+  }
+  number ModernTealStafani {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJillie2 {
+    _hidden_value = true
+  }
+  serviceid EstimatedOrangeMargette {
+    _hidden_value = true
+  }
+  string EasyBronzeCollen2 {
+    _hidden_value = true
+  }
+  boolean NarrowAmberAlma {
+    _hidden_value = true
+  }
+  string OddWhiteVinita2 {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorCoffeeDonelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WiseLavenderKatherina2 {
+    _hidden_value = true
+  }
+  json ExtraordinaryIndigoJessica2 {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousAquamarineBenoite {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EncouragingBlackCaresse = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UnlikelyCrimsonEthelin4 = 468
+  RedWhiteWendeline3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExoticSapphireRiki = 244
+  OrganisationalTanSharai = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

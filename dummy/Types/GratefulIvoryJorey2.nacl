@@ -1,0 +1,78 @@
+type dummy.GratefulIvoryJorey2 {
+  annotations {
+    json YellowGoldGiulietta {
+    }
+    string TopChocolateDareen {
+    }
+    string CasualOliveLusa {
+    }
+    boolean RegularCopperDorris {
+    }
+    boolean GiganticAmaranthAdda2 {
+    }
+    hidden_boolean WorthyRoseOdille {
+    }
+  }
+  dummy.DEFAULT UnknownFuchsiaGilberte {
+    _hidden_value = true
+  }
+  boolean RationalLavenderKatusha {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie CreepyAmberAlaine2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AestheticSapphireReba {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarissa2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessica {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PuzzledTanShandy {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseTobey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MarriedCyanFanni {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulTealSonnnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SlowAmethystAnaliese2 {
+    _hidden_value = true
+  }
+  serviceid FinancialBronzeCori {
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCinda {
+    _hidden_value = true
+  }
+  serviceid VulnerableJadeKarola {
+    _hidden_value = true
+  }
+  string NeighbouringPurpleNananne {
+    _hidden_value = true
+  }
+  hidden_boolean TeenageScarletRobinett {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  YellowGoldGiulietta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TopChocolateDareen = "Why did the kid cross the playground? To get to the other slide."
+  CasualOliveLusa = "How come the stadium got hot after the game? Because all of the fans left."
+  RegularCopperDorris = false
+  GiganticAmaranthAdda2 = false
+  _hidden_value = true
+}

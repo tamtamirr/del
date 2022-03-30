@@ -1,0 +1,64 @@
+type dummy.RussianCyanFelisha2 {
+  annotations {
+    serviceid_number IntensiveMoccasinLura2 {
+    }
+    serviceid_number QuaintWhiteVivie {
+    }
+    number InterestingChocolateDeloris2 {
+    }
+    string UpsetOliveMabel6 {
+    }
+    json TastelessAquaAshleigh2 {
+    }
+  }
+  string CivicTanShellie3 {
+    _hidden_value = true
+  }
+  "List<dummy.StatutoryGrayHarriette>" JealousAzureBobbie2 {
+    BeneficialPlumMonika = "Why do birds fly south for the winter? Because it's too far to walk."
+    PossibleBlushCheryl = "Im only familiar with 25 letters in the English language. I dont know why."
+    SpotlessTurquoiseTilly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SadYellowWilletta = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    RottenApricotArielle = "What did one nut say as he chased another nut?  I'm a cashew!"
+    WetGrayHedi = false
+    PrettyWhiteVirgie = true
+    NetGoldGlen = 839
+    FreeBronzeCody = 586
+    _hidden_value = true
+  }
+  serviceid_number LtdCoralEloisa {
+    _hidden_value = true
+  }
+  number ConcreteOliveLynette {
+    _hidden_value = true
+  }
+  json NervousAzureBrana {
+    _hidden_value = true
+  }
+  json BoldPlumMinnaminnie4 {
+    _hidden_value = true
+  }
+  serviceid ArabLimeKirsteni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SimpleBronzeCorliss2 {
+    _hidden_value = true
+  }
+  string WrittenGreenIvette2 {
+    _hidden_value = true
+  }
+  serviceid RigidPinkMerrily2 {
+    _hidden_value = true
+  }
+  json FashionableSapphireRena2 {
+    _hidden_value = true
+  }
+  IntensiveMoccasinLura2 = 809
+  QuaintWhiteVivie = 616
+  InterestingChocolateDeloris2 = 505
+  UpsetOliveMabel6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TastelessAquaAshleigh2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

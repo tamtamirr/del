@@ -1,0 +1,51 @@
+type dummy.IllAzureBobbee is boolean {
+  annotations {
+    serviceid CriticalCrimsonEstell {
+    }
+    serviceid_number GorgeousVioletUna {
+    }
+    string TraditionalChocolateDeidre {
+    }
+    json ScaredSalmonRafaelita {
+    }
+    hidden_boolean EarlyAmethystAmanda {
+    }
+    number MotionlessTurquoiseTheodora {
+    }
+    serviceid BreezyAmaranthAidan {
+    }
+    boolean ScaredSapphireRahal {
+    }
+    string BeautifulTomatoTabina {
+    }
+    serviceid_number ExceptionalOliveMadlin {
+    }
+    number HeadPinkMeg {
+    }
+    boolean UrgentLimeKristyn {
+    }
+    json DeliberateRedNoelyn {
+    }
+    serviceid BeneficialPlumMonica {
+    }
+    json WillingGoldGussy {
+    }
+    boolean MobilePurpleMoria {
+    }
+  }
+  CriticalCrimsonEstell = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GorgeousVioletUna = 0
+  TraditionalChocolateDeidre = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ScaredSalmonRafaelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MotionlessTurquoiseTheodora = 945
+  BreezyAmaranthAidan = "Why did the kid cross the playground? To get to the other slide."
+  ScaredSapphireRahal = true
+  BeautifulTomatoTabina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExceptionalOliveMadlin = 472
+  HeadPinkMeg = 810
+  UrgentLimeKristyn = true
+  DeliberateRedNoelyn = "Why didnt the skeleton cross the road? Because he had no guts."
+  BeneficialPlumMonica = "Why did the tomato blush? Because it saw the salad dressing."
+  WillingGoldGussy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MobilePurpleMoria = true
+}

@@ -1,0 +1,26 @@
+type dummy.FavouriteHarlequinJacquelin {
+  annotations {
+    boolean AwkwardPeachMaryl3 {
+    }
+    number UnsightlyTurquoiseTiphany {
+    }
+    serviceid IncreasedCrimsonEstella2 {
+    }
+    dummy.ImmenseAmaranthAdelice InstantSapphireRandy3 {
+    }
+    number SportingSilverRuthi {
+    }
+    string BeautifulVioletTommy2 {
+    }
+  }
+  boolean InherentRedNita {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryl3 = false
+  UnsightlyTurquoiseTiphany = 742
+  IncreasedCrimsonEstella2 = "A steak pun is a rare medium well done."
+  InstantSapphireRandy3 = 228
+  SportingSilverRuthi = 813
+  BeautifulVioletTommy2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

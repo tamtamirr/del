@@ -1,0 +1,47 @@
+type dummy.OccasionalIvoryJuliette is number {
+  annotations {
+    serviceid UglyTurquoiseTiphani {
+    }
+    serviceid FairBlackCarlen {
+    }
+    serviceid_number FuriousRedNicolle {
+    }
+    serviceid_number AbstractMaroonLilyan {
+    }
+    number RipeApricotAriel {
+    }
+    serviceid_number OlympicRedNessa {
+    }
+    hidden_boolean RomanFuchsiaGermain {
+    }
+    json SignificantBrownDanna {
+    }
+    boolean TenderAquamarineBecca {
+    }
+    hidden_boolean CommonBronzeCookie {
+    }
+    serviceid_number MysteriousAzureBonita {
+    }
+    number VastEmeraldFreddi {
+    }
+    serviceid ConstantEmeraldFrayda {
+    }
+    serviceid_number BigAmaranthAbbi {
+    }
+    string WorriedGrayHarri {
+    }
+  }
+  UglyTurquoiseTiphani = "Why did the tomato blush? Because it saw the salad dressing."
+  FairBlackCarlen = "To be Frank, I'd have to change my name."
+  FuriousRedNicolle = 573
+  AbstractMaroonLilyan = 894
+  RipeApricotAriel = 165
+  OlympicRedNessa = 526
+  SignificantBrownDanna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TenderAquamarineBecca = true
+  MysteriousAzureBonita = 127
+  VastEmeraldFreddi = 692
+  ConstantEmeraldFrayda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BigAmaranthAbbi = 722
+  WorriedGrayHarri = "Why was it called the dark ages? Because of all the knights. "
+}

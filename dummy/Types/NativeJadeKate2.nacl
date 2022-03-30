@@ -1,0 +1,54 @@
+type dummy.NativeJadeKate2 {
+  annotations {
+    serviceid_number SoundAmethystAngeline3 {
+    }
+    number SexualCopperEachelle3 {
+    }
+    json BeautifulCoffeeDita2 {
+    }
+    dummy.DEFAULT NuclearCoffeeDonielle4 {
+    }
+    json FineBrownCourtenay4 {
+    }
+  }
+  serviceid_number PureGrayHephzibah2 {
+    _hidden_value = true
+  }
+  number FilthyTurquoiseTeodora3 {
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri3 {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda4 {
+    _hidden_value = true
+  }
+  boolean SoreBeigeBrigid {
+    _hidden_value = true
+  }
+  number UnawareSapphireReeba2 {
+    _hidden_value = true
+  }
+  json SeniorCoffeeDonetta2 {
+    _hidden_value = true
+  }
+  serviceid_number ExtensiveGoldGloriane3 {
+    _hidden_value = true
+  }
+  hidden_boolean ToughGoldGlenn3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CrowdedTomatoTani4 {
+    _hidden_value = true
+  }
+  SoundAmethystAngeline3 = 108
+  SexualCopperEachelle3 = 926
+  BeautifulCoffeeDita2 = "I'll tell you what often gets over looked... garden fences."
+  NuclearCoffeeDonielle4 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  FineBrownCourtenay4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

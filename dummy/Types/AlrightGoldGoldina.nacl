@@ -1,0 +1,33 @@
+type dummy.AlrightGoldGoldina is boolean {
+  annotations {
+    serviceid_number RivalPurpleNara {
+    }
+    number SingleBronzeCoral {
+    }
+    number ProfoundPinkMerlina {
+    }
+    json RelativeGoldGui {
+    }
+    serviceid AngryFuchsiaGilli {
+    }
+    string QuickestWhiteVyky {
+    }
+    serviceid AgreedTanSelia {
+    }
+    boolean IntenseLavenderKattie {
+    }
+    hidden_boolean SportingSilverRuthie {
+    }
+    string ExcitingGreenIvett {
+    }
+  }
+  RivalPurpleNara = 677
+  SingleBronzeCoral = 936
+  ProfoundPinkMerlina = 986
+  RelativeGoldGui = "How come the stadium got hot after the game? Because all of the fans left."
+  AngryFuchsiaGilli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuickestWhiteVyky = "Why did the kid cross the playground? To get to the other slide."
+  AgreedTanSelia = "Why did the tomato blush? Because it saw the salad dressing."
+  IntenseLavenderKattie = true
+  ExcitingGreenIvett = "What do you call two barracuda fish?  A Pairacuda!"
+}

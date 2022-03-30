@@ -1,0 +1,32 @@
+type dummy.ImportantTealSophi is number {
+  annotations {
+    serviceid_number PrimeBrownDanielle {
+    }
+    serviceid_number FilthyTurquoiseTera {
+    }
+    string ExuberantBlackCarleen {
+    }
+    serviceid_number DutchLavenderKelsy {
+    }
+    number SpareMaroonLilli {
+    }
+    json OldAmethystAmie2 {
+    }
+    number DominantIndigoJenda {
+    }
+    hidden_boolean JollyBlackCarrie {
+    }
+    serviceid_number AncientEmeraldFlora {
+    }
+    hidden_boolean LikelyBlushClarey {
+    }
+  }
+  PrimeBrownDanielle = 578
+  FilthyTurquoiseTera = 292
+  ExuberantBlackCarleen = "Why didnt the skeleton cross the road? Because he had no guts."
+  DutchLavenderKelsy = 333
+  SpareMaroonLilli = 447
+  OldAmethystAmie2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DominantIndigoJenda = 310
+  AncientEmeraldFlora = 310
+}

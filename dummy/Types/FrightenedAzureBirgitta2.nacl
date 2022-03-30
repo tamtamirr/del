@@ -1,0 +1,64 @@
+type dummy.FrightenedAzureBirgitta2 {
+  annotations {
+    hidden_boolean OddFuchsiaGenevra {
+    }
+    number WildTomatoSuzie2 {
+    }
+    dummy.SwissPlumMikaela IllAzureBobbi {
+    }
+    number QuickWhiteVonni7 {
+    }
+    hidden_boolean ProudHarlequinJammie {
+    }
+    string ClosedMagentaLeila2 {
+    }
+  }
+  boolean UniversalJadeJyoti2 {
+    _hidden_value = true
+  }
+  boolean SlipperyAquamarineBarbe2 {
+    _hidden_value = true
+  }
+  serviceid GrubbyAquaAubry5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FaithfulTanShayna4 {
+    _hidden_value = true
+  }
+  serviceid InadequateLavenderKaylyn2 {
+    _hidden_value = true
+  }
+  json ArchitecturalRosePatrica4 {
+    _hidden_value = true
+  }
+  hidden_boolean HorizontalSalmonPrudence2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EnviousAzureBiddie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AdditionalCopperDottie3 {
+    _hidden_value = true
+  }
+  number FutureCoffeeDolores2 {
+    _hidden_value = true
+  }
+  string SolarRosePammy {
+    _hidden_value = true
+  }
+  serviceid AbsentPinkMelony2 {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJessa2 {
+    _hidden_value = true
+  }
+  WildTomatoSuzie2 = 679
+  IllAzureBobbi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  QuickWhiteVonni7 = 710
+  ClosedMagentaLeila2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

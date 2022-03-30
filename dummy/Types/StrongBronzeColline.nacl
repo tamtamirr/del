@@ -1,0 +1,119 @@
+type dummy.StrongBronzeColline {
+  annotations {
+    json DynamicPeachMarna {
+    }
+    json VictoriousBlueCecile3 {
+    }
+    string DistinctiveLimeKristi {
+    }
+    serviceid_number CautiousScarletRivy2 {
+    }
+    dummy.DEFAULT ShallowPinkMeghan {
+    }
+    serviceid_number FilthyTurquoiseTera5 {
+    }
+    serviceid AppropriateChocolateDarci2 {
+    }
+  }
+  serviceid AncientAmethystAmalee2 {
+    _hidden_value = true
+  }
+  string YoungAmethystAnastassia2 {
+    _hidden_value = true
+  }
+  string MotionlessTurquoiseTheodora2 {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaydra2 {
+    _hidden_value = true
+  }
+  string SpicyAquaArlina2 {
+    _hidden_value = true
+  }
+  string WholeBronzeClo {
+    _hidden_value = true
+  }
+  number NuclearCoffeeDonica2 {
+    _hidden_value = true
+  }
+  serviceid_number ComparableMoccasinLizzie2 {
+    _hidden_value = true
+  }
+  dummy.AcceptedTanSerena TemporaryGrayHalimeda {
+    HarshOliveMaia = "Did you know that protons have mass? I didn't even know they were catholic."
+    EvolutionarySilverRuby = "Why did the kid cross the playground? To get to the other slide."
+    SoundAmethystAngelika = "How come the stadium got hot after the game? Because all of the fans left."
+    ExtraCoffeeDiandra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    QuaintWhiteVivianna = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  string DecentMoccasinLorain {
+    _hidden_value = true
+  }
+  json CruelPlumMichaela2 {
+    _hidden_value = true
+  }
+  string RetailMaroonLeora {
+    _hidden_value = true
+  }
+  number PartialOliveLyndell2 {
+    _hidden_value = true
+  }
+  serviceid RomanFuchsiaGermain3 {
+    _hidden_value = true
+  }
+  serviceid_number HardAquaAudra2 {
+    _hidden_value = true
+  }
+  json SmoothAquamarineBarbie {
+    _hidden_value = true
+  }
+  serviceid DrunkPeachMarlee {
+    _hidden_value = true
+  }
+  boolean ToughGoldGlenna2 {
+    _hidden_value = true
+  }
+  json PaleGrayHarriett3 {
+    _hidden_value = true
+  }
+  dummy.FarBlushChristin ImaginativeTanSelle {
+    _hidden_value = true
+  }
+  string RelaxedPlumMinni5 {
+    _hidden_value = true
+  }
+  boolean GrossLavenderKetti3 {
+    _hidden_value = true
+  }
+  json BriefEmeraldFlorri2 {
+    _hidden_value = true
+  }
+  hidden_boolean MiddleCopperDyana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DifferentBlueCharleen2 {
+    _hidden_value = true
+  }
+  number BitterJadeKass {
+    _hidden_value = true
+  }
+  json RudeTanShaylyn {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana4 {
+    _hidden_value = true
+  }
+  DynamicPeachMarna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VictoriousBlueCecile3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DistinctiveLimeKristi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CautiousScarletRivy2 = 850
+  ShallowPinkMeghan = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  FilthyTurquoiseTera5 = 74
+  AppropriateChocolateDarci2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

@@ -1,0 +1,128 @@
+type dummy.PerfectCrimsonEtti {
+  annotations {
+    hidden_boolean EldestTanSharla2 {
+    }
+    serviceid_number PremierOrangeMari {
+    }
+    serviceid_number ReasonableCrimsonEmelda {
+    }
+    hidden_boolean EldestTanSharlene2 {
+    }
+    string ToughGoldGlenn {
+    }
+    json WorryingSilverRozanna {
+    }
+  }
+  string ProfoundPinkMerl {
+    _hidden_value = true
+  }
+  string SmallAmaranthAgathe {
+    _hidden_value = true
+  }
+  string IndirectPeachMary {
+    _hidden_value = true
+  }
+  number IdenticalLimeKorney {
+    _hidden_value = true
+  }
+  serviceid LegislativeMaroonLinea {
+    _hidden_value = true
+  }
+  hidden_boolean AmazingMoccasinLiza {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DeepChocolateDelly {
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDoti {
+    _hidden_value = true
+  }
+  hidden_boolean TechnicalCopperEdeline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json LatinLimeKlarrisa {
+    _hidden_value = true
+  }
+  string ComplicatedIndigoJoanna2 {
+    _hidden_value = true
+  }
+  serviceid_number WearyBeigeBrunhilda {
+    _hidden_value = true
+  }
+  number FantasticSapphireRegina {
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedMagentaLaureen3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CriminalFuchsiaGeorgetta {
+    _hidden_value = true
+  }
+  serviceid ActualCopperEbonee2 {
+    _hidden_value = true
+  }
+  dummy.LowBlushChristy GeneralBlushChristan3 {
+    ExplicitMaroonLisetta2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UnevenAquamarineBeitris = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TameTomatoSusette = "Slept like a log last night  woke up in the fireplace."
+    KindOrangeMaribeth = "What do you call two barracuda fish?  A Pairacuda!"
+    BrokenAmaranthAilee = 622
+    RelievedSalmonPetronia = true
+    ComplexCopperDrucie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PublicBlushChrysler = true
+    AverageCoralElysha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EntireEmeraldFranciska = 965
+    CurrentBrownDacey = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  hidden_boolean AddedPinkMelina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RepresentativePinkMerline {
+    _hidden_value = true
+  }
+  dummy.NumerousHarlequinJandy IdenticalLimeKorie {
+    PuzzledTomatoStephie = false
+    SpecificBrownDarb = 816
+    PersistentRosePamela = 751
+    WorryingSilverRozamond = "Why is Peter Pan always flying? Because he Neverlands."
+    GreenVioletUla = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    TinyAmaranthAgnes = false
+    SuccessfulBlueCatlee = "Why is Peter Pan always flying? Because he Neverlands."
+    FamousTealSissie = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    KindOrangeMarice = "A steak pun is a rare medium well done."
+    CriticalCrimsonEstele = "Dad Im hungry  Hi hungry Im dad"
+    LuckyBlackCassandry = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FundamentalFuchsiaGenevieve = "Why do birds fly south for the winter? Because it's too far to walk."
+    NutritiousWhiteVina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CanadianPlumMinerva = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExactLimeKore = "Why did the kid cross the playground? To get to the other slide."
+    RenewedSilverSandy = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    PeculiarPlumMicheline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SmoothAquamarineBarbey = true
+    NarrowAmberAllys = 261
+    EnvironmentalCoffeeDomini = 41
+    CombinedOliveMaighdiln = false
+    NuttyWhiteVikki = 650
+    TroubledBeigeBritta = "I'll tell you what often gets over looked... garden fences."
+    KindBlackCaryl2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  PremierOrangeMari = 650
+  ReasonableCrimsonEmelda = 719
+  ToughGoldGlenn = "Did you know that protons have mass? I didn't even know they were catholic."
+  WorryingSilverRozanna = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

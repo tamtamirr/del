@@ -1,0 +1,92 @@
+type dummy.FlatAmberAlli3 {
+  hidden_boolean AwfulAquamarineBernelle6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ChristianCoralElva3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string LesserMoccasinLucy2 {
+  }
+  hidden_boolean LevelJadeKameko5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string QuickAmethystAmitie {
+  }
+  json FascinatingOrangeMargareta {
+  }
+  number ArtisticPeachMathilda3 {
+  }
+  serviceid IllAzureBobbee5 {
+  }
+  boolean UncertainMagentaLelah3 {
+  }
+  string PaleGrayHarriett5 {
+  }
+  dummy.FarBlushChristin SpiritualLavenderKatrinka4 {
+  }
+  boolean SatisfactoryLimeKrissy8 {
+  }
+  hidden_boolean BindingSalmonPetrina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ElderlyEmeraldFlorencia2 {
+  }
+  json FragileTealSonia3 {
+  }
+  dummy.NarrowCyanFannie CoolAmaranthAinsley5 {
+    DistinguishedPurpleNatasha = 985
+    EmotionalGrayHermione = "Why do birds fly south for the winter? Because it's too far to walk."
+    IncreasingCyanEvita = 144
+    MildOliveMadalyn = 762
+  }
+  "List<string>" YellowYellowZonnya2 {
+  }
+  serviceid_number FemaleCrimsonEmmey3 {
+  }
+  json EmptyCyanFancy2 {
+  }
+  serviceid DependentGrayHazel {
+  }
+  boolean HandsomeOliveMaitilde {
+  }
+  serviceid ScreechingApricotAnthiathia {
+  }
+  dummy.ExistingCoffeeDeva AmateurSalmonPia4 {
+    PetiteAmaranthAdrianna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ExtraordinaryIndigoJessy = "Why do birds fly south for the winter? Because it's too far to walk."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UpperCyanFaunie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LegalBrownDahlia = 164
+    FeministPlumMina = "What creature is smarter than a talking parrot? A spelling bee."
+    RelaxedPlumMinni = 768
+    FilthyTurquoiseTera2 = "Why did the kid cross the playground? To get to the other slide."
+    RareEmeraldFlorentia = 195
+    EducationalCrimsonEryn = 693
+  }
+  hidden_boolean SafeCopperDorey3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DailyCyanEvelina {
+  }
+  hidden_boolean StraightforwardMaroonLeyla4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<hidden_boolean>" GentleIndigoJobye3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

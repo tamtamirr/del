@@ -1,0 +1,67 @@
+type dummy.EnchantingBlackCarena {
+  annotations {
+    dummy.DEFAULT EagerPlumMilzie2 {
+    }
+    serviceid DeterminedBeigeCandida {
+    }
+    serviceid_number LengthySapphireRanice {
+    }
+    string MeltedAquaAurea {
+    }
+    boolean BreezyAmaranthAigneis3 {
+    }
+  }
+  dummy.DEFAULT ClearTomatoTammi2 {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelesta3 {
+    _hidden_value = true
+  }
+  hidden_boolean CurlyAmberAlbina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquamarineBeatrisa2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GeneralBlushChristan4 {
+    _hidden_value = true
+  }
+  serviceid_number AvailableBlushChrystel {
+    _hidden_value = true
+  }
+  string EconomicBlushClaresta2 {
+    _hidden_value = true
+  }
+  number ConfidentialScarletRomola {
+    _hidden_value = true
+  }
+  json MagneticPeachMaurizia {
+    _hidden_value = true
+  }
+  json TastyAquaAshli2 {
+    _hidden_value = true
+  }
+  json NotablePeachMartica {
+    _hidden_value = true
+  }
+  serviceid AsleepJadeKarmen2 {
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna UpperCyanFaustina {
+    ColonialPeachMaure = "Why didnt the skeleton cross the road? Because he had no guts."
+    GloriousBlackCarmine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  EagerPlumMilzie2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  DeterminedBeigeCandida = "I'll tell you what often gets over looked... garden fences."
+  LengthySapphireRanice = 507
+  MeltedAquaAurea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BreezyAmaranthAigneis3 = false
+  _hidden_value = true
+}

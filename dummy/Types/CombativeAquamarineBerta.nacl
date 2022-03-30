@@ -1,0 +1,31 @@
+type dummy.CombativeAquamarineBerta {
+  annotations {
+    boolean AfraidAquamarineBelvia {
+    }
+    number PurpleScarletRivalee {
+    }
+    serviceid_number WittyBlueCele {
+    }
+    dummy.OrdinaryCopperEdi SouthernCyanEvie2 {
+    }
+    json FutureCoffeeDolores {
+    }
+    number UnsightlyTurquoiseTisha {
+    }
+  }
+  serviceid FreshCopperDyanna {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedSilverRozina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AfraidAquamarineBelvia = false
+  PurpleScarletRivalee = 517
+  WittyBlueCele = 947
+  SouthernCyanEvie2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FutureCoffeeDolores = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnsightlyTurquoiseTisha = 757
+  _hidden_value = true
+}

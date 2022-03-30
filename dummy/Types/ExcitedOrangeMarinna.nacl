@@ -1,0 +1,42 @@
+type dummy.ExcitedOrangeMarinna {
+  annotations {
+    json BritishBlushCherilyn2 {
+    }
+    dummy.DEFAULT ImaginativeTanSeline6 {
+    }
+    json SillyBlueCathlene2 {
+    }
+    serviceid ElectricalLavenderKerrie2 {
+    }
+    string WorryingSilverRozalie {
+    }
+    json AmazingMoccasinLizbeth2 {
+    }
+    serviceid CooingAmethystAngelle2 {
+    }
+    dummy.DEFAULT ShockedPinkMelisande2 {
+    }
+  }
+  json StatisticalMagentaLanita2 {
+    _hidden_value = true
+  }
+  boolean RespectableRosePearle {
+    _hidden_value = true
+  }
+  number HardAquaAudi {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ImaginativeTanSeline6 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  SillyBlueCathlene2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ElectricalLavenderKerrie2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WorryingSilverRozalie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AmazingMoccasinLizbeth2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CooingAmethystAngelle2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ShockedPinkMelisande2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  _hidden_value = true
+}

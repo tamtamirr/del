@@ -1,0 +1,34 @@
+type dummy.MagnificentWhiteVanya is boolean {
+  annotations {
+    dummy.DEFAULT ProspectiveRedNettie {
+    }
+    serviceid_number CooperativeBeigeCami {
+    }
+    dummy.DEFAULT PlainTurquoiseTheressa {
+    }
+    serviceid_number WorriedGrayHarmony {
+    }
+    hidden_boolean SlowCyanEudora {
+    }
+    json CrowdedTomatoTania {
+    }
+    number PreciousOrangeMariele {
+    }
+    serviceid_number UnderlyingLimeKori {
+    }
+    serviceid_number FragileTealSondra {
+    }
+  }
+  ProspectiveRedNettie = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  CooperativeBeigeCami = 616
+  PlainTurquoiseTheressa = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  WorriedGrayHarmony = 976
+  CrowdedTomatoTania = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PreciousOrangeMariele = 272
+  UnderlyingLimeKori = 474
+  FragileTealSondra = 345
+}

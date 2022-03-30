@@ -1,0 +1,54 @@
+type dummy.RidiculousMoccasinLiz2 {
+  annotations {
+    number ProfitablePurpleNaomi2 {
+    }
+    json GiganticAmaranthAdda5 {
+    }
+    serviceid_number GrowingCrimsonEnrika2 {
+    }
+  }
+  number PreciousWhiteVirginie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChineseGoldGuglielma4 {
+    _hidden_value = true
+  }
+  json IslamicRoseOlympe {
+    _hidden_value = true
+  }
+  serviceid ExternalEmeraldFlorida3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RussianCyanFelicity3 {
+    _hidden_value = true
+  }
+  number IncCrimsonErma2 {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindIvoryJuanita3 {
+    _hidden_value = true
+  }
+  string AngryFuchsiaGillan2 {
+    _hidden_value = true
+  }
+  string ImpossibleTealSorcha2 {
+    _hidden_value = true
+  }
+  hidden_boolean LoudApricotAnnadiana3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ProfitablePurpleNaomi2 = 942
+  GiganticAmaranthAdda5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GrowingCrimsonEnrika2 = 588
+  _hidden_value = true
+}

@@ -1,0 +1,27 @@
+type dummy.ModernTealStarla3 {
+  annotations {
+    serviceid_number EssentialCoffeeDionne2 {
+    }
+    hidden_boolean PoisedTurquoiseThia {
+    }
+    boolean SorryBrownDanya2 {
+    }
+    number SplendidOrangeManon3 {
+    }
+    boolean SoftAquamarineBari {
+    }
+    dummy.DEFAULT OkSapphireRhianna {
+    }
+  }
+  serviceid_number CrazyVioletTracy2 {
+    _hidden_value = true
+  }
+  EssentialCoffeeDionne2 = 124
+  SorryBrownDanya2 = true
+  SplendidOrangeManon3 = 116
+  SoftAquamarineBari = true
+  OkSapphireRhianna = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  _hidden_value = true
+}

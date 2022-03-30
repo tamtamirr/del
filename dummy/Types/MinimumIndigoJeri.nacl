@@ -1,0 +1,31 @@
+type dummy.MinimumIndigoJeri {
+  annotations {
+    json StrictLavenderKatha {
+    }
+    serviceid_number GradualSilverSallie {
+    }
+    serviceid CivilCoffeeDode {
+    }
+    string ResonantApricotAnstice {
+    }
+  }
+  "List<serviceid_number>" RepulsiveBeigeBrenn {
+    _hidden_value = true
+  }
+  number DependentGrayHeath {
+    _hidden_value = true
+  }
+  hidden_boolean FluffyAmberAlice {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FineBlackCarly {
+    _hidden_value = true
+  }
+  StrictLavenderKatha = "Why do birds fly south for the winter? Because it's too far to walk."
+  GradualSilverSallie = 196
+  CivilCoffeeDode = "Why was it called the dark ages? Because of all the knights. "
+  ResonantApricotAnstice = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

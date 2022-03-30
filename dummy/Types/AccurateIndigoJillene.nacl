@@ -1,0 +1,61 @@
+type dummy.AccurateIndigoJillene {
+  annotations {
+    hidden_boolean WickedScarletRoseanna {
+    }
+    json DecentMoccasinLonnie {
+    }
+    hidden_boolean FineBrownCosette {
+    }
+    string HomelessAzureBlinnie3 {
+    }
+  }
+  serviceid_number DigitalMaroonLib2 {
+    _hidden_value = true
+  }
+  serviceid InteriorPurpleNathalie2 {
+    _hidden_value = true
+  }
+  "List<string>" SuperTomatoSusana {
+    _hidden_value = true
+  }
+  number GrotesqueTurquoiseTersina {
+    _hidden_value = true
+  }
+  json MoralCyanFelita {
+    _hidden_value = true
+  }
+  json PleasantBlackCatharine2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImmenseAmaranthAdele2 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisha2 {
+    _hidden_value = true
+  }
+  number AllegedOliveLynn3 {
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotArielle3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarion3 {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarris {
+    _hidden_value = true
+  }
+  number FamousCoralElianora4 {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTerra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DecentMoccasinLonnie = "A steak pun is a rare medium well done."
+  HomelessAzureBlinnie3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

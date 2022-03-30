@@ -1,0 +1,28 @@
+type dummy.AverageCoralElysha4 {
+  annotations {
+    serviceid HardBronzeCordi {
+    }
+    number FunnyVioletTwyla2 {
+    }
+    number UniqueFuchsiaGerry {
+    }
+    dummy.SwissPlumMikaela DetailedCrimsonEmlynn {
+    }
+    hidden_boolean MoaningApricotAnnecorinne2 {
+    }
+    boolean KnownMaroonLetty2 {
+    }
+    number ProtectiveRoseOlive {
+    }
+  }
+  serviceid_number CorrectCrimsonErin {
+    _hidden_value = true
+  }
+  HardBronzeCordi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FunnyVioletTwyla2 = 592
+  UniqueFuchsiaGerry = 940
+  DetailedCrimsonEmlynn = "Why did the kid cross the playground? To get to the other slide."
+  KnownMaroonLetty2 = true
+  ProtectiveRoseOlive = 215
+  _hidden_value = true
+}

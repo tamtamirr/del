@@ -1,0 +1,63 @@
+type dummy.BasicChocolateDarla3 {
+  string NaturalBrownCristionna4 {
+  }
+  hidden_boolean BlackBlushClarissa {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean RelevantCoffeeDoralia4 {
+  }
+  serviceid TragicRosePaulita6 {
+  }
+  number LovelyBlackCasie {
+  }
+  hidden_boolean InstantSapphireRanee3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  number LiteraryGreenIris2 {
+  }
+  json StraightAmethystAlyse {
+  }
+  serviceid_number DreadfulPinkMerrile5 {
+  }
+  string JollyVioletVallie2 {
+  }
+  serviceid_number AfraidAquamarineBelvia4 {
+  }
+  serviceid BitterApricotArdenia3 {
+  }
+  serviceid_number RenewedSilverSandy4 {
+  }
+  json DistantIndigoJilly3 {
+  }
+  dummy.UnhappyMaroonLicha3 BindingSalmonPeta2 {
+    ChillyAmaranthAilyn = "How come the stadium got hot after the game? Because all of the fans left."
+    RedWhiteWendie3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FierceAzureBilli = 545
+    SacredRedNorma2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ReadyChocolateDebi = true
+  }
+  string TypicalEmeraldFrancine4 {
+  }
+  dummy.LuckyBlackCassaundra3 PositiveCoffeeDominique2 {
+    UniformScarletRosalinde = "Dad Im hungry  Hi hungry Im dad"
+    EarlyAmethystAmanda5 = false
+    FaintAmethystAnica3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CheerfulBeigeCalypso4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RetiredSilverSaraann = 786
+  }
+  string FinancialBronzeCorette4 {
+  }
+  serviceid ExplicitMaroonLise4 {
+  }
+  dummy.FormidableSilverSabrina ChosenSilverSarina3 {
+    FavourablePinkMercie4 = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    IncredibleRosePattie5 = 493
+    GradualSilverSalli2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+}

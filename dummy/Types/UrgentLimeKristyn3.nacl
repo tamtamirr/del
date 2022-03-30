@@ -1,0 +1,198 @@
+type dummy.UrgentLimeKristyn3 {
+  annotations {
+    string RepulsiveBeigeBrenn4 {
+    }
+    string EmptyCyanFanchon3 {
+    }
+    serviceid HappyBrownDaisi {
+    }
+    serviceid_number NegativeFuchsiaGavra2 {
+    }
+    serviceid_number IntelligentMaroonLinnet5 {
+    }
+  }
+  dummy.DEFAULT CorrectCrimsonErinna {
+    _hidden_value = true
+  }
+  hidden_boolean MusicalIndigoJoanne6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SeniorCoffeeDonetta3 {
+    _hidden_value = true
+  }
+  serviceid_number EstimatedOrangeMargie3 {
+    _hidden_value = true
+  }
+  hidden_boolean PersonalBronzeCordelia4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ContinuingGreenIrma2 {
+    _hidden_value = true
+  }
+  boolean SilkyAquaBabs2 {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulEmeraldFlossi4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FormalCoralElizabet3 {
+    _hidden_value = true
+  }
+  boolean BeautifulVioletTommy3 {
+    _hidden_value = true
+  }
+  number MereGreenIleana2 {
+    _hidden_value = true
+  }
+  boolean ProtestantScarletRobina5 {
+    _hidden_value = true
+  }
+  hidden_boolean AttractiveCyanFerne5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BrilliantGreenIlsa3 {
+    _hidden_value = true
+  }
+  hidden_boolean OutrageousAzureBreanne3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT StableHarlequinJasmin4 {
+    _hidden_value = true
+  }
+  boolean PossibleBlushCheslie2 {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticPinkMaye {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string InjuredScarletRosalind2 {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalOliveLynnette2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SquealingApricotArabel4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PrimitiveOrangeMargalit3 {
+    _hidden_value = true
+  }
+  string DryAmberAlexa2 {
+    _hidden_value = true
+  }
+  serviceid_number ProminentLavenderKelcey2 {
+    _hidden_value = true
+  }
+  serviceid FluffyAmberAlice7 {
+    _hidden_value = true
+  }
+  serviceid RelativeGoldGuillemette2 {
+    _hidden_value = true
+  }
+  serviceid_number DampAmberAlene4 {
+    _hidden_value = true
+  }
+  number SportingSilverRuthie3 {
+    _hidden_value = true
+  }
+  hidden_boolean InnovativeTanSheelah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeHarlequinJackelyn3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json WealthyPeachMaryjane6 {
+    _hidden_value = true
+  }
+  boolean RapidGrayHilde {
+    _hidden_value = true
+  }
+  serviceid SureBlushCindi2 {
+    _hidden_value = true
+  }
+  boolean ResidentSalmonRachelle4 {
+    _hidden_value = true
+  }
+  number AccusedSilverSallyanne2 {
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline5 {
+    _hidden_value = true
+  }
+  string FemaleCrimsonEmmi4 {
+    _hidden_value = true
+  }
+  hidden_boolean TremendousMagentaLeola4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PrintedRedNeysa2 {
+    _hidden_value = true
+  }
+  string RapidAmethystAmye2 {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenGreenHortense4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DueCopperDosi3 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarsey4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExistingCoffeeDeva PricklyWhiteVittoria2 {
+    PetiteAmaranthAdrianna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExtraordinaryIndigoJessy = "Im only familiar with 25 letters in the English language. I dont know why."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "Whoever invented the knock-knock joke should get a no bell prize."
+    UpperCyanFaunie = "Im only familiar with 25 letters in the English language. I dont know why."
+    LegalBrownDahlia = 44
+    FeministPlumMina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RelaxedPlumMinni = 430
+    FilthyTurquoiseTera2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    RareEmeraldFlorentia = 531
+    EducationalCrimsonEryn = 418
+    _hidden_value = true
+  }
+  json NetGoldGlen2 {
+    _hidden_value = true
+  }
+  json DevelopedPinkMerissa4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SouthernCyanEvey4 {
+    _hidden_value = true
+  }
+  RepulsiveBeigeBrenn4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EmptyCyanFanchon3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HappyBrownDaisi = "Did you know that protons have mass? I didn't even know they were catholic."
+  NegativeFuchsiaGavra2 = 36
+  IntelligentMaroonLinnet5 = 810
+  _hidden_value = true
+}

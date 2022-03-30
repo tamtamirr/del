@@ -1,0 +1,47 @@
+type dummy.GladGoldGlynnis3 {
+  annotations {
+    boolean DoubleCrimsonEtta {
+    }
+    string ConfidentialScarletRois {
+    }
+    hidden_boolean SmoothAquamarineBarbi2 {
+    }
+    string MinimumIndigoJerrie3 {
+    }
+    json RemoteIndigoJeniece {
+    }
+    json ZanyBlueCelie2 {
+    }
+    string NuclearCoffeeDonielle2 {
+    }
+  }
+  string ExcessSilverSapphira2 {
+    _hidden_value = true
+  }
+  hidden_boolean TiredBeigeBritt {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SteepAmethystAlys4 {
+    _hidden_value = true
+  }
+  hidden_boolean LogicalLavenderKellen2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RespectiveSalmonPersis4 {
+    _hidden_value = true
+  }
+  serviceid_number GrowingCrimsonEnrichetta4 {
+    _hidden_value = true
+  }
+  DoubleCrimsonEtta = true
+  ConfidentialScarletRois = "A steak pun is a rare medium well done."
+  MinimumIndigoJerrie3 = "A steak pun is a rare medium well done."
+  RemoteIndigoJeniece = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ZanyBlueCelie2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  NuclearCoffeeDonielle2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

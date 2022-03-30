@@ -1,0 +1,48 @@
+type dummy.RedBrownDallas4 {
+  annotations {
+    boolean UnhappyMaroonLicha7 {
+    }
+    string WorriedGrayHarri2 {
+    }
+    dummy.AcuteLavenderKeri OutsideGrayHelene3 {
+    }
+    hidden_boolean DeterminedOrangeMarilyn3 {
+    }
+    string PreparedCyanFelice2 {
+    }
+    dummy.PossibleBlushCheryl3 FrontCopperEadie6 {
+    }
+    serviceid KeyCopperDorothea4 {
+    }
+    serviceid FoolishAzureBinni5 {
+    }
+    json SmallAmaranthAggi {
+    }
+    dummy.ImmenseAmaranthAdelice CondemnedAquamarineBerthe5 {
+    }
+    serviceid_number CompactPurpleNannie2 {
+    }
+    serviceid FavouriteHarlequinJaclyn {
+    }
+    hidden_boolean PreviousBrownDanica2 {
+    }
+    json BrainyTealSheryl2 {
+    }
+    serviceid IntermediateRoseOfelia5 {
+    }
+    dummy.NativeJadeKate2 DeterminedOrangeMarina {
+    }
+  }
+  UnhappyMaroonLicha7 = true
+  WorriedGrayHarri2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OutsideGrayHelene3 = 666
+  PreparedCyanFelice2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  KeyCopperDorothea4 = "Dad Im hungry  Hi hungry Im dad"
+  FoolishAzureBinni5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SmallAmaranthAggi = "Why did the tomato blush? Because it saw the salad dressing."
+  CondemnedAquamarineBerthe5 = 61
+  CompactPurpleNannie2 = 884
+  FavouriteHarlequinJaclyn = "What creature is smarter than a talking parrot? A spelling bee."
+  BrainyTealSheryl2 = "Slept like a log last night  woke up in the fireplace."
+  IntermediateRoseOfelia5 = "What creature is smarter than a talking parrot? A spelling bee."
+}

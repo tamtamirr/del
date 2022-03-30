@@ -1,0 +1,57 @@
+type dummy.CautiousTealSiana2 {
+  number NervousAzureBrandea4 {
+  }
+  string MilitaryChocolateDarline2 {
+  }
+  string SolidGreenIbby {
+  }
+  serviceid_number ObedientBlackCassi {
+  }
+  boolean UnconsciousSapphireRaven5 {
+  }
+  string CoolAmaranthAindrea3 {
+  }
+  boolean InstitutionalMaroonLesli4 {
+  }
+  serviceid SouthernCyanEveline {
+  }
+  boolean CleanTomatoTamiko2 {
+  }
+  dummy.ManyAmethystAngel CulturalCoralElicia3 {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 741
+    StaticSapphireRebeka = 445
+    CircularRoseOrly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "Why is Peter Pan always flying? Because he Neverlands."
+    BreezyAmaranthAigneis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = false
+    KoreanSapphireRasia = 481
+    PrivateBronzeCoreen = 749
+    ShockedPinkMelisandra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ObedientBlackCassondra = 450
+    RapidAmethystAmy2 = 204
+  }
+  serviceid HorizontalSalmonPru2 {
+  }
+  hidden_boolean AtomicScarletRori2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalLavenderKerrill2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SovietChocolateDarelle {
+  }
+  serviceid_number CatholicHarlequinJammie2 {
+  }
+  hidden_boolean MathematicalRoseOrtensia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+}

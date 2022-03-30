@@ -1,0 +1,116 @@
+type dummy.IncCrimsonErma4 {
+  annotations {
+    string SubstantialCoralElspeth2 {
+    }
+    serviceid DecentMoccasinLonni3 {
+    }
+    boolean LostJadeKare {
+    }
+  }
+  number PoorTealStella3 {
+    _hidden_value = true
+  }
+  serviceid OutsideGrayHelene2 {
+    _hidden_value = true
+  }
+  json DizzyVioletTricia3 {
+    _hidden_value = true
+  }
+  json LightTurquoiseTessie4 {
+    _hidden_value = true
+  }
+  boolean HonestIndigoJerrine4 {
+    _hidden_value = true
+  }
+  boolean CuteTomatoTara4 {
+    _hidden_value = true
+  }
+  json CarefulCyanFerdinande3 {
+    _hidden_value = true
+  }
+  string CarefulTealShirley {
+    _hidden_value = true
+  }
+  json ExcessSilverSara5 {
+    _hidden_value = true
+  }
+  boolean HighAmberAllison {
+    _hidden_value = true
+  }
+  hidden_boolean UptightBeigeBrittni5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.RoastedWhiteWenonah SlightGoldGwenore {
+    WhiteBronzeClotilda = "Why did the tomato blush? Because it saw the salad dressing."
+    MutualLimeKimberli = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BreakableTealShir = "Why was it called the dark ages? Because of all the knights. "
+    AgreedTanSelestina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  json FreeBronzeCodie2 {
+    _hidden_value = true
+  }
+  serviceid TroubledBeigeBrittan2 {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZaria2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number HurtAzureBlondie5 {
+    _hidden_value = true
+  }
+  number BigVioletToni {
+    _hidden_value = true
+  }
+  json FreeBronzeCodie3 {
+    _hidden_value = true
+  }
+  serviceid PrincipalGoldGrayce {
+    _hidden_value = true
+  }
+  serviceid OrganisationalTanShantee4 {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie QuaintTurquoiseTiena3 {
+    FriendlyBlackCarma = 817
+    FrightenedMagentaLavena = 315
+    RepulsiveBeigeBrena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UptightBeigeBrittni = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    ExactLimeKordula2 = 968
+    LocalBlueCharmian = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    SensibleIvoryJordana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MonetaryIvoryJoey = "Why do birds fly south for the winter? Because it's too far to walk."
+    WickedBeigeBryna = "Slept like a log last night  woke up in the fireplace."
+    AshamedScarletRosamund = 812
+    ChillyAmaranthAilsun = 926
+    CooingAmethystAngelique = 433
+    FatalPurpleMyrtle = 985
+    ThoughtlessBeigeBrinna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EvilAzureBili = 91
+    RelievedBlueCathie = true
+    CleverTealSibeal = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GrowingCrimsonEnrichetta = 853
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana3 {
+    _hidden_value = true
+  }
+  string TropicalOliveLydie {
+    _hidden_value = true
+  }
+  json BlushingTomatoTamar3 {
+    _hidden_value = true
+  }
+  SubstantialCoralElspeth2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DecentMoccasinLonni3 = "Dad Im hungry  Hi hungry Im dad"
+  LostJadeKare = false
+  _hidden_value = true
+}

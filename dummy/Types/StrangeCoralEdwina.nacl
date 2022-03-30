@@ -1,0 +1,133 @@
+type dummy.StrangeCoralEdwina {
+  annotations {
+    serviceid IncredibleRosePatty2 {
+    }
+    hidden_boolean WastefulYellowZia {
+    }
+    hidden_boolean WealthyPeachMarybeth {
+    }
+    string CurlyAmberAlbina {
+    }
+    json SillyBlueCathrine {
+    }
+    number PriorRosePaulie {
+    }
+    string ManagingLimeKitty {
+    }
+  }
+  string ChiefCopperDorri {
+    _hidden_value = true
+  }
+  json FortunateRoseOllie {
+    _hidden_value = true
+  }
+  serviceid_number ColossalAmaranthAbbie2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectableRosePearl {
+    _hidden_value = true
+  }
+  string SocialBlueCharmine2 {
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi GreatBlueCharis {
+    SillyYellowWini = 837
+    CruelAquamarineBessy = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    TameYellowYalonda = 689
+    RareWhiteWanda = 340
+    SpareMaroonLillis = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    StupidGreenIzabel = 210
+    MaximumGreenIlyssa = "Why was it called the dark ages? Because of all the knights. "
+    TerritorialSalmonPriscella = "Dad Im hungry  Hi hungry Im dad"
+    VariedRedNoreen = 359
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 796
+    IntenseLavenderKatuscha = 821
+    SubtleMoccasinLucie = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  number JuicyApricotAretha {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" StaticSapphireRebekkah {
+    _hidden_value = true
+  }
+  hidden_boolean NuttyWhiteVikki2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AccessibleOrangeMarika {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PersistentRosePam {
+    _hidden_value = true
+  }
+  serviceid_number AcuteLavenderKeri2 {
+    _hidden_value = true
+  }
+  number FlatAmberAllie {
+    _hidden_value = true
+  }
+  string FrenchBrownCyndie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScatteredAquaAveline {
+    _hidden_value = true
+  }
+  json UpsetOliveMabel3 {
+    _hidden_value = true
+  }
+  serviceid JointCoralElissa {
+    _hidden_value = true
+  }
+  string CriticalCrimsonEstell2 {
+    _hidden_value = true
+  }
+  boolean IdenticalLimeKorney2 {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetOliveMabel4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TechnologicalOrangeMarianna2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json DeliberateRedNoelyn2 {
+    _hidden_value = true
+  }
+  serviceid_number WeeSapphireRetha {
+    _hidden_value = true
+  }
+  dummy.CognitiveSalmonQuinn ModernTealStarlene {
+    GreatVioletTwyla = "How come the stadium got hot after the game? Because all of the fans left."
+    WorthwhilePinkMelita = "Why did the tomato blush? Because it saw the salad dressing."
+    GlamorousTurquoiseTeresina = "Why did the tomato blush? Because it saw the salad dressing."
+    AgriculturalGoldGoldi = 950
+    FreshCopperDyane = 18
+    _hidden_value = true
+  }
+  hidden_boolean MammothAmaranthAdore3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LightAmethystAnestassia {
+    _hidden_value = true
+  }
+  string CompactPurpleNannie {
+    _hidden_value = true
+  }
+  IncredibleRosePatty2 = "Why did the tomato blush? Because it saw the salad dressing."
+  CurlyAmberAlbina = "Im only familiar with 25 letters in the English language. I dont know why."
+  SillyBlueCathrine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PriorRosePaulie = 481
+  ManagingLimeKitty = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

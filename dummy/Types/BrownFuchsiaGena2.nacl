@@ -1,0 +1,40 @@
+type dummy.BrownFuchsiaGena2 {
+  annotations {
+    number StrictLavenderKatharine2 {
+    }
+    json OkSapphireRhianon3 {
+    }
+    json ModernAmethystAmelita2 {
+    }
+    boolean HarshAmethystAnitra {
+    }
+    json FrontCopperEadie3 {
+    }
+    json InquisitiveTealStacy2 {
+    }
+    hidden_boolean FullBlushChristiana2 {
+    }
+  }
+  hidden_boolean IntensiveMoccasinLura3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VariableRedNollie4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseToby {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  StrictLavenderKatharine2 = 230
+  OkSapphireRhianon3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ModernAmethystAmelita2 = "Why was it called the dark ages? Because of all the knights. "
+  HarshAmethystAnitra = true
+  FrontCopperEadie3 = "Why is Peter Pan always flying? Because he Neverlands."
+  InquisitiveTealStacy2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

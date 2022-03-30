@@ -1,0 +1,63 @@
+type dummy.OutrageousAzureBrandise4 {
+  annotations {
+    serviceid SuddenGoldGwen2 {
+    }
+    json UsualCoralElmira5 {
+    }
+    boolean GleamingTurquoiseTeressa3 {
+    }
+    string AnxiousHarlequinJannelle3 {
+    }
+    dummy.DarkTurquoiseTaryn3 PhilosophicalRedNoel3 {
+    }
+    boolean RoastedWhiteWendye {
+    }
+    string SteadyJadeKaia {
+    }
+    dummy.TiredGoldGrete3 DynamicPeachMarna4 {
+    }
+    serviceid ClearBlushCindy4 {
+    }
+    serviceid RelievedSalmonPetronia2 {
+    }
+    number PlasticAquaAurelia3 {
+    }
+    boolean TartYellowXena3 {
+    }
+    serviceid_number FewAmethystAndriana2 {
+    }
+    serviceid_number RapidAmethystAna3 {
+    }
+    json DeepChocolateDeloria2 {
+    }
+    number IdenticalLimeKorry5 {
+    }
+    hidden_boolean GentleIndigoJoceline {
+    }
+    serviceid InterestingChocolateDelphinia2 {
+    }
+    serviceid_number AmusedBeigeBunny4 {
+    }
+  }
+  SuddenGoldGwen2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  UsualCoralElmira5 = '''
+Why did the tomato blush? Because it saw the salad dressing.
+What do you do on a remote island? Try and find the TV island it belongs to.
+Why do birds fly south for the winter? Because it's too far to walk.
+My first time using an elevator was an uplifting experience. The second time let me down.
+'''
+  GleamingTurquoiseTeressa3 = false
+  AnxiousHarlequinJannelle3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  RoastedWhiteWendye = true
+  SteadyJadeKaia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ClearBlushCindy4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RelievedSalmonPetronia2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  PlasticAquaAurelia3 = 70
+  TartYellowXena3 = true
+  FewAmethystAndriana2 = 430
+  RapidAmethystAna3 = 303
+  DeepChocolateDeloria2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  IdenticalLimeKorry5 = 412
+  InterestingChocolateDelphinia2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AmusedBeigeBunny4 = 936
+}

@@ -1,0 +1,37 @@
+type dummy.DarkTurquoiseTaryn3 {
+  annotations {
+    boolean InnocentMagentaLarina2 {
+    }
+    json ValuableGoldGwynne3 {
+    }
+    serviceid DisappointedMagentaLaurianne2 {
+    }
+    serviceid MoaningApricotAnnamarie2 {
+    }
+    boolean OrdinaryCopperEdie2 {
+    }
+  }
+  serviceid MagneticPeachMavra {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PsychologicalIvoryJojo3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousScarletRochette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PowerfulTomatoStephanie4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteSalmonRaf {
+    _hidden_value = true
+  }
+  InnocentMagentaLarina2 = true
+  ValuableGoldGwynne3 = "Why did the kid cross the playground? To get to the other slide."
+  DisappointedMagentaLaurianne2 = "What do you call two barracuda fish?  A Pairacuda!"
+  MoaningApricotAnnamarie2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OrdinaryCopperEdie2 = false
+  _hidden_value = true
+}

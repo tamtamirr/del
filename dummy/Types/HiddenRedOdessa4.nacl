@@ -1,0 +1,91 @@
+type dummy.HiddenRedOdessa4 {
+  annotations {
+    hidden_boolean EerieAzureBeverly {
+    }
+    json ProfoundPinkMerla4 {
+    }
+    number SatisfiedHarlequinJazmin2 {
+    }
+    dummy.AdverseSapphireRanna ImmediateCrimsonEmeline2 {
+    }
+  }
+  dummy.ExtremeHarlequinJackelyn UncertainMagentaLelah2 {
+    IncCrimsonErmentrude = 994
+    AlliedPlumMisti = false
+    InternalCoralEdy = "Slept like a log last night  woke up in the fireplace."
+    DevelopedPinkMerilyn = 446
+    CrookedAmberAlisha = "How come the stadium got hot after the game? Because all of the fans left."
+    AmericanBronzeCorrianne = 164
+    TragicRosePaulita = 201
+    ConceptualTanShelagh = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    StrangeTurquoiseTimmie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NastyWhiteVeronica = "Why do birds fly south for the winter? Because it's too far to walk."
+    OldAmethystAmie = 450
+    _hidden_value = true
+  }
+  hidden_boolean GivenHarlequinJaney3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnlikelyCrimsonEthelda {
+    _hidden_value = true
+  }
+  serviceid CrazyVioletTrenna {
+    _hidden_value = true
+  }
+  serviceid MetropolitanOrangeMargarita2 {
+    _hidden_value = true
+  }
+  string VoluntaryGoldGwenni2 {
+    _hidden_value = true
+  }
+  hidden_boolean LittleAmaranthAdelle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LateAmethystAmata {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBrenna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DampAmberAlene2 {
+    _hidden_value = true
+  }
+  number GoodBlueCelisse {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousApricotArdisj2 {
+    _hidden_value = true
+  }
+  serviceid DifferentBlueCharline3 {
+    _hidden_value = true
+  }
+  json SolarRosePammie2 {
+    _hidden_value = true
+  }
+  dummy.AlrightGoldGoldina FairCoffeeDinnie3 {
+    RivalPurpleNara = 616
+    SingleBronzeCoral = 353
+    ProfoundPinkMerlina = 537
+    RelativeGoldGui = "Whoever invented the knock-knock joke should get a no bell prize."
+    AngryFuchsiaGilli = "Why was it called the dark ages? Because of all the knights. "
+    QuickestWhiteVyky = "I'll tell you what often gets over looked... garden fences."
+    AgreedTanSelia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  ProfoundPinkMerla4 = "To be Frank, I'd have to change my name."
+  SatisfiedHarlequinJazmin2 = 57
+  ImmediateCrimsonEmeline2 = 641
+  _hidden_value = true
+}

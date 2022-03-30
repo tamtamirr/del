@@ -1,0 +1,16 @@
+type dummy.RoastedWhiteWenonah is string {
+  annotations {
+    json WhiteBronzeClotilda {
+    }
+    json MutualLimeKimberli {
+    }
+    json BreakableTealShir {
+    }
+    serviceid AgreedTanSelestina {
+    }
+  }
+  WhiteBronzeClotilda = "A steak pun is a rare medium well done."
+  MutualLimeKimberli = "Im only familiar with 25 letters in the English language. I dont know why."
+  BreakableTealShir = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AgreedTanSelestina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

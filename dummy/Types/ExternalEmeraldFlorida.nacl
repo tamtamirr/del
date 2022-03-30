@@ -1,0 +1,44 @@
+type dummy.ExternalEmeraldFlorida {
+  annotations {
+    dummy.DEFAULT FashionableSapphireRenata5 {
+    }
+    serviceid ObligedOrangeMarcelline {
+    }
+    hidden_boolean AddedPinkMelicent {
+    }
+    serviceid_number CloseBrownCory {
+    }
+    json StraightforwardMaroonLeyla2 {
+    }
+    serviceid MysteriousAzureBonnee {
+    }
+  }
+  dummy.ImmenseAmaranthAdelice UniqueFuchsiaGert {
+    PoliteSalmonRafa = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    FrightenedAzureBlaire = "Whoever invented the knock-knock joke should get a no bell prize."
+    AlertTomatoSydney = 610
+    AwakeRedNolana = "What do you call two barracuda fish?  A Pairacuda!"
+    SteepAmberAlvira = false
+    InnocentTealStacey = true
+    GladGoldGlynnis = 543
+    ComingSilverSammy = "What creature is smarter than a talking parrot? A spelling bee."
+    UltimateJadeKandace = "Did you know that protons have mass? I didn't even know they were catholic."
+    ScatteredAquaAvie = 922
+    ConceptualTanShelbi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    KindOrangeMaribelle = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  FashionableSapphireRenata5 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  ObligedOrangeMarcelline = "What creature is smarter than a talking parrot? A spelling bee."
+  CloseBrownCory = 563
+  StraightforwardMaroonLeyla2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MysteriousAzureBonnee = '''
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+Dad Im hungry  Hi hungry Im dad
+'''
+  _hidden_value = true
+}

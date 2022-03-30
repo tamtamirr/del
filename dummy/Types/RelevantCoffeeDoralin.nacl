@@ -1,0 +1,44 @@
+type dummy.RelevantCoffeeDoralin {
+  annotations {
+    serviceid_number PalestinianTanShana {
+    }
+    hidden_boolean ExceptionalOliveMadlen {
+    }
+    json InfluentialMoccasinLorette2 {
+    }
+    serviceid InstantSapphireRandy2 {
+    }
+    dummy.DEFAULT FoolishAzureBinnie2 {
+    }
+    json ReasonableCrimsonEmalia {
+    }
+  }
+  serviceid PlainTurquoiseTheresita2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ActiveCopperDre {
+    _hidden_value = true
+  }
+  json HelpfulHarlequinJanette3 {
+    _hidden_value = true
+  }
+  hidden_boolean BrokenAmaranthAile {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AssociatedMaroonLindy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RubberSilverSaree2 {
+    _hidden_value = true
+  }
+  PalestinianTanShana = 696
+  InfluentialMoccasinLorette2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  InstantSapphireRandy2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FoolishAzureBinnie2 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ReasonableCrimsonEmalia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

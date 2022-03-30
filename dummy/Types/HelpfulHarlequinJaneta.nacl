@@ -1,0 +1,122 @@
+type dummy.HelpfulHarlequinJaneta {
+  annotations {
+    serviceid ExcitedBlackCarissa {
+    }
+    serviceid CrucialFuchsiaGenny2 {
+    }
+    hidden_boolean SpatialSalmonPerle {
+    }
+    number PanickyAzureBren {
+    }
+    number SlipperyAquamarineBarbaraanne {
+    }
+  }
+  json ArtificialMagentaLena {
+    _hidden_value = true
+  }
+  json SoftApricotAntonina {
+    _hidden_value = true
+  }
+  string TightAquamarineBecki2 {
+    _hidden_value = true
+  }
+  number TechnicalCopperEdee {
+    _hidden_value = true
+  }
+  serviceid_number WorryingSilverRozalin {
+    _hidden_value = true
+  }
+  serviceid_number NewWhiteVeronique {
+    _hidden_value = true
+  }
+  number EncouragingBlackCari {
+    _hidden_value = true
+  }
+  serviceid MushyWhiteVerla {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie HelpfulBlackCarolina {
+    FriendlyBlackCarma = 126
+    FrightenedMagentaLavena = 903
+    RepulsiveBeigeBrena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UptightBeigeBrittni = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ExactLimeKordula2 = 69
+    LocalBlueCharmian = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    SensibleIvoryJordana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MonetaryIvoryJoey = "I'll tell you what often gets over looked... garden fences."
+    WickedBeigeBryna = "Why do birds fly south for the winter? Because it's too far to walk."
+    AshamedScarletRosamund = 128
+    ChillyAmaranthAilsun = 659
+    CooingAmethystAngelique = 798
+    FatalPurpleMyrtle = 297
+    ThoughtlessBeigeBrinna = "Why do birds fly south for the winter? Because it's too far to walk."
+    EvilAzureBili = 408
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Im only familiar with 25 letters in the English language. I dont know why."
+    GrowingCrimsonEnrichetta = 678
+    _hidden_value = true
+  }
+  boolean DiverseRedNicola {
+    _hidden_value = true
+  }
+  hidden_boolean ConcernedTealSibilla2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CorrespondingPlumMiquela {
+    _hidden_value = true
+  }
+  string TameYellowYelena {
+    _hidden_value = true
+  }
+  serviceid_number MinorEmeraldGabriel3 {
+    _hidden_value = true
+  }
+  boolean CleverTealSibeal3 {
+    _hidden_value = true
+  }
+  string CurlyAmberAlbertine2 {
+    _hidden_value = true
+  }
+  serviceid MajorBlushClaire {
+    _hidden_value = true
+  }
+  boolean PersonalBronzeCoralyn {
+    _hidden_value = true
+  }
+  json SelfishBeigeBridgette {
+    _hidden_value = true
+  }
+  "Map<boolean>" OddWhiteVinita {
+    _hidden_value = true
+  }
+  json EmbarrassingSilverSaudra2 {
+    _hidden_value = true
+  }
+  serviceid_number PowerfulTomatoStephanie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ElectronicGreenIngaberg2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DizzyVioletTressa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SolidAquamarineBasia {
+    _hidden_value = true
+  }
+  ExcitedBlackCarissa = "To be Frank, I'd have to change my name."
+  CrucialFuchsiaGenny2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PanickyAzureBren = 748
+  SlipperyAquamarineBarbaraanne = 159
+  _hidden_value = true
+}

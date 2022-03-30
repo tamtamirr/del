@@ -1,0 +1,48 @@
+type dummy.GlobalGrayHermine3 {
+  annotations {
+    json ComprehensiveGreenHyacintha {
+    }
+    json SlightGoldGwenny {
+    }
+    string MusicalIndigoJoanne4 {
+    }
+    hidden_boolean ImaginativeTanSeline5 {
+    }
+    json ThenSalmonPhoebe2 {
+    }
+  }
+  boolean EmotionalGrayHerta2 {
+    _hidden_value = true
+  }
+  dummy.FarBlushChristin ProudBlueCathee {
+    _hidden_value = true
+  }
+  number WastefulYellowZia3 {
+    _hidden_value = true
+  }
+  boolean VictoriousBlueCayla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiveIndigoJodi2 {
+    _hidden_value = true
+  }
+  json ControversialLimeKyla {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarquita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessiveOliveMadelena3 {
+    _hidden_value = true
+  }
+  ComprehensiveGreenHyacintha = "Whoever invented the knock-knock joke should get a no bell prize."
+  SlightGoldGwenny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MusicalIndigoJoanne4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ThenSalmonPhoebe2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

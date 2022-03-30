@@ -1,0 +1,113 @@
+type dummy.DisciplinarySilverSaba {
+  annotations {
+    number ElegantTurquoiseTeddi2 {
+    }
+    dummy.LowBlushChristy VariedRedNoreen2 {
+    }
+    dummy.AcceptedTanSerena PrettyWhiteVirgina {
+    }
+    string ParticularBlushClaude {
+    }
+    json ImpossibleTealSorcha {
+    }
+  }
+  serviceid_number AboveIvoryJoyann {
+    _hidden_value = true
+  }
+  json BoilingAmaranthAgneta {
+    _hidden_value = true
+  }
+  json AfraidCrimsonEmmye {
+    _hidden_value = true
+  }
+  "List<number>" ChubbyAmberAlis {
+    _hidden_value = true
+  }
+  serviceid_number RunningPlumMirabel {
+    _hidden_value = true
+  }
+  "List<serviceid>" HurtAzureBlondie2 {
+    _hidden_value = true
+  }
+  string GreekIndigoJoana {
+    _hidden_value = true
+  }
+  serviceid_number NiceWhiteVickie2 {
+    _hidden_value = true
+  }
+  serviceid PayableOrangeMarci {
+    _hidden_value = true
+  }
+  serviceid_number SmartPeachMarja {
+    _hidden_value = true
+  }
+  number EnglishBrownCrin {
+    _hidden_value = true
+  }
+  string AwkwardPeachMaryjane {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrank {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ShallowAmberAlmire2 {
+    _hidden_value = true
+  }
+  serviceid SoundAmethystAngelika2 {
+    _hidden_value = true
+  }
+  serviceid HonChocolateDaune {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn {
+    _hidden_value = true
+  }
+  serviceid FunctionalMaroonLexis {
+    _hidden_value = true
+  }
+  serviceid_number DomesticCopperEba {
+    _hidden_value = true
+  }
+  json UncomfortablePlumModestia {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSilverSaudra {
+    _hidden_value = true
+  }
+  string CrowdedTomatoTani {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasingCyanEvvie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PastCoffeeDianna {
+    _hidden_value = true
+  }
+  dummy.ExistingCoffeeDeva NativeJadeKatalin {
+    PetiteAmaranthAdrianna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExtraordinaryIndigoJessy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "To be Frank, I'd have to change my name."
+    UpperCyanFaunie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LegalBrownDahlia = 21
+    FeministPlumMina = "Did you know that protons have mass? I didn't even know they were catholic."
+    RelaxedPlumMinni = 512
+    FilthyTurquoiseTera2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RareEmeraldFlorentia = 631
+    EducationalCrimsonEryn = 810
+    _hidden_value = true
+  }
+  serviceid_number GrubbyAquaAudi2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddi2 = 874
+  VariedRedNoreen2 = "Why is Peter Pan always flying? Because he Neverlands."
+  PrettyWhiteVirgina = true
+  ParticularBlushClaude = "What do you call two barracuda fish?  A Pairacuda!"
+  ImpossibleTealSorcha = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

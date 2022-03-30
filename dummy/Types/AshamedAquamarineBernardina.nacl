@@ -1,0 +1,140 @@
+type dummy.AshamedAquamarineBernardina {
+  annotations {
+    serviceid MistyTurquoiseThekla {
+    }
+    serviceid UncertainMagentaLelia {
+    }
+    number RulingLimeKippie {
+    }
+    serviceid_number BreakableTealShirl {
+    }
+    hidden_boolean RoundIvoryJohna {
+    }
+  }
+  string LateBlushChristabella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WildCyanEyde {
+    _hidden_value = true
+  }
+  number TightAquamarineBee2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPersis {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbie {
+    _hidden_value = true
+  }
+  boolean FavourablePinkMercie {
+    _hidden_value = true
+  }
+  json CoastalPlumMichal2 {
+    _hidden_value = true
+  }
+  dummy.LowBlushChristy RipeApricotAridatha {
+    ExplicitMaroonLisetta2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnevenAquamarineBeitris = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    TameTomatoSusette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    KindOrangeMaribeth = "Why was it called the dark ages? Because of all the knights. "
+    BrokenAmaranthAilee = 320
+    RelievedSalmonPetronia = false
+    ComplexCopperDrucie = "Dad Im hungry  Hi hungry Im dad"
+    PublicBlushChrysler = false
+    AverageCoralElysha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EntireEmeraldFranciska = 15
+    CurrentBrownDacey = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  string LoyalPurpleNat {
+    _hidden_value = true
+  }
+  boolean UnexpectedMagentaLaureen {
+    _hidden_value = true
+  }
+  boolean MelodicApricotAnnaliese {
+    _hidden_value = true
+  }
+  hidden_boolean SweetGreenHollyanne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNancy {
+    _hidden_value = true
+  }
+  string EagerBeigeCandis {
+    _hidden_value = true
+  }
+  json ColouredMaroonLivia {
+    _hidden_value = true
+  }
+  hidden_boolean RivalPurpleNara2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MarineMagentaLeoline {
+    _hidden_value = true
+  }
+  number GrotesqueTurquoiseTerza {
+    _hidden_value = true
+  }
+  serviceid_number BrightTomatoTamarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CheerfulSapphireRhodie {
+    _hidden_value = true
+  }
+  json FragileTealSondra2 {
+    _hidden_value = true
+  }
+  number SimilarBronzeConstance {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PresidentialLimeKrystalle {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedTealSibella {
+    _hidden_value = true
+  }
+  number TroubledBeigeBrittani {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ExperiencedMagentaLauralee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SupposedCyanFarrand {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLuciana {
+    _hidden_value = true
+  }
+  json DoubtfulTealSioux {
+    _hidden_value = true
+  }
+  serviceid LevelJadeKameko2 {
+    _hidden_value = true
+  }
+  json EthicalScarletRobenia {
+    _hidden_value = true
+  }
+  json ParticularBlushClaudelle {
+    _hidden_value = true
+  }
+  hidden_boolean StaleAquaArline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FilthyAmberAlexine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MistyTurquoiseThekla = "Whoever invented the knock-knock joke should get a no bell prize."
+  UncertainMagentaLelia = "Why is Peter Pan always flying? Because he Neverlands."
+  RulingLimeKippie = 830
+  BreakableTealShirl = 666
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type dummy.ConcernedBronzeCorny5 {
+  annotations {
+    boolean DefensiveRoseOnida2 {
+    }
+    serviceid_number UltimateJadeKamillah3 {
+    }
+    serviceid_number ColonialPeachMaura {
+    }
+    number EldestTanSharlene6 {
+    }
+    number FlatGrayHanni2 {
+    }
+    number SmoothAquamarineBarbee {
+    }
+    serviceid_number CuddlyAmberAlanna2 {
+    }
+    serviceid_number SparklingTurquoiseTildie {
+    }
+    string SorryBrownDanyette4 {
+    }
+    serviceid_number NervousAzureBrandea5 {
+    }
+    string AverageAmaranthAbagael2 {
+    }
+    hidden_boolean EarlyBlushChery {
+    }
+    hidden_boolean StraightAmethystAlyse2 {
+    }
+    string ThunderingApricotArabela {
+    }
+    serviceid_number ExtraCoffeeDianemarie3 {
+    }
+    number BrilliantGreenIlsa4 {
+    }
+    number ElectricGreenInger {
+    }
+    boolean DetailedCrimsonEmily2 {
+    }
+    boolean FlyingMoccasinLorelei3 {
+    }
+    hidden_boolean IraqiOliveMadelon3 {
+    }
+    serviceid_number ToxicSalmonPhedra4 {
+    }
+  }
+  DefensiveRoseOnida2 = false
+  UltimateJadeKamillah3 = 956
+  ColonialPeachMaura = 225
+  EldestTanSharlene6 = 998
+  FlatGrayHanni2 = 55
+  SmoothAquamarineBarbee = 50
+  CuddlyAmberAlanna2 = 330
+  SparklingTurquoiseTildie = 748
+  SorryBrownDanyette4 = "Dad Im hungry  Hi hungry Im dad"
+  NervousAzureBrandea5 = 197
+  AverageAmaranthAbagael2 = "A steak pun is a rare medium well done."
+  ThunderingApricotArabela = "How come the stadium got hot after the game? Because all of the fans left."
+  ExtraCoffeeDianemarie3 = 145
+  BrilliantGreenIlsa4 = 398
+  ElectricGreenInger = 60
+  DetailedCrimsonEmily2 = true
+  FlyingMoccasinLorelei3 = false
+  ToxicSalmonPhedra4 = 452
+}

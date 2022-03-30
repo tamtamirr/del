@@ -1,0 +1,32 @@
+type dummy.WastefulYellowZitella {
+  annotations {
+    serviceid_number FavourablePinkMercie3 {
+    }
+    string MammothAmaranthAdora {
+    }
+    number OverseasIvoryJudith {
+    }
+    dummy.DEFAULT ResidentSalmonRaeann {
+    }
+    serviceid_number TopChocolateDareen2 {
+    }
+    string DistinctHarlequinJanelle2 {
+    }
+    hidden_boolean QuickWhiteVonni3 {
+    }
+  }
+  hidden_boolean CuddlyAmberAlberta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  FavourablePinkMercie3 = 963
+  MammothAmaranthAdora = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OverseasIvoryJudith = 380
+  ResidentSalmonRaeann = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  TopChocolateDareen2 = 292
+  DistinctHarlequinJanelle2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,36 @@
+type dummy.LivelyPeachMarylynne {
+  annotations {
+    dummy.DEFAULT AwfulAquamarineBernelle3 {
+    }
+    serviceid JollyBlackCaron {
+    }
+    dummy.DEFAULT AwkwardPeachMarylee3 {
+    }
+    number BloodyCyanFedora2 {
+    }
+  }
+  dummy.FancyTurquoiseTeirtza RandomMoccasinLorena4 {
+    TallYellowXylia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CheapCopperEdita = "To be Frank, I'd have to change my name."
+    SharedPinkMelicent = 418
+    StuckRoseOralee = 681
+    SorryBrownDanyelle = 538
+    GoverningTanSelle = 596
+    JointCoralEliza = "Dad Im hungry  Hi hungry Im dad"
+    SorryBrownDanyelle2 = 813
+    PainfulMaroonLilly = "Why did the tomato blush? Because it saw the salad dressing."
+    RichTomatoStorm = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ImplicitSapphireRhea = 962
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  AwfulAquamarineBernelle3 = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  JollyBlackCaron = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AwkwardPeachMarylee3 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  BloodyCyanFedora2 = 156
+  _hidden_value = true
+}

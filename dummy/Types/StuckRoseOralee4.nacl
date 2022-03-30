@@ -1,0 +1,28 @@
+type dummy.StuckRoseOralee4 {
+  annotations {
+    boolean CompatibleSapphireRennie3 {
+    }
+    serviceid ContinentalOliveMagdalene3 {
+    }
+    serviceid OkayOliveMaggi {
+    }
+    dummy.DEFAULT SuccessfulBlueCatlee2 {
+    }
+    serviceid_number SquareJadeKai4 {
+    }
+    boolean GrubbyAquaAudi4 {
+    }
+  }
+  json OrangeWhiteViole {
+    _hidden_value = true
+  }
+  CompatibleSapphireRennie3 = true
+  ContinentalOliveMagdalene3 = "Why did the kid cross the playground? To get to the other slide."
+  OkayOliveMaggi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SuccessfulBlueCatlee2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  SquareJadeKai4 = 91
+  GrubbyAquaAudi4 = false
+  _hidden_value = true
+}

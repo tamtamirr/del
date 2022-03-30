@@ -1,0 +1,37 @@
+type dummy.BasicChocolateDarleen4 {
+  boolean UninterestedTomatoSusie3 {
+  }
+  boolean LtdCoralElnore {
+  }
+  hidden_boolean ProbableSalmonPhyllis2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CruelAquamarineBethany {
+  }
+  serviceid AshamedScarletRosamund4 {
+  }
+  number GreatVioletTyne2 {
+  }
+  json RationalLavenderKaty2 {
+  }
+  json YellowYellowZondra3 {
+  }
+  string RidiculousMoccasinLiz3 {
+  }
+  number FairCoffeeDinny5 {
+  }
+  serviceid LimitedCoralElladine2 {
+  }
+  dummy.ProvincialPeachMarita BoldPlumMinnaminnie6 {
+    FineBlackCarlyn = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    OldAmethystAmi = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+}

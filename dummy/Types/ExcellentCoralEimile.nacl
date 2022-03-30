@@ -1,0 +1,89 @@
+type dummy.ExcellentCoralEimile {
+  annotations {
+    dummy.DEFAULT CommonBronzeConsuela {
+    }
+    serviceid_number NarrowAmberAlma2 {
+    }
+    dummy.UnemployedIvoryJoly IraqiOliveMadella {
+    }
+    serviceid GiganticVioletUmeko {
+    }
+    string CatholicHarlequinJamima2 {
+    }
+    number EerieAzureBeverlie {
+    }
+    hidden_boolean FilthyAmberAlexis4 {
+    }
+  }
+  dummy.SteepAmberAlyce WonderfulYellowZola {
+    ChangingJadeKassia = "Why is Peter Pan always flying? Because he Neverlands."
+    RightBlushCherish = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PreviousBrownDania = false
+    ClosedMagentaLeilah = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SuperTomatoSusanna = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    ZanyYellowZulema = true
+    ChubbyAmberAline = false
+    CheerfulBeigeCalypso = 423
+    SympatheticPinkMead2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FuzzyAquaAuberta = "Im only familiar with 25 letters in the English language. I dont know why."
+    GoverningTanSelma = "Slept like a log last night  woke up in the fireplace."
+    MinorEmeraldGabriel2 = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  serviceid DevelopingHarlequinJeanne2 {
+    _hidden_value = true
+  }
+  json WetAmberAlidia2 {
+    _hidden_value = true
+  }
+  hidden_boolean LostJadeKaralynn4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" EagerBeigeCandis2 {
+    _hidden_value = true
+  }
+  hidden_boolean DisappointedMagentaLauryn4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AbstractMaroonLin2 {
+    _hidden_value = true
+  }
+  number TheoreticalIndigoJeniffer2 {
+    _hidden_value = true
+  }
+  boolean SmartPeachMarje {
+    _hidden_value = true
+  }
+  json PartialOliveLyndsay2 {
+    _hidden_value = true
+  }
+  number DecisiveSalmonPennie {
+    _hidden_value = true
+  }
+  boolean RelativeGoldGui4 {
+    _hidden_value = true
+  }
+  serviceid_number CompleteCoffeeDevon2 {
+    _hidden_value = true
+  }
+  string ConstantEmeraldFrayda3 {
+    _hidden_value = true
+  }
+  CommonBronzeConsuela = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  NarrowAmberAlma2 = 164
+  IraqiOliveMadella = false
+  GiganticVioletUmeko = "What do you call two barracuda fish?  A Pairacuda!"
+  CatholicHarlequinJamima2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EerieAzureBeverlie = 750
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type dummy.CoherentScarletRoselle {
+  annotations {
+    dummy.CognitiveSalmonQuinn CrookedAmberAlison {
+    }
+    number TanYellowYetta {
+    }
+    serviceid ImpressiveIndigoJerrylee2 {
+    }
+    serviceid_number DeepChocolateDelores {
+    }
+    hidden_boolean CivilianSapphireRanda5 {
+    }
+    serviceid_number WelshGrayHattie5 {
+    }
+  }
+  hidden_boolean CommonBronzeCookie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ScornfulBeigeBrianne3 {
+    _hidden_value = true
+  }
+  string ExcellentCoralEilis2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsualCoralEllyn2 {
+    _hidden_value = true
+  }
+  string BlushingTomatoTamara {
+    _hidden_value = true
+  }
+  serviceid RapidAmethystAmye {
+    _hidden_value = true
+  }
+  CrookedAmberAlison = "Dad Im hungry  Hi hungry Im dad"
+  TanYellowYetta = 831
+  ImpressiveIndigoJerrylee2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DeepChocolateDelores = 949
+  WelshGrayHattie5 = 468
+  _hidden_value = true
+}

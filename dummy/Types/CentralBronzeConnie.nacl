@@ -1,0 +1,164 @@
+type dummy.CentralBronzeConnie {
+  annotations {
+    serviceid_number PartialOliveLyndel {
+    }
+    number ChronicOliveMallissa {
+    }
+    boolean LiteraryGreenIris {
+    }
+    serviceid_number SpecificBrownDarb2 {
+    }
+  }
+  number CautiousTealSibbie {
+    _hidden_value = true
+  }
+  string PleasedEmeraldGabriell2 {
+    _hidden_value = true
+  }
+  boolean MammothAmaranthAdore {
+    _hidden_value = true
+  }
+  boolean IntellectualJadeKalie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BareLavenderKelli2 {
+    _hidden_value = true
+  }
+  hidden_boolean BewilderedAquamarineBernita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid StiffPeachMaryann {
+    _hidden_value = true
+  }
+  number ProvincialPeachMarissa {
+    _hidden_value = true
+  }
+  json IslamicRoseOndrea {
+    _hidden_value = true
+  }
+  serviceid SmoothAquamarineBarbette {
+    _hidden_value = true
+  }
+  number MinimumIndigoJeri2 {
+    _hidden_value = true
+  }
+  boolean SatisfactoryLimeKrissie {
+    _hidden_value = true
+  }
+  serviceid DigitalMaroonLib {
+    _hidden_value = true
+  }
+  json PracticalCopperDoris {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleBeigeBrinn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number TinyCyanEunice {
+    _hidden_value = true
+  }
+  string CheapCopperEdita2 {
+    _hidden_value = true
+  }
+  dummy.KeenGrayHannah CuddlyAmberAlanna {
+    ExoticScarletRina = false
+    LiquidRoseOttilie = 378
+    WidespreadHarlequinJacquie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HolyIndigoJemie = 724
+    SlowAmethystAnalise = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MarginalLimeKriste = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    AcuteLavenderKerianne = 208
+    HugeCoffeeDoralynne = "Why was it called the dark ages? Because of all the knights. "
+    ShrillApricotAntonella = 421
+    PublicBlushChrysa = "How come the stadium got hot after the game? Because all of the fans left."
+    PleasantIvoryJosee = 483
+    ExcessiveOliveMadelena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ScaredSalmonRafaelita2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    IndustrialBrownDanny = 786
+    DoubtfulRosePansie = "Slept like a log last night  woke up in the fireplace."
+    InteriorPurpleNathalie = 442
+    BlackVioletTonya = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    CurvedAmberAlix = 443
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKarel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BraveMoccasinLucinda2 {
+    _hidden_value = true
+  }
+  boolean MaleCoffeeDidi {
+    _hidden_value = true
+  }
+  boolean FederalGrayHally {
+    _hidden_value = true
+  }
+  hidden_boolean InvisibleRoseOrel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid OralLimeKylila {
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeirtza MagicOrangeManon {
+    TallYellowXylia = "To be Frank, I'd have to change my name."
+    CheapCopperEdita = "Im only familiar with 25 letters in the English language. I dont know why."
+    SharedPinkMelicent = 904
+    StuckRoseOralee = 865
+    SorryBrownDanyelle = 25
+    GoverningTanSelle = 407
+    JointCoralEliza = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SorryBrownDanyelle2 = 987
+    PainfulMaroonLilly = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RichTomatoStorm = "Slept like a log last night  woke up in the fireplace."
+    ImplicitSapphireRhea = 511
+    FlyingMoccasinLoralyn = true
+    _hidden_value = true
+  }
+  serviceid_number KindBlackCary {
+    _hidden_value = true
+  }
+  json IntellectualJadeKalina {
+    _hidden_value = true
+  }
+  boolean OverwhelmingPurpleMyrta {
+    _hidden_value = true
+  }
+  number MarvellousMoccasinLorrayne {
+    _hidden_value = true
+  }
+  json TightAquamarineBecki {
+    _hidden_value = true
+  }
+  dummy.UnemployedIvoryJoly DirectChocolateDeane {
+    TroubledBeigeBritta2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SoreBeigeBrigida = 94
+    DullVioletTrish = "Why was it called the dark ages? Because of all the knights. "
+    FiscalRedNicolle = "A steak pun is a rare medium well done."
+    FairCoffeeDinny = 424
+    OkSapphireRhianon = "Im only familiar with 25 letters in the English language. I dont know why."
+    EducationalCrimsonEryn2 = 840
+    _hidden_value = true
+  }
+  hidden_boolean VisualGreenIngeberg {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PartialOliveLyndel = 199
+  ChronicOliveMallissa = 437
+  LiteraryGreenIris = true
+  SpecificBrownDarb2 = 147
+  _hidden_value = true
+}

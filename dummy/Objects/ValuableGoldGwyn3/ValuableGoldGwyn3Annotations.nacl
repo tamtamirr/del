@@ -1,0 +1,55 @@
+type dummy.ValuableGoldGwyn3 {
+  annotations {
+    json AgriculturalGoldGoldi3 {
+    }
+    json ExtensiveGoldGlory3 {
+    }
+    serviceid UglyPlumMicky4 {
+    }
+    number AcceptableGrayHeloise2 {
+    }
+    serviceid InterimOrangeMalory3 {
+    }
+    string DefensiveRoseOndrea2 {
+    }
+    number AppallingTanSelena2 {
+    }
+    number RealBlushClarie2 {
+    }
+    dummy.MagnificentWhiteVanya NarrowAmberAllyson {
+    }
+    number WildTomatoSuzy {
+    }
+    serviceid GiganticAmaranthAdda6 {
+    }
+    serviceid ElaborateRedNicolette2 {
+    }
+    string ExperiencedMagentaLauralee3 {
+    }
+    boolean SecondaryFuchsiaGertruda2 {
+    }
+    boolean HighAmberAllison2 {
+    }
+    boolean BraveMoccasinLucita2 {
+    }
+    serviceid_number SmoggyTurquoiseTiffie2 {
+    }
+  }
+  AgriculturalGoldGoldi3 = "I'll tell you what often gets over looked... garden fences."
+  ExtensiveGoldGlory3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UglyPlumMicky4 = "How come the stadium got hot after the game? Because all of the fans left."
+  AcceptableGrayHeloise2 = 972
+  InterimOrangeMalory3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DefensiveRoseOndrea2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AppallingTanSelena2 = 200
+  RealBlushClarie2 = 70
+  NarrowAmberAllyson = false
+  WildTomatoSuzy = 178
+  GiganticAmaranthAdda6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ElaborateRedNicolette2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ExperiencedMagentaLauralee3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SecondaryFuchsiaGertruda2 = false
+  HighAmberAllison2 = true
+  BraveMoccasinLucita2 = true
+  SmoggyTurquoiseTiffie2 = 313
+}

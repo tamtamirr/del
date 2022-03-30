@@ -1,0 +1,28 @@
+type dummy.AcceptedTanShae2 {
+  annotations {
+    serviceid GreyEmeraldFranni {
+    }
+    dummy.DEFAULT MisleadingRoseOrelle2 {
+    }
+    json AccurateIndigoJillene2 {
+    }
+    boolean AverageCoralElysee2 {
+    }
+    number BloodyTomatoTally2 {
+    }
+    boolean SweetAquaAshil2 {
+    }
+  }
+  serviceid SadGrayHester2 {
+    _hidden_value = true
+  }
+  GreyEmeraldFranni = "To be Frank, I'd have to change my name."
+  MisleadingRoseOrelle2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  AccurateIndigoJillene2 = "Dad Im hungry  Hi hungry Im dad"
+  AverageCoralElysee2 = false
+  BloodyTomatoTally2 = 837
+  SweetAquaAshil2 = true
+  _hidden_value = true
+}

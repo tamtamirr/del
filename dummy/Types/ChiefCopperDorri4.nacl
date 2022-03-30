@@ -1,0 +1,154 @@
+type dummy.ChiefCopperDorri4 {
+  annotations {
+    hidden_boolean RecentBronzeCornelle5 {
+    }
+    hidden_boolean DarkTurquoiseTaryn4 {
+    }
+    number BiologicalMaroonLetizia2 {
+    }
+    hidden_boolean RelevantCoffeeDoralin3 {
+    }
+    serviceid_number AfraidAquamarineBelvia3 {
+    }
+  }
+  json GeneticMoccasinLorie2 {
+    _hidden_value = true
+  }
+  boolean VerbalPinkMaxine {
+    _hidden_value = true
+  }
+  json RoughGreenIdalina {
+    _hidden_value = true
+  }
+  boolean EvilAzureBilli {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucy2 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta3 {
+    _hidden_value = true
+  }
+  serviceid_number ProminentLavenderKelci4 {
+    _hidden_value = true
+  }
+  boolean CapitalistMagentaLayla {
+    _hidden_value = true
+  }
+  serviceid ApplicablePlumMirella2 {
+    _hidden_value = true
+  }
+  number IdealEmeraldFrederique {
+    _hidden_value = true
+  }
+  json RandomMoccasinLoren4 {
+    _hidden_value = true
+  }
+  number ComingSilverSandi2 {
+    _hidden_value = true
+  }
+  number ReasonableCrimsonEmelda2 {
+    _hidden_value = true
+  }
+  boolean EnchantingBlackCaren {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRoxane4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SoundRoseOlenka2 {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarine {
+    _hidden_value = true
+  }
+  boolean MammothAmaranthAdora4 {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulSapphireRhody4 {
+    _hidden_value = true
+  }
+  serviceid GracefulTurquoiseTerrie4 {
+    _hidden_value = true
+  }
+  serviceid_number ClinicalIndigoJenny3 {
+    _hidden_value = true
+  }
+  hidden_boolean SweetAquaAshlan3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EvolutionarySilverRuth {
+    _hidden_value = true
+  }
+  serviceid_number DualSapphireRhetta {
+    _hidden_value = true
+  }
+  "List<dummy.StrongBronzeColly>" FreshApricotArdith2 {
+    MilitaryChocolateDarlleen = "Whoever invented the knock-knock joke should get a no bell prize."
+    SophisticatedJadeKarlie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ElectricGreenIngrid = true
+    FatVioletTrixie = "Dad Im hungry  Hi hungry Im dad"
+    AdditionalCopperDotti = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UnderlyingLimeKoressa = false
+    MoralCyanFenelia = false
+    BraveMoccasinLucinda = "What do you call two barracuda fish?  A Pairacuda!"
+    SpectacularMaroonLibbi = false
+    ExpectedLimeLaney = false
+    IsraeliPinkMeriel = 471
+    ExceptionalOliveMadonna = false
+    DefensiveRoseOpal = 908
+    AnxiousHarlequinJanna2 = 319
+    SweetAquaAshien = true
+    LongAmaranthAdi = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  hidden_boolean UnnecessaryMoccasinLorain {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WorriedGrayHarrie2 {
+    _hidden_value = true
+  }
+  serviceid StrongBronzeCollie2 {
+    _hidden_value = true
+  }
+  dummy.MarriedCyanFannie HistoricalCyanEvangelina2 {
+    WonderfulYellowZoe = "Slept like a log last night  woke up in the fireplace."
+    UsualCoralElmira = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ProtestantScarletRobina = true
+    InquisitiveTealStacia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RoundIvoryJohnette = false
+    QuickestWhiteVonnie = 394
+    _hidden_value = true
+  }
+  json SocialBlueCharmion2 {
+    _hidden_value = true
+  }
+  boolean GrumpyVioletUrsola {
+    _hidden_value = true
+  }
+  serviceid_number CapitalistMagentaLea2 {
+    _hidden_value = true
+  }
+  serviceid_number HarshApricotAnn {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableBlushChrystal2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ShinyTurquoiseTiertza3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BiologicalMaroonLetizia2 = 834
+  AfraidAquamarineBelvia3 = 796
+  _hidden_value = true
+}

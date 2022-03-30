@@ -1,0 +1,111 @@
+type dummy.OddFuchsiaGenna {
+  annotations {
+    number HissingApricotAnnadiana2 {
+    }
+    number RoughAquaAva {
+    }
+    number AngryAquamarineBenedetta {
+    }
+    json ExcitedOrangeMariquilla2 {
+    }
+  }
+  json DifferentBlueCharlot {
+    _hidden_value = true
+  }
+  boolean RainyWhiteWallie {
+    _hidden_value = true
+  }
+  serviceid_number InjuredScarletRosalind {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKaren2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtfulBlueCatriona2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiania {
+    _hidden_value = true
+  }
+  string PastCoffeeDianemarie {
+    _hidden_value = true
+  }
+  dummy.IllAzureBobbee DeepAmberAlla2 {
+    CriticalCrimsonEstell = "Im only familiar with 25 letters in the English language. I dont know why."
+    GorgeousVioletUna = 350
+    TraditionalChocolateDeidre = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ScaredSalmonRafaelita = "Why didnt the skeleton cross the road? Because he had no guts."
+    MotionlessTurquoiseTheodora = 950
+    BreezyAmaranthAidan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ScaredSapphireRahal = false
+    BeautifulTomatoTabina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExceptionalOliveMadlin = 872
+    HeadPinkMeg = 6
+    UrgentLimeKristyn = false
+    DeliberateRedNoelyn = "Whoever invented the knock-knock joke should get a no bell prize."
+    BeneficialPlumMonica = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WillingGoldGussy = "I'll tell you what often gets over looked... garden fences."
+    MobilePurpleMoria = true
+    _hidden_value = true
+  }
+  string AsianMaroonLindie3 {
+    _hidden_value = true
+  }
+  number FormalCoralElizabeth {
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeCoralEllette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TopChocolateDarell {
+    _hidden_value = true
+  }
+  json AsleepJadeKarmen3 {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicOrangeMarcelia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string StrangeCoralEdna2 {
+    _hidden_value = true
+  }
+  boolean NaughtyAzureBonnibelle {
+    _hidden_value = true
+  }
+  string DeadBrownDara {
+    _hidden_value = true
+  }
+  string DirtyAmberAlene {
+    _hidden_value = true
+  }
+  string BrilliantGreenIlse2 {
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah DirectChocolateDeane3 {
+    TragicRosePauline = "Why did the tomato blush? Because it saw the salad dressing."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  "List<boolean>" CriminalFuchsiaGeorgetta3 {
+    _hidden_value = true
+  }
+  serviceid BurningRedNikki {
+    _hidden_value = true
+  }
+  string WeeSapphireReta {
+    _hidden_value = true
+  }
+  HissingApricotAnnadiana2 = 734
+  RoughAquaAva = 294
+  AngryAquamarineBenedetta = 936
+  ExcitedOrangeMariquilla2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

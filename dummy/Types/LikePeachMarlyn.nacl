@@ -1,0 +1,76 @@
+type dummy.LikePeachMarlyn {
+  annotations {
+    string TiredGoldGrete4 {
+    }
+    serviceid_number SeriousBrownDanette {
+    }
+    string HiddenRedOdelle2 {
+    }
+    string SquareJadeKaia3 {
+    }
+    dummy.DEFAULT AddedPinkMelinda2 {
+    }
+    number QuietWhiteVivien2 {
+    }
+  }
+  hidden_boolean ColossalAmaranthAbbye3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json MammothAmaranthAdora3 {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HistoricLavenderKellie {
+    _hidden_value = true
+  }
+  number GreatAmaranthAddia2 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta2 {
+    _hidden_value = true
+  }
+  json InnerFuchsiaGenvieve {
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristean3 {
+    _hidden_value = true
+  }
+  boolean ShortAmaranthAg2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WealthyPeachMarybeth2 {
+    _hidden_value = true
+  }
+  hidden_boolean CanadianPlumMinetta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FoolishAzureBinny {
+    _hidden_value = true
+  }
+  boolean UndergroundScarletRomonda {
+    _hidden_value = true
+  }
+  serviceid MolecularRedNertie {
+    _hidden_value = true
+  }
+  TiredGoldGrete4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  SeriousBrownDanette = 569
+  HiddenRedOdelle2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SquareJadeKaia3 = "Dad Im hungry  Hi hungry Im dad"
+  AddedPinkMelinda2 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  QuietWhiteVivien2 = 240
+  _hidden_value = true
+}

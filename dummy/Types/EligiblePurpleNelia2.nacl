@@ -1,0 +1,48 @@
+type dummy.EligiblePurpleNelia2 {
+  annotations {
+    dummy.UnemployedIvoryJoly SquareAmberAlverta {
+    }
+    boolean NormalBrownDana2 {
+    }
+    dummy.DEFAULT AdvisoryOrangeMarie {
+    }
+    serviceid AssociatedMaroonLindsy2 {
+    }
+    serviceid HorizontalSalmonPrissie2 {
+    }
+    number BoilingAmaranthAgneta2 {
+    }
+    json TerribleBeigeBriney4 {
+    }
+  }
+  serviceid RoyalBrownCristina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealTomatoStephine3 {
+    _hidden_value = true
+  }
+  serviceid_number GreasyAquaAubine2 {
+    _hidden_value = true
+  }
+  boolean PhilosophicalRedNoel {
+    _hidden_value = true
+  }
+  number ConvincingSalmonPeggy4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantScarletRobina3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SquareAmberAlverta = false
+  NormalBrownDana2 = false
+  AdvisoryOrangeMarie = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  AssociatedMaroonLindsy2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  HorizontalSalmonPrissie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  BoilingAmaranthAgneta2 = 38
+  TerribleBeigeBriney4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

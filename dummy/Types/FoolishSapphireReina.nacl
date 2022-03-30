@@ -1,0 +1,41 @@
+type dummy.FoolishSapphireReina {
+  annotations {
+    dummy.DEFAULT BoredAquamarineBerny {
+    }
+    serviceid_number NorthernCoralEleanore {
+    }
+    json UnlikelyCrimsonEthelin2 {
+    }
+    serviceid DirtyAmberAlessandra {
+    }
+  }
+  hidden_boolean AliveTealSherri {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LoudApricotAnnabella {
+    _hidden_value = true
+  }
+  number UncomfortablePlumModesty {
+    _hidden_value = true
+  }
+  number ResponsibleCoffeeDevan {
+    _hidden_value = true
+  }
+  string LargeAmaranthAdeline {
+    _hidden_value = true
+  }
+  hidden_boolean NoblePurpleNeala {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BoredAquamarineBerny = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  NorthernCoralEleanore = 665
+  UnlikelyCrimsonEthelin2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DirtyAmberAlessandra = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

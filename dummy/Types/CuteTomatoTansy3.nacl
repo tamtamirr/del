@@ -1,0 +1,36 @@
+type dummy.CuteTomatoTansy3 {
+  annotations {
+    hidden_boolean HistoricLavenderKellie2 {
+    }
+    serviceid DevelopingHarlequinJeanie2 {
+    }
+    dummy.SwissPlumMikaela SkinnyAmberAlta2 {
+    }
+    json SufficientCrimsonEnriqueta {
+    }
+    boolean CurvedAmberAlisun4 {
+    }
+  }
+  serviceid DarkChocolateDeanne4 {
+    _hidden_value = true
+  }
+  string RulingLimeKipp {
+    _hidden_value = true
+  }
+  hidden_boolean EerieAzureBianca2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BrokenIndigoJocelyne2 {
+    _hidden_value = true
+  }
+  serviceid_number InformalLavenderKatheryn {
+    _hidden_value = true
+  }
+  DevelopingHarlequinJeanie2 = "Why is Peter Pan always flying? Because he Neverlands."
+  SkinnyAmberAlta2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SufficientCrimsonEnriqueta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CurvedAmberAlisun4 = true
+  _hidden_value = true
+}

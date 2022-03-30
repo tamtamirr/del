@@ -1,0 +1,94 @@
+type dummy.HonestIndigoJerrine5 {
+  annotations {
+    json DryCyanEvaleen4 {
+    }
+    boolean LovelyCoralEllie4 {
+    }
+    number InvisibleRoseOrelee3 {
+    }
+    number MoralCyanFeliza2 {
+    }
+    serviceid SmallAmaranthAgathe5 {
+    }
+    number DrunkPeachMarlee3 {
+    }
+  }
+  string BoldPlumMinette3 {
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana4 {
+    _hidden_value = true
+  }
+  serviceid ShrillApricotAntonia {
+    _hidden_value = true
+  }
+  json FilthyTurquoiseTeresa {
+    _hidden_value = true
+  }
+  "Map<json>" ImperialJadeKaterina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AngryFuchsiaGill3 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia2 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer2 {
+    _hidden_value = true
+  }
+  serviceid DomesticCopperEba3 {
+    _hidden_value = true
+  }
+  string SympatheticPinkMeade3 {
+    _hidden_value = true
+  }
+  json StripedYellowWrennie3 {
+    _hidden_value = true
+  }
+  serviceid_number YoungAmethystAndeee2 {
+    _hidden_value = true
+  }
+  serviceid_number SadGrayHettie2 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie4 {
+    _hidden_value = true
+  }
+  dummy.ExtraCoffeeDianemarie TallYellowXena {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentScarletRoselin2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FierceOliveMaisie2 {
+    _hidden_value = true
+  }
+  json AlliedPlumMisti3 {
+    _hidden_value = true
+  }
+  "List<string>" DistinguishedPurpleNatassia3 {
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNanette3 {
+    _hidden_value = true
+  }
+  dummy.OccupationalOliveMadel UrgentLimeKristyn2 {
+    DifferentBlueCharleen = 251
+    AverageCoralElysha2 = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    WearyBeigeBrooke = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PoisedTurquoiseThomasin = 689
+    _hidden_value = true
+  }
+  DryCyanEvaleen4 = "Dad Im hungry  Hi hungry Im dad"
+  LovelyCoralEllie4 = false
+  InvisibleRoseOrelee3 = 550
+  MoralCyanFeliza2 = 737
+  SmallAmaranthAgathe5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DrunkPeachMarlee3 = 786
+  _hidden_value = true
+}

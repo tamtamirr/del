@@ -1,0 +1,42 @@
+type dummy.ShortAmaranthAeriell {
+  annotations {
+    dummy.DEFAULT DangerousCrimsonEsta {
+    }
+    json FarBlushChristin2 {
+    }
+    number BumpyAmaranthAilina {
+    }
+    json SkilledMoccasinLuci2 {
+    }
+    json CoolAmaranthAindrea2 {
+    }
+    hidden_boolean HeavyAmethystAndriette {
+    }
+  }
+  serviceid_number ProfoundPinkMerlina4 {
+    _hidden_value = true
+  }
+  serviceid CleverTealSibel {
+    _hidden_value = true
+  }
+  number TightIvoryJoelynn2 {
+    _hidden_value = true
+  }
+  string LooseAquaAugustina3 {
+    _hidden_value = true
+  }
+  serviceid_number SharpFuchsiaGeorgine {
+    _hidden_value = true
+  }
+  number CognitiveSalmonQuentin2 {
+    _hidden_value = true
+  }
+  DangerousCrimsonEsta = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  FarBlushChristin2 = "Why did the tomato blush? Because it saw the salad dressing."
+  BumpyAmaranthAilina = 77
+  SkilledMoccasinLuci2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  CoolAmaranthAindrea2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

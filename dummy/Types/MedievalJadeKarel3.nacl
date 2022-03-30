@@ -1,0 +1,25 @@
+type dummy.MedievalJadeKarel3 {
+  annotations {
+    serviceid_number TartYellowWynnie3 {
+    }
+    string RetiredSilverSarajane2 {
+    }
+    number SaltyApricotArleen4 {
+    }
+    serviceid GrossLavenderKetty {
+    }
+    number FrozenScarletRosabel2 {
+    }
+  }
+  "List<hidden_boolean>" HelpfulHarlequinJaneva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  TartYellowWynnie3 = 893
+  RetiredSilverSarajane2 = "Dad Im hungry  Hi hungry Im dad"
+  SaltyApricotArleen4 = 961
+  GrossLavenderKetty = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FrozenScarletRosabel2 = 540
+  _hidden_value = true
+}

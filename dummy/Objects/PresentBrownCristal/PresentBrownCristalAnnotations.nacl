@@ -1,0 +1,52 @@
+type dummy.PresentBrownCristal {
+  annotations {
+    serviceid_number FluffyAmberAlica3 {
+    }
+    boolean InevitableIvoryJonell2 {
+    }
+    boolean ResidentSalmonRae3 {
+    }
+    serviceid_number CuddlyAmberAlberta6 {
+    }
+    hidden_boolean ModernTealStarlene2 {
+    }
+    serviceid ChosenSilverSarina {
+    }
+    string UniqueFuchsiaGert4 {
+    }
+    dummy.StrongBronzeColly UnusualGoldGizela {
+    }
+    string HumanBronzeConstanta5 {
+    }
+    dummy.SurvivingSapphireRickie LittleBlushChiquita4 {
+    }
+    string ThoroughScarletRonalda2 {
+    }
+    json JoyousBlackCarry6 {
+    }
+    serviceid PleasantBlackCatha4 {
+    }
+    string UptightBeigeBrittni6 {
+    }
+    hidden_boolean BackMoccasinLoni3 {
+    }
+    serviceid_number SystematicOrangeMarcella2 {
+    }
+    serviceid_number BeneficialPlumMonah3 {
+    }
+  }
+  FluffyAmberAlica3 = 55
+  InevitableIvoryJonell2 = false
+  ResidentSalmonRae3 = true
+  CuddlyAmberAlberta6 = 928
+  ChosenSilverSarina = "I'll tell you what often gets over looked... garden fences."
+  UniqueFuchsiaGert4 = "Why was it called the dark ages? Because of all the knights. "
+  UnusualGoldGizela = 899
+  HumanBronzeConstanta5 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ThoroughScarletRonalda2 = "What creature is smarter than a talking parrot? A spelling bee."
+  JoyousBlackCarry6 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PleasantBlackCatha4 = "To be Frank, I'd have to change my name."
+  UptightBeigeBrittni6 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SystematicOrangeMarcella2 = 24
+  BeneficialPlumMonah3 = 728
+}

@@ -1,0 +1,49 @@
+type dummy.ArbitrarySilverRoxane2 {
+  annotations {
+    boolean ExcellentCoralEffie {
+    }
+    serviceid_number JuniorIvoryJonis {
+    }
+    json LittleBlushChlo2 {
+    }
+  }
+  boolean PoorBronzeCoretta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoftCoralElayne2 {
+    _hidden_value = true
+  }
+  boolean RedBrownDallas {
+    _hidden_value = true
+  }
+  json InstantSapphireRandy {
+    _hidden_value = true
+  }
+  serviceid VictoriousBlueCecelia {
+    _hidden_value = true
+  }
+  json HumanBronzeConstanta {
+    _hidden_value = true
+  }
+  serviceid_number GreatAmaranthAddie {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKaren {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DefinitePeachMartguerita {
+    _hidden_value = true
+  }
+  boolean RottenApricotArlana {
+    _hidden_value = true
+  }
+  serviceid AshamedScarletRosanna2 {
+    _hidden_value = true
+  }
+  ExcellentCoralEffie = false
+  JuniorIvoryJonis = 115
+  LittleBlushChlo2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

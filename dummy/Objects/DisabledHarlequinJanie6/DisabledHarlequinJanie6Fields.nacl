@@ -1,0 +1,69 @@
+type dummy.DisabledHarlequinJanie6 {
+  hidden_boolean OutstandingIndigoJennee {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string RealBlushClarinda3 {
+  }
+  serviceid GloriousScarletRose5 {
+  }
+  json ElderlyEmeraldFlorella {
+  }
+  string EmbarrassedAzureBibbye {
+  }
+  serviceid AngryAquamarineBenedikta3 {
+  }
+  boolean IdenticalLimeKorry4 {
+  }
+  dummy.StraightforwardMaroonLeyla ThunderingApricotArabella3 {
+    IncredibleRosePaula = "Why did the kid cross the playground? To get to the other slide."
+    PracticalCopperDorie = 774
+    AlertTomatoSylvia = file("EmptyAmethystAndra4.txt")
+    DesperateIvoryJunie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  dummy.ExactLimeKordula IslamicRoseOndrea3 {
+  }
+  serviceid_number ProtestantScarletRobin {
+  }
+  boolean DirectChocolateDeane7 {
+  }
+  hidden_boolean ThinCyanEvanne2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CompetitiveGrayHedy4 {
+  }
+  serviceid OralLimeKylie5 {
+  }
+  hidden_boolean MobilePurpleMorna3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SatisfiedHarlequinJeana6 {
+  }
+  number LongAmaranthAdi3 {
+  }
+  dummy.YellowYellowZonda QuickWhiteVonni8 {
+    ProposedGoldGwendolin2 = 775
+    LiquidRoseOttilie4 = true
+    SplendidBlueCatina3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OutstandingTealStefanie2 = false
+  }
+  boolean DeadTealSilva {
+  }
+  boolean RealTomatoStevana {
+  }
+  serviceid WiseLavenderKatharyn5 {
+  }
+  serviceid_number AssociatedMaroonLindsey5 {
+  }
+  json ExperimentalLavenderKatine5 {
+  }
+  serviceid SleepyTomatoSuellen3 {
+  }
+  string CivicTanShellie4 {
+  }
+}

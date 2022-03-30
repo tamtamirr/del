@@ -1,0 +1,56 @@
+type dummy.ChosenSilverSarette {
+  annotations {
+    number FrailVioletTruda {
+    }
+    dummy.AcuteLavenderKenna2 InterimOrangeMalynda2 {
+    }
+    serviceid_number WetAmberAlida2 {
+    }
+    dummy.SpiritualLavenderKatrinka3 NeighbouringPurpleNance3 {
+    }
+    serviceid_number AverageAmaranthAaren3 {
+    }
+    serviceid_number OrangePurpleMufi2 {
+    }
+    serviceid_number BigVioletTonia3 {
+    }
+    number LargeBlueCharmain {
+    }
+    serviceid_number ImpressedPeachMariska {
+    }
+    boolean GeneralBlushChristen {
+    }
+    json ResponsibleCoffeeDevin2 {
+    }
+    serviceid_number EssentialCoffeeDion3 {
+    }
+    json FitHarlequinJaclyn2 {
+    }
+    dummy.OccupationalOliveMadel MilitaryChocolateDaron2 {
+    }
+    dummy.CorporateEmeraldGarnet5 DirtyAmberAleta2 {
+    }
+    dummy.ProtectiveRoseOlimpia WanderingTomatoSuzann2 {
+    }
+    serviceid MeanIvoryJulee6 {
+    }
+    json IntegralSalmonPhillie {
+    }
+    hidden_boolean GrimScarletRonnie {
+    }
+  }
+  FrailVioletTruda = 380
+  WetAmberAlida2 = 230
+  AverageAmaranthAaren3 = 339
+  OrangePurpleMufi2 = 325
+  BigVioletTonia3 = 905
+  LargeBlueCharmain = 737
+  ImpressedPeachMariska = 734
+  GeneralBlushChristen = false
+  ResponsibleCoffeeDevin2 = "I'll tell you what often gets over looked... garden fences."
+  EssentialCoffeeDion3 = 805
+  FitHarlequinJaclyn2 = "Slept like a log last night  woke up in the fireplace."
+  MilitaryChocolateDaron2 = true
+  MeanIvoryJulee6 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IntegralSalmonPhillie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

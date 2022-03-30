@@ -1,0 +1,100 @@
+type dummy.StrangeTurquoiseTina {
+  dummy.StrongBronzeColly GeographicalPeachMarleen3 {
+    MilitaryChocolateDarlleen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SophisticatedJadeKarlie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ElectricGreenIngrid = true
+    FatVioletTrixie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AdditionalCopperDotti = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UnderlyingLimeKoressa = false
+    MoralCyanFenelia = true
+    BraveMoccasinLucinda = "Slept like a log last night  woke up in the fireplace."
+    SpectacularMaroonLibbi = false
+    ExpectedLimeLaney = false
+    IsraeliPinkMeriel = 285
+    ExceptionalOliveMadonna = true
+    DefensiveRoseOpal = 351
+    AnxiousHarlequinJanna2 = 967
+    SweetAquaAshien = false
+    LongAmaranthAdi = "A steak pun is a rare medium well done."
+  }
+  number ProfessionalChocolateDawna {
+  }
+  dummy.FancyTurquoiseTeirtza SickFuchsiaGeraldine3 {
+    TallYellowXylia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CheapCopperEdita = "Why did the kid cross the playground? To get to the other slide."
+    SharedPinkMelicent = 883
+    StuckRoseOralee = 878
+    SorryBrownDanyelle = 375
+    GoverningTanSelle = 774
+    JointCoralEliza = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SorryBrownDanyelle2 = 631
+    PainfulMaroonLilly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RichTomatoStorm = "Did you know that protons have mass? I didn't even know they were catholic."
+    ImplicitSapphireRhea = 459
+    FlyingMoccasinLoralyn = true
+  }
+  dummy.NumerousHarlequinJanaye SweetAquaAshil3 {
+    IntimateSilverRuthe = 211
+    ImmediateCrimsonEmeline = "Whoever invented the knock-knock joke should get a no bell prize."
+    GoodBlueCesya = 730
+    FrightenedAzureBlaire2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  string FaintMaroonLiv2 {
+  }
+  string CompulsoryOliveMallissa2 {
+  }
+  hidden_boolean DullMoccasinLoria {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string InappropriateRoseOthilie {
+  }
+  boolean DisturbedAzureBeverley3 {
+  }
+  json BrightTomatoTamera2 {
+  }
+  number WorthyRedOdilia5 {
+  }
+  boolean CollectiveLavenderKathryne2 {
+  }
+  number SoleLimeKirsti2 {
+  }
+  dummy.RandomMoccasinLorena2 MinisterialTanSheelagh3 {
+    PromisingRedNonie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AccusedSilverSally = 764
+    UnemployedIvoryJoly2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RapidGrayHildagarde = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  dummy.OccupationalOliveMadel MonthlyMaroonLinette2 {
+    DifferentBlueCharleen = 198
+    AverageCoralElysha2 = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    WearyBeigeBrooke = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PoisedTurquoiseThomasin = 580
+  }
+  json FollowingBrownCynthia2 {
+  }
+  json IdenticalLimeKorry3 {
+  }
+  boolean DivineRoseOpaline2 {
+  }
+  boolean PracticalCopperDorie2 {
+  }
+  dummy.StingyYellowWinni NoblePurpleNeda5 {
+    MiniatureAmaranthAdriana4 = "Why was it called the dark ages? Because of all the knights. "
+    IsraeliPinkMerilee3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RainyWhiteWalliw2 = 780
+    BadBlushCicily3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WetAmberAlicea = 210
+    DeadTealSile3 = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  hidden_boolean CasualOliveLurleen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ConfusedAquamarineBertina2 {
+  }
+}

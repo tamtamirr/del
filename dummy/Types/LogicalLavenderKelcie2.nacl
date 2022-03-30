@@ -1,0 +1,77 @@
+type dummy.LogicalLavenderKelcie2 {
+  annotations {
+    boolean AshamedScarletRosanna3 {
+    }
+    serviceid_number UltimateJadeKamilah2 {
+    }
+    boolean AwfulAquamarineBernelle4 {
+    }
+    string DeafeningAmethystAngil2 {
+    }
+    dummy.DEFAULT RobustYellowWileen3 {
+    }
+    hidden_boolean RivalPurpleNari2 {
+    }
+  }
+  boolean FixedGreenHinda2 {
+    _hidden_value = true
+  }
+  string ImportantBlueCharyl {
+    _hidden_value = true
+  }
+  number ExperiencedMagentaLauraine {
+    _hidden_value = true
+  }
+  number JitteryVioletValerie {
+    _hidden_value = true
+  }
+  boolean ConstitutionalHarlequinJaymee {
+    _hidden_value = true
+  }
+  serviceid_number RelatedIndigoJessamyn3 {
+    _hidden_value = true
+  }
+  json RacialPlumMichell2 {
+    _hidden_value = true
+  }
+  number RemoteIndigoJenelle3 {
+    _hidden_value = true
+  }
+  serviceid EagerBeigeCandy2 {
+    _hidden_value = true
+  }
+  number RipeApricotAriel3 {
+    _hidden_value = true
+  }
+  string FinancialBronzeCorette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MissingPinkMelodee {
+    _hidden_value = true
+  }
+  hidden_boolean FortunateRoseOlivia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FilthyAmberAlexis3 {
+    _hidden_value = true
+  }
+  number CurlyAmberAlbina3 {
+    _hidden_value = true
+  }
+  number SteepAmethystAlys6 {
+    _hidden_value = true
+  }
+  boolean BitterApricotArdelle2 {
+    _hidden_value = true
+  }
+  AshamedScarletRosanna3 = false
+  UltimateJadeKamilah2 = 543
+  AwfulAquamarineBernelle4 = false
+  DeafeningAmethystAngil2 = "A steak pun is a rare medium well done."
+  RobustYellowWileen3 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  _hidden_value = true
+}

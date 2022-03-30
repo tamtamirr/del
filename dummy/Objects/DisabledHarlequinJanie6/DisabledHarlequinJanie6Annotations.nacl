@@ -1,0 +1,62 @@
+type dummy.DisabledHarlequinJanie6 {
+  annotations {
+    serviceid_number CheerfulSapphireRhody5 {
+    }
+    dummy.KeenGrayHannah GiganticAmaranthAdda7 {
+    }
+    boolean WateryYellowZenia {
+    }
+    dummy.ExcitedOrangeMarinna DoubtfulTealSioux3 {
+    }
+    json RequiredMaroonLeta4 {
+    }
+    json ElegantTurquoiseTeddie6 {
+    }
+    json ConvincingSalmonPeggie5 {
+    }
+    number WrittenGreenIvie2 {
+    }
+    boolean RainyWhiteWalliw3 {
+    }
+    dummy.ManyAmethystAngel PermanentFuchsiaGay2 {
+    }
+    string RapidAmethystAmmamaria4 {
+    }
+    hidden_boolean TechnicalCopperEdeline2 {
+    }
+    serviceid CollectiveLavenderKathryne3 {
+    }
+    number DryAmberAlexandrina {
+    }
+    string HotCoffeeDenyse {
+    }
+    json RepulsiveBeigeBrenn6 {
+    }
+    string ConvincingSalmonPegeen {
+    }
+    serviceid CuriousLimeKirbee3 {
+    }
+    boolean CasualOliveLusa4 {
+    }
+    serviceid_number InterimOrangeMalva3 {
+    }
+  }
+  CheerfulSapphireRhody5 = 209
+  GiganticAmaranthAdda7 = true
+  WateryYellowZenia = true
+  RequiredMaroonLeta4 = "How come the stadium got hot after the game? Because all of the fans left."
+  ElegantTurquoiseTeddie6 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ConvincingSalmonPeggie5 = "A steak pun is a rare medium well done."
+  WrittenGreenIvie2 = 661
+  RainyWhiteWalliw3 = false
+  PermanentFuchsiaGay2 = 460
+  RapidAmethystAmmamaria4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CollectiveLavenderKathryne3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DryAmberAlexandrina = 225
+  HotCoffeeDenyse = "Why didnt the skeleton cross the road? Because he had no guts."
+  RepulsiveBeigeBrenn6 = "How come the stadium got hot after the game? Because all of the fans left."
+  ConvincingSalmonPegeen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CuriousLimeKirbee3 = "Why did the tomato blush? Because it saw the salad dressing."
+  CasualOliveLusa4 = false
+  InterimOrangeMalva3 = 215
+}

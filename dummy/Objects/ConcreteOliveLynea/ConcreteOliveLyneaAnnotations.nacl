@@ -1,0 +1,54 @@
+type dummy.ConcreteOliveLynea {
+  annotations {
+    serviceid WetAquamarineBelita3 {
+    }
+    json ModestLavenderKelsey5 {
+    }
+    serviceid GorgeousVioletUna4 {
+    }
+    string LongAmaranthAdina4 {
+    }
+    string SurprisingGreenHynda2 {
+    }
+    hidden_boolean DifferentTealSilvia6 {
+    }
+    dummy.StatutoryGrayHarriette CrucialFuchsiaGenni2 {
+    }
+    serviceid_number AnnualCoffeeDonni3 {
+    }
+    dummy.CentralBronzeConnie BadBlushCiel {
+    }
+    string FunnyEmeraldGabbi5 {
+    }
+    number LateAmethystAmberly2 {
+    }
+    boolean WelcomeIvoryJosselyn2 {
+    }
+    dummy.PrivateBronzeCordy AcceptableGrayHeloise3 {
+    }
+    dummy.AshamedAquamarineBernardina IntegratedOliveMaegan {
+    }
+    number ConcernedTealSibella4 {
+    }
+    boolean AdorableTomatoSydelle2 {
+    }
+    serviceid_number VerbalPeachMax2 {
+    }
+    hidden_boolean GreenVioletUlla2 {
+    }
+  }
+  WetAquamarineBelita3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ModestLavenderKelsey5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GorgeousVioletUna4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LongAmaranthAdina4 = "Dad Im hungry  Hi hungry Im dad"
+  SurprisingGreenHynda2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CrucialFuchsiaGenni2 = false
+  AnnualCoffeeDonni3 = 286
+  FunnyEmeraldGabbi5 = "How come the stadium got hot after the game? Because all of the fans left."
+  LateAmethystAmberly2 = 870
+  WelcomeIvoryJosselyn2 = true
+  AcceptableGrayHeloise3 = false
+  ConcernedTealSibella4 = 277
+  AdorableTomatoSydelle2 = true
+  VerbalPeachMax2 = 435
+}

@@ -1,0 +1,125 @@
+type dummy.AfraidCrimsonEmogene {
+  annotations {
+    dummy.SwissPlumMikaela GayOrangeMariette3 {
+    }
+    serviceid_number InteriorPurpleNatka {
+    }
+    serviceid StormyTurquoiseTilly {
+    }
+    boolean PrimaryCoffeeDody {
+    }
+    serviceid TeenageScarletRobinetta3 {
+    }
+    json JollyVioletValina3 {
+    }
+  }
+  hidden_boolean SpiritualLavenderKatrine4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmelina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT WrongTomatoSybil {
+    _hidden_value = true
+  }
+  json BadBlushCilka {
+    _hidden_value = true
+  }
+  boolean WorthyRoseOdille2 {
+    _hidden_value = true
+  }
+  json DistinctiveLimeKristen3 {
+    _hidden_value = true
+  }
+  json FavourablePinkMerci2 {
+    _hidden_value = true
+  }
+  string AliveFuchsiaGilly {
+    _hidden_value = true
+  }
+  string HiddenRedOdelle3 {
+    _hidden_value = true
+  }
+  number QuietWhiteVivienne {
+    _hidden_value = true
+  }
+  json LongVioletVanda3 {
+    _hidden_value = true
+  }
+  boolean HorizontalSalmonPrudence3 {
+    _hidden_value = true
+  }
+  serviceid_number SkinnyAmberAlta3 {
+    _hidden_value = true
+  }
+  boolean ExperimentalLavenderKatlin {
+    _hidden_value = true
+  }
+  boolean AnonymousSapphireRaye3 {
+    _hidden_value = true
+  }
+  boolean ExplicitMaroonLisbeth3 {
+    _hidden_value = true
+  }
+  json VastEmeraldFreddi2 {
+    _hidden_value = true
+  }
+  json InterimOrangeMalvina {
+    _hidden_value = true
+  }
+  serviceid ObligedOrangeMarcellina2 {
+    _hidden_value = true
+  }
+  serviceid ComparativePlumModestia2 {
+    _hidden_value = true
+  }
+  number SoftCoralElana3 {
+    _hidden_value = true
+  }
+  string WanderingTomatoSuzette {
+    _hidden_value = true
+  }
+  json WorthyRedOdilia3 {
+    _hidden_value = true
+  }
+  number GenuineGreenIsobel2 {
+    _hidden_value = true
+  }
+  string WelshGrayHazel {
+    _hidden_value = true
+  }
+  serviceid FrailVioletTrude2 {
+    _hidden_value = true
+  }
+  boolean AddedPinkMelicent3 {
+    _hidden_value = true
+  }
+  boolean ExcessSilverSapphire3 {
+    _hidden_value = true
+  }
+  serviceid_number LiableLimeKimberlyn4 {
+    _hidden_value = true
+  }
+  dummy.AcceptedTanSerena GentleBlackCarmen {
+    HarshOliveMaia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EvolutionarySilverRuby = "Why did the kid cross the playground? To get to the other slide."
+    SoundAmethystAngelika = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ExtraCoffeeDiandra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    QuaintWhiteVivianna = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  string PromisingRedNonie2 {
+    _hidden_value = true
+  }
+  GayOrangeMariette3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  InteriorPurpleNatka = 75
+  StormyTurquoiseTilly = "Why is Peter Pan always flying? Because he Neverlands."
+  PrimaryCoffeeDody = true
+  TeenageScarletRobinetta3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  JollyVioletValina3 = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

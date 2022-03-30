@@ -1,0 +1,56 @@
+type dummy.FrequentLavenderKatie3 {
+  annotations {
+    string IntactRosePatsy {
+    }
+    json AfraidCrimsonEmmye2 {
+    }
+    string VastYellowZelda2 {
+    }
+    dummy.DEFAULT EstimatedOrangeMargie {
+    }
+    serviceid_number UnawareSapphireReeba {
+    }
+    hidden_boolean WelcomeIvoryJosi {
+    }
+  }
+  serviceid_number MathematicalRoseOthelia {
+    _hidden_value = true
+  }
+  serviceid_number SplendidBlueCatlaina3 {
+    _hidden_value = true
+  }
+  boolean IllEmeraldGael3 {
+    _hidden_value = true
+  }
+  number LonelyOliveLynde {
+    _hidden_value = true
+  }
+  serviceid CharmingPlumMorena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeliciousApricotArdis2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanShel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MentalCrimsonEsmaria {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma {
+    _hidden_value = true
+  }
+  number DelicateOliveMadalena2 {
+    _hidden_value = true
+  }
+  IntactRosePatsy = "Did you know that protons have mass? I didn't even know they were catholic."
+  AfraidCrimsonEmmye2 = "A steak pun is a rare medium well done."
+  VastYellowZelda2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EstimatedOrangeMargie = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  UnawareSapphireReeba = 840
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.ExuberantBlackCarlee {
+  annotations {
+    number PinkIndigoJennette {
+    }
+    boolean RottenApricotAriela {
+    }
+    string AmateurSalmonPierette {
+    }
+    serviceid GayOrangeMarijo2 {
+    }
+    dummy.RussianCyanFelicity DistantIndigoJilly {
+    }
+    serviceid InnovativeTanSheena {
+    }
+  }
+  serviceid OrangePurpleMuire {
+    _hidden_value = true
+  }
+  PinkIndigoJennette = 208
+  RottenApricotAriela = true
+  AmateurSalmonPierette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GayOrangeMarijo2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  DistantIndigoJilly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InnovativeTanSheena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,108 @@
+type dummy.TragicRosePaulita3 {
+  annotations {
+    serviceid_number KnownMaroonLexi {
+    }
+    hidden_boolean RegularCopperDorris2 {
+    }
+    serviceid_number ExplicitMaroonLise2 {
+    }
+    json UnawareSapphireRee {
+    }
+    number MistyTurquoiseTheda4 {
+    }
+  }
+  number SheerMagentaLaurette {
+    _hidden_value = true
+  }
+  string SacredRedNorina {
+    _hidden_value = true
+  }
+  serviceid CruelPlumMichaela {
+    _hidden_value = true
+  }
+  serviceid CharmingBeigeCallie3 {
+    _hidden_value = true
+  }
+  serviceid SupportingSilverSamara {
+    _hidden_value = true
+  }
+  string SpicyAquaArlie2 {
+    _hidden_value = true
+  }
+  string GiantMoccasinLotty {
+    _hidden_value = true
+  }
+  json IdealEmeraldFredi2 {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie DepressedAzureBettina2 {
+    FriendlyBlackCarma = 638
+    FrightenedMagentaLavena = 130
+    RepulsiveBeigeBrena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UptightBeigeBrittni = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    ExactLimeKordula2 = 620
+    LocalBlueCharmian = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "What do you call two barracuda fish?  A Pairacuda!"
+    WickedBeigeBryna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AshamedScarletRosamund = 289
+    ChillyAmaranthAilsun = 296
+    CooingAmethystAngelique = 506
+    FatalPurpleMyrtle = 570
+    ThoughtlessBeigeBrinna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EvilAzureBili = 216
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why did the kid cross the playground? To get to the other slide."
+    GrowingCrimsonEnrichetta = 87
+    _hidden_value = true
+  }
+  boolean QuaintTurquoiseTiena {
+    _hidden_value = true
+  }
+  serviceid_number WhiteBronzeCodi {
+    _hidden_value = true
+  }
+  string InterestedCoffeeDierdre2 {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingSapphireRicky {
+    _hidden_value = true
+  }
+  hidden_boolean AcuteLavenderKeri3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ClassicalHarlequinJacklyn2 {
+    _hidden_value = true
+  }
+  string GothicSapphireRamona {
+    _hidden_value = true
+  }
+  hidden_boolean RenewedSilverSandra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PassivePurpleMyrah {
+    _hidden_value = true
+  }
+  string QuickCoralEleonore {
+    _hidden_value = true
+  }
+  serviceid SteepAmberAlyce2 {
+    _hidden_value = true
+  }
+  serviceid AlternativeEmeraldFionna {
+    _hidden_value = true
+  }
+  KnownMaroonLexi = 561
+  ExplicitMaroonLise2 = 133
+  UnawareSapphireRee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MistyTurquoiseTheda4 = 392
+  _hidden_value = true
+}

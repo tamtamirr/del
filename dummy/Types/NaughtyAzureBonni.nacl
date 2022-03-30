@@ -1,0 +1,86 @@
+type dummy.NaughtyAzureBonni {
+  annotations {
+    serviceid_number SwiftAmethystAnastasie4 {
+    }
+    serviceid_number BizarreTanSean3 {
+    }
+    string SubsequentFuchsiaGilemette {
+    }
+    serviceid PoliteSalmonRafaelia2 {
+    }
+    number LonelyAzureBobette3 {
+    }
+    number RenewedSilverSandra2 {
+    }
+    string CuddlyAmberAlayne2 {
+    }
+  }
+  serviceid_number MiserableSalmonRachel {
+    _hidden_value = true
+  }
+  serviceid WorriedBeigeBrynna {
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie BeautifulCoffeeDixie {
+    FriendlyBlackCarma = 475
+    FrightenedMagentaLavena = 759
+    RepulsiveBeigeBrena = "Why was it called the dark ages? Because of all the knights. "
+    UptightBeigeBrittni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ExactLimeKordula2 = 452
+    LocalBlueCharmian = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SensibleIvoryJordana = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MonetaryIvoryJoey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WickedBeigeBryna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AshamedScarletRosamund = 691
+    ChillyAmaranthAilsun = 878
+    CooingAmethystAngelique = 487
+    FatalPurpleMyrtle = 255
+    ThoughtlessBeigeBrinna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EvilAzureBili = 742
+    RelievedBlueCathie = false
+    CleverTealSibeal = "To be Frank, I'd have to change my name."
+    GrowingCrimsonEnrichetta = 117
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FuriousRedNicoline {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedAzureBettye3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BalancedSilverRosita2 {
+    _hidden_value = true
+  }
+  serviceid BadAquamarineBernette {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJolene2 {
+    _hidden_value = true
+  }
+  string PlainTurquoiseTherine {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdelle3 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" PatientPurpleNanine {
+    _hidden_value = true
+  }
+  SwiftAmethystAnastasie4 = 428
+  BizarreTanSean3 = 502
+  SubsequentFuchsiaGilemette = "Did you know that protons have mass? I didn't even know they were catholic."
+  PoliteSalmonRafaelia2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LonelyAzureBobette3 = 462
+  RenewedSilverSandra2 = 35
+  CuddlyAmberAlayne2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

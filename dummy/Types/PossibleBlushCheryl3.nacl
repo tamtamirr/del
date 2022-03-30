@@ -1,0 +1,149 @@
+type dummy.PossibleBlushCheryl3 {
+  annotations {
+    boolean InevitableIvoryJolyn2 {
+    }
+    serviceid GeneticMoccasinLorianne2 {
+    }
+    string DigitalMaroonLib4 {
+    }
+    boolean LovelyCoralElli3 {
+    }
+    number IndustrialBrownDanny2 {
+    }
+  }
+  serviceid_number PoorBronzeCorenda {
+    _hidden_value = true
+  }
+  serviceid_number SuperPeachMarti {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightCopperDulciana2 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianna3 {
+    _hidden_value = true
+  }
+  json IndirectPeachMary3 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna5 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette6 {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecile5 {
+    _hidden_value = true
+  }
+  json JealousAzureBobbye2 {
+    _hidden_value = true
+  }
+  serviceid FriendlyGoldGuinna {
+    _hidden_value = true
+  }
+  boolean RunningPlumMirabelle {
+    _hidden_value = true
+  }
+  hidden_boolean FlyingMoccasinLoree {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SoundRoseOlia4 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorida4 {
+    _hidden_value = true
+  }
+  number TinyCyanEunice4 {
+    _hidden_value = true
+  }
+  dummy.DiplomaticMagentaLenore OverseasIvoryJudye2 {
+    SouthernCyanEvie = "Why did the tomato blush? Because it saw the salad dressing."
+    TartYellowWynnie = "Whoever invented the knock-knock joke should get a no bell prize."
+    WonderfulYellowZoe2 = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    UnlikelyCrimsonEthelin = "Whoever invented the knock-knock joke should get a no bell prize."
+    JapaneseCyanFianna = 406
+    UpsetOliveMabel = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  boolean SignificantBrownDanit {
+    _hidden_value = true
+  }
+  serviceid PriorRosePaulie2 {
+    _hidden_value = true
+  }
+  serviceid HarshAmethystAnjanette {
+    _hidden_value = true
+  }
+  boolean DesirableMagentaLanny {
+    _hidden_value = true
+  }
+  json ComparableMoccasinLizzie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantTurquoiseTeddy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AshamedScarletRosamund3 {
+    _hidden_value = true
+  }
+  dummy.FashionableSapphireRenae WittyBlueCelene3 {
+    RealBlushClarie = 704
+    WholeBronzeClotilda = "To be Frank, I'd have to change my name."
+    UnitedCopperEddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RearPurpleMuire = "To be Frank, I'd have to change my name."
+    GeographicalPeachMarlena = 333
+    EventualTanSharona = true
+    PureGrayHenryetta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SymbolicPurpleNadia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RespectiveSalmonPerry = "Why didnt the skeleton cross the road? Because he had no guts."
+    DeepChocolateDelora = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RattyWhiteWenda = 675
+    RareWhiteWaly = "Why do birds fly south for the winter? Because it's too far to walk."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  serviceid ExcessiveOliveMadelene2 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCrimsonEtti3 {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanka3 {
+    _hidden_value = true
+  }
+  boolean CrazyVioletTrescha3 {
+    _hidden_value = true
+  }
+  json FineBlackCarlye2 {
+    _hidden_value = true
+  }
+  number EmbarrassedRedNissy {
+    _hidden_value = true
+  }
+  string LooseIvoryJuliet2 {
+    _hidden_value = true
+  }
+  json CuteTomatoTara3 {
+    _hidden_value = true
+  }
+  hidden_boolean StupidTomatoSula2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TenderRedOdelinda2 {
+    _hidden_value = true
+  }
+  InevitableIvoryJolyn2 = true
+  GeneticMoccasinLorianne2 = "Why did the tomato blush? Because it saw the salad dressing."
+  DigitalMaroonLib4 = "Dad Im hungry  Hi hungry Im dad"
+  LovelyCoralElli3 = true
+  IndustrialBrownDanny2 = 750
+  _hidden_value = true
+}

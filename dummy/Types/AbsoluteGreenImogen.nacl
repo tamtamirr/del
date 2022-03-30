@@ -1,0 +1,100 @@
+type dummy.AbsoluteGreenImogen {
+  annotations {
+    serviceid_number ColorfulTomatoTandi2 {
+    }
+    dummy.UnemployedIvoryJoly BlackBlushClarisse3 {
+    }
+    hidden_boolean CombativeAquamarineBerta4 {
+    }
+    hidden_boolean AestheticSapphireReba3 {
+    }
+    boolean RespectableRosePearl2 {
+    }
+    json BrightVioletTova4 {
+    }
+  }
+  hidden_boolean PastCoffeeDianna5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HissingApricotAnnmarie2 {
+    _hidden_value = true
+  }
+  string FortunateRoseOllie2 {
+    _hidden_value = true
+  }
+  number SubjectiveSapphireRiannon2 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAile3 {
+    _hidden_value = true
+  }
+  serviceid_number ComplicatedIndigoJoanne {
+    _hidden_value = true
+  }
+  json FavouriteHarlequinJacqueline {
+    _hidden_value = true
+  }
+  json TallAmaranthAggie {
+    _hidden_value = true
+  }
+  string SmallBlueCharlean2 {
+    _hidden_value = true
+  }
+  string PsychologicalIvoryJoice2 {
+    _hidden_value = true
+  }
+  serviceid_number EldestTanSharlene4 {
+    _hidden_value = true
+  }
+  number ModernTealStar3 {
+    _hidden_value = true
+  }
+  "List<string>" AustralianJadeKat2 {
+    _hidden_value = true
+  }
+  number JapaneseCyanFidela3 {
+    _hidden_value = true
+  }
+  serviceid HorribleVioletValene2 {
+    _hidden_value = true
+  }
+  "List<boolean>" ClosedMagentaLeila4 {
+    _hidden_value = true
+  }
+  "List<boolean>" BadTurquoiseTobye {
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina ElderlyEmeraldFlorencia {
+    GrubbyAquaAubry = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  hidden_boolean MoralCyanFenelia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HollowAmberAllissa2 {
+    _hidden_value = true
+  }
+  string CarefulCyanFern2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlison3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LeftCoffeeDennie {
+    _hidden_value = true
+  }
+  ColorfulTomatoTandi2 = 393
+  BlackBlushClarisse3 = false
+  RespectableRosePearl2 = true
+  BrightVioletTova4 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

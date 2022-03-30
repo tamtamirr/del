@@ -1,0 +1,36 @@
+type dummy.ScientificCrimsonErena {
+  serviceid NervousHarlequinJaquelyn2 {
+  }
+  hidden_boolean AssociatedMaroonLindsy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EventualTanSharon2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.AgreeableBeigeBunnie3 ContentPeachMatti4 {
+    ProperCoralElinore2 = 552
+    OriginalChocolateDarsey3 = "Why was it called the dark ages? Because of all the knights. "
+    GloriousBlackCarmencita3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  "List<dummy.WiseLavenderKatherine>" FaintAmethystAnica5 {
+    OutrageousAzureBreanne = 877
+    AustralianJadeKat = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FunOrangeMarcille3 = "A steak pun is a rare medium well done."
+    ArtificialMagentaLena2 = "Why was it called the dark ages? Because of all the knights. "
+    RedWhiteWendie = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  string DeterminedBeigeCandide2 {
+  }
+  json RemoteIndigoJenica2 {
+  }
+  serviceid_number ColourfulScarletRosaleen3 {
+  }
+  json BoilingAmaranthAgnola2 {
+  }
+  serviceid IntermediateRoseOfilia4 {
+  }
+}

@@ -1,0 +1,19 @@
+type dummy.IncCrimsonErmentrude4 {
+  annotations {
+    dummy.DEFAULT EqualCrimsonEmiline3 {
+    }
+    number MentalCrimsonEsme3 {
+    }
+    string PrettyIndigoJennine3 {
+    }
+  }
+  boolean KnownMaroonLetti {
+    _hidden_value = true
+  }
+  EqualCrimsonEmiline3 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  MentalCrimsonEsme3 = 617
+  PrettyIndigoJennine3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

@@ -1,0 +1,56 @@
+type dummy.InterimOrangeMalvina2 {
+  annotations {
+    boolean LeadingCrimsonEma {
+    }
+    serviceid_number LiveIndigoJodi4 {
+    }
+    number GrumpyVioletUrsula2 {
+    }
+    serviceid DisastrousScarletRochell {
+    }
+    dummy.RealBlushClarinda2 SeparateCopperDorolice {
+    }
+    json PlainTurquoiseTheresina2 {
+    }
+    string UncomfortablePlumMoina4 {
+    }
+    hidden_boolean SoundAmethystAngelina3 {
+    }
+    hidden_boolean ForthcomingPeachMarris3 {
+    }
+    json AttractiveCyanFiann2 {
+    }
+    string AbsoluteGreenImojean3 {
+    }
+    string MarkedMagentaLaura2 {
+    }
+    boolean RobustYellowWhitney2 {
+    }
+    serviceid SocialBlueCharmion4 {
+    }
+    boolean ConservativeCoralEllen2 {
+    }
+    hidden_boolean ArchitecturalRosePatrica6 {
+    }
+    json FamiliarCrimsonEstrellita3 {
+    }
+    string CrazyMoccasinLorrayne3 {
+    }
+    dummy.UnsightlyTurquoiseTish2 CompetentSalmonPeria {
+    }
+  }
+  LeadingCrimsonEma = false
+  LiveIndigoJodi4 = 256
+  GrumpyVioletUrsula2 = 584
+  DisastrousScarletRochell = "Slept like a log last night  woke up in the fireplace."
+  PlainTurquoiseTheresina2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  UncomfortablePlumMoina4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AttractiveCyanFiann2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AbsoluteGreenImojean3 = "Why did the tomato blush? Because it saw the salad dressing."
+  MarkedMagentaLaura2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RobustYellowWhitney2 = false
+  SocialBlueCharmion4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ConservativeCoralEllen2 = false
+  FamiliarCrimsonEstrellita3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  CrazyMoccasinLorrayne3 = "Whoever invented the knock-knock joke should get a no bell prize."
+}

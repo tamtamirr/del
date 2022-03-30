@@ -1,0 +1,94 @@
+type dummy.StaleAquaArline2 {
+  annotations {
+    number BareLavenderKelli5 {
+    }
+    number DefeatedAzureBetsy5 {
+    }
+    number WildCyanEvy2 {
+    }
+    string PetiteAmaranthAdrianne {
+    }
+    serviceid ResponsibleCoffeeDevi2 {
+    }
+  }
+  boolean ManualRosePaolina2 {
+    _hidden_value = true
+  }
+  serviceid CharmingBeigeCallida3 {
+    _hidden_value = true
+  }
+  json AfraidAquamarineBelvia2 {
+    _hidden_value = true
+  }
+  "List<json>" LonelyOliveLyn2 {
+    _hidden_value = true
+  }
+  json HugeCoffeeDoralynne3 {
+    _hidden_value = true
+  }
+  number PatientPurpleNannette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SingleBronzeCoral5 {
+    _hidden_value = true
+  }
+  serviceid DryCyanEvaleen3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnxiousHarlequinJannel {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingLimeLacy {
+    _hidden_value = true
+  }
+  json ManyWhiteVera2 {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthea2 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelosa3 {
+    _hidden_value = true
+  }
+  serviceid DefeatedAzureBette {
+    _hidden_value = true
+  }
+  boolean PreferredTanSayre2 {
+    _hidden_value = true
+  }
+  string ParticularBlushClaudelle3 {
+    _hidden_value = true
+  }
+  "List<json>" MathematicalRoseOrsola2 {
+    _hidden_value = true
+  }
+  json MinimumIndigoJerrie2 {
+    _hidden_value = true
+  }
+  dummy.FederalGrayHalli SquealingApricotArabel2 {
+    DullVioletTrina = 317
+    PunyAmaranthAeriel = 416
+    YoungBlueCheri = "Slept like a log last night  woke up in the fireplace."
+    InquisitiveTealStacie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExtraCoffeeDiandra2 = true
+    SensibleIvoryJordan = true
+    DeadTealSile = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 168
+    DeadTealSigrid = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  hidden_boolean HuskyApricotAnnabella2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BareLavenderKelli5 = 308
+  DefeatedAzureBetsy5 = 228
+  WildCyanEvy2 = 496
+  PetiteAmaranthAdrianne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ResponsibleCoffeeDevi2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

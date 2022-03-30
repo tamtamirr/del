@@ -1,0 +1,39 @@
+type dummy.MedievalJadeKaree {
+  annotations {
+    serviceid GladGoldGlyn3 {
+    }
+    serviceid_number UltimateJadeKandy {
+    }
+    number TheoreticalIndigoJenifer5 {
+    }
+    hidden_boolean IllegalJadeKarole4 {
+    }
+    boolean FreshCopperDyanne {
+    }
+    boolean RedBrownDallas3 {
+    }
+  }
+  serviceid_number MagnificentMagentaLeela2 {
+    _hidden_value = true
+  }
+  boolean BurningRedNikolia2 {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKelly {
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah MetropolitanOrangeMargarita3 {
+    TragicRosePauline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ScornfulBeigeBrianna = true
+    _hidden_value = true
+  }
+  serviceid_number FlatAmberAlli {
+    _hidden_value = true
+  }
+  GladGoldGlyn3 = "What do you call two barracuda fish?  A Pairacuda!"
+  UltimateJadeKandy = 400
+  TheoreticalIndigoJenifer5 = 389
+  FreshCopperDyanne = false
+  RedBrownDallas3 = false
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.ShyTomatoStormy {
+  annotations {
+    json SoftCoralElayne {
+    }
+    serviceid_number ConfusedAquamarineBertina {
+    }
+    number AggressiveMaroonLiliane2 {
+    }
+    serviceid AgriculturalGoldGoldia {
+    }
+    hidden_boolean ConceptualTanShelagh2 {
+    }
+    serviceid_number FlexibleLavenderKathleen {
+    }
+  }
+  serviceid AgriculturalGoldGoldi2 {
+    _hidden_value = true
+  }
+  serviceid MathematicalRoseOtha {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" ThoroughScarletRonalda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json NiceWhiteVickie {
+    _hidden_value = true
+  }
+  serviceid CoastalPlumMichel {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella {
+    _hidden_value = true
+  }
+  boolean HungryAzureBlithe {
+    _hidden_value = true
+  }
+  serviceid CheapCopperEdith {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJoleen {
+    _hidden_value = true
+  }
+  serviceid SillyYellowWinna2 {
+    _hidden_value = true
+  }
+  SoftCoralElayne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConfusedAquamarineBertina = 166
+  AggressiveMaroonLiliane2 = 620
+  AgriculturalGoldGoldia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FlexibleLavenderKathleen = 814
+  _hidden_value = true
+}

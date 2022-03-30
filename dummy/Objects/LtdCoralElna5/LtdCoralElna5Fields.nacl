@@ -1,0 +1,31 @@
+type dummy.LtdCoralElna5 {
+  hidden_boolean ReducedPinkMeryl3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number BitterApricotArden3 {
+  }
+  hidden_boolean ModernBrownDacy3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<number>" FastAmethystAmandie5 {
+  }
+  dummy.MarineMagentaLeonanie2 TenseBeigeBrigit2 {
+    MushyWhiteVerine2 = "Why is Peter Pan always flying? Because he Neverlands."
+    PrivateBronzeCordy2 = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    SuperPeachMarthe = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  serviceid HorribleOrangeMaren3 {
+  }
+  string SmilingBlueCathyleen2 {
+  }
+  string LivelyPeachMarylinda2 {
+  }
+  serviceid FederalGrayHalli3 {
+  }
+}

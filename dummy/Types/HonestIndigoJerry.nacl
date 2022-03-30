@@ -1,0 +1,39 @@
+type dummy.HonestIndigoJerry {
+  annotations {
+    serviceid_number AmbitiousPeachMaureen {
+    }
+    serviceid_number SportingSilverRuthi2 {
+    }
+    serviceid_number IntenseLavenderKatuscha2 {
+    }
+    hidden_boolean SelectedPlumMilli {
+    }
+    serviceid RipeApricotAridatha2 {
+    }
+  }
+  boolean GorgeousVioletUrsola {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalOrangeMargarette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ReasonableCrimsonEmalia2 {
+    _hidden_value = true
+  }
+  boolean GayOrangeMarietta2 {
+    _hidden_value = true
+  }
+  serviceid_number AssociatedMaroonLindsey2 {
+    _hidden_value = true
+  }
+  string ConsiderableChocolateDemeter2 {
+    _hidden_value = true
+  }
+  AmbitiousPeachMaureen = 218
+  SportingSilverRuthi2 = 846
+  IntenseLavenderKatuscha2 = 772
+  RipeApricotAridatha2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

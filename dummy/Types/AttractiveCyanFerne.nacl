@@ -1,0 +1,127 @@
+type dummy.AttractiveCyanFerne {
+  annotations {
+    serviceid_number AverageCrimsonElysia {
+    }
+    json BroadAmberAlika {
+    }
+    string SatisfiedHarlequinJeana3 {
+    }
+    serviceid_number StraightforwardMaroonLexy {
+    }
+    serviceid SocialistHarlequinJacquenette {
+    }
+    serviceid KindOrangeMaribelle2 {
+    }
+    serviceid PeacefulOrangeMargot {
+    }
+  }
+  hidden_boolean FormidableSilverSacha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DifferentBlueCharline2 {
+    _hidden_value = true
+  }
+  string AlternativeEmeraldFionnula {
+    _hidden_value = true
+  }
+  dummy.ProvincialPeachMarita AdequateGrayHilde {
+    FineBlackCarlyn = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    OldAmethystAmi = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  boolean TotalBrownDaniella {
+    _hidden_value = true
+  }
+  number SickFuchsiaGerda {
+    _hidden_value = true
+  }
+  serviceid_number LivelyBlackCasi {
+    _hidden_value = true
+  }
+  number UglyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  boolean SplendidBlueCati {
+    _hidden_value = true
+  }
+  serviceid_number IntactRosePatrizia {
+    _hidden_value = true
+  }
+  serviceid UnpleasantRedNora {
+    _hidden_value = true
+  }
+  serviceid_number UptightBeigeBrittne {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingScarletRoanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" AbleBlushChrista {
+    _hidden_value = true
+  }
+  json MedievalJadeKarel2 {
+    _hidden_value = true
+  }
+  boolean StatisticalMagentaLanie {
+    _hidden_value = true
+  }
+  boolean WastefulYellowZia2 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKaria {
+    _hidden_value = true
+  }
+  string CostlySapphireReggi2 {
+    _hidden_value = true
+  }
+  number LuckyBlackCassi {
+    _hidden_value = true
+  }
+  json NetGoldGleda3 {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolyn2 {
+    _hidden_value = true
+  }
+  string SpanishGreenIra {
+    _hidden_value = true
+  }
+  string InternalCoralEffie {
+    _hidden_value = true
+  }
+  serviceid_number SocialBlueCharmion {
+    _hidden_value = true
+  }
+  boolean WickedBeigeBryana {
+    _hidden_value = true
+  }
+  number LinearRedNesta {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CorporateEmeraldGarnet3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number VisibleIndigoJillana {
+    _hidden_value = true
+  }
+  AverageCrimsonElysia = 746
+  BroadAmberAlika = "Did you know that protons have mass? I didn't even know they were catholic."
+  SatisfiedHarlequinJeana3 = "What creature is smarter than a talking parrot? A spelling bee."
+  StraightforwardMaroonLexy = 102
+  SocialistHarlequinJacquenette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  KindOrangeMaribelle2 = "Dad Im hungry  Hi hungry Im dad"
+  PeacefulOrangeMargot = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

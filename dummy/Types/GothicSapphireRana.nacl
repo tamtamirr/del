@@ -1,0 +1,61 @@
+type dummy.GothicSapphireRana {
+  annotations {
+    number HeadPinkMegan2 {
+    }
+    json CorporateEmeraldGarnet4 {
+    }
+    number AcceptableGrayHelsa {
+    }
+    hidden_boolean RuralCoralElora {
+    }
+    serviceid_number ManagerialPurpleNerita2 {
+    }
+  }
+  boolean CuriousTealSibylle {
+    _hidden_value = true
+  }
+  hidden_boolean NaturalBrownCristy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" FaithfulTanShayne2 {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelia {
+    _hidden_value = true
+  }
+  hidden_boolean FundamentalFuchsiaGenevieve2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT LeftCoffeeDenys2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DarkChocolateDeanne3 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristina2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedTomatoTania3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ValuableGoldGwynne {
+    _hidden_value = true
+  }
+  string PrimitiveOrangeMarga {
+    _hidden_value = true
+  }
+  string OrdinaryWhiteVioletta {
+    _hidden_value = true
+  }
+  HeadPinkMegan2 = 695
+  CorporateEmeraldGarnet4 = "A steak pun is a rare medium well done."
+  AcceptableGrayHelsa = 295
+  ManagerialPurpleNerita2 = 575
+  _hidden_value = true
+}

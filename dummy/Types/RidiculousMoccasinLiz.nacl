@@ -1,0 +1,77 @@
+type dummy.RidiculousMoccasinLiz {
+  annotations {
+    json LengthySapphireRania5 {
+    }
+    number IndustrialBrownDannie {
+    }
+    string ImperialLavenderKaterine5 {
+    }
+    boolean WeirdSilverRoze3 {
+    }
+    string MajorBlushClair {
+    }
+  }
+  serviceid SymbolicPurpleNadiya3 {
+    _hidden_value = true
+  }
+  number ObjectiveOrangeMamie {
+    _hidden_value = true
+  }
+  boolean SportingSilverRyann {
+    _hidden_value = true
+  }
+  string PeculiarPlumMichelina4 {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  json SeparateCopperDoroteya {
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTildi2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedikta2 {
+    _hidden_value = true
+  }
+  number ClearBlushCinnamon3 {
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmeline5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.FashionableSapphireRenae FatAmaranthAbigale5 {
+    RealBlushClarie = 224
+    WholeBronzeClotilda = "I'll tell you what often gets over looked... garden fences."
+    UnitedCopperEddi = "To be Frank, I'd have to change my name."
+    RearPurpleMuire = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GeographicalPeachMarlena = 276
+    EventualTanSharona = false
+    PureGrayHenryetta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SymbolicPurpleNadia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RespectiveSalmonPerry = "Whoever invented the knock-knock joke should get a no bell prize."
+    DeepChocolateDelora = "Dad Im hungry  Hi hungry Im dad"
+    RattyWhiteWenda = 181
+    RareWhiteWaly = "Slept like a log last night  woke up in the fireplace."
+    UrgentLimeKristy = true
+    _hidden_value = true
+  }
+  string WorkingCrimsonEmmaline2 {
+    _hidden_value = true
+  }
+  serviceid ProvincialPeachMarita4 {
+    _hidden_value = true
+  }
+  json WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  LengthySapphireRania5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  IndustrialBrownDannie = 971
+  ImperialLavenderKaterine5 = "Why is Peter Pan always flying? Because he Neverlands."
+  WeirdSilverRoze3 = false
+  MajorBlushClair = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

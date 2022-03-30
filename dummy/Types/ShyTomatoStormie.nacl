@@ -1,0 +1,43 @@
+type dummy.ShyTomatoStormie {
+  annotations {
+    serviceid IslamicRoseOlympia {
+    }
+    json UglyTurquoiseTiphani2 {
+    }
+    json ElectricalLavenderKerrill {
+    }
+    boolean CondemnedAquamarineBerti {
+    }
+    serviceid AbleBlushChrissie {
+    }
+  }
+  json BareLavenderKelli3 {
+    _hidden_value = true
+  }
+  serviceid_number UnableCoralElora {
+    _hidden_value = true
+  }
+  hidden_boolean AncientAmethystAmabel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NastyWhiteVerna {
+    _hidden_value = true
+  }
+  string BlindIvoryJudi {
+    _hidden_value = true
+  }
+  serviceid BeneficialPlumMonica2 {
+    _hidden_value = true
+  }
+  json CombinedOliveMaible {
+    _hidden_value = true
+  }
+  IslamicRoseOlympia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UglyTurquoiseTiphani2 = "I'll tell you what often gets over looked... garden fences."
+  ElectricalLavenderKerrill = "To be Frank, I'd have to change my name."
+  CondemnedAquamarineBerti = false
+  AbleBlushChrissie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

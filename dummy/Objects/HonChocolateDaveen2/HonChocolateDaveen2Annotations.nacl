@@ -1,0 +1,59 @@
+type dummy.HonChocolateDaveen2 {
+  annotations {
+    serviceid_number AlrightGoldGoldina3 {
+    }
+    number LonelyOliveLynde3 {
+    }
+    number EmbarrassingSilverSasha2 {
+    }
+    dummy.HurtAzureBlondie PersonalBronzeCordelia5 {
+    }
+    boolean GastricMagentaLavinia3 {
+    }
+    serviceid IdeologicalOrangeMargarethe {
+    }
+    dummy.CheerfulSapphireRhody3 WorthwhilePinkMelita3 {
+    }
+    hidden_boolean PatientPurpleNanice2 {
+    }
+    boolean EligiblePurpleNeilla2 {
+    }
+    boolean CarefulTealShoshana3 {
+    }
+    serviceid CourageousBeigeCammie {
+    }
+    json StrangeCoralEdiva3 {
+    }
+    number IntimateSilverRuthi {
+    }
+    hidden_boolean SharpAquaBabbette2 {
+    }
+    serviceid_number CatholicHarlequinJammie {
+    }
+    json SocialistHarlequinJacquenetta {
+    }
+    serviceid NormalBrownDana3 {
+    }
+    serviceid PurpleWhiteVivi {
+    }
+    string KindVioletVally4 {
+    }
+    hidden_boolean BrightCoralElyse2 {
+    }
+  }
+  AlrightGoldGoldina3 = 149
+  LonelyOliveLynde3 = 837
+  EmbarrassingSilverSasha2 = 524
+  GastricMagentaLavinia3 = false
+  IdeologicalOrangeMargarethe = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EligiblePurpleNeilla2 = true
+  CarefulTealShoshana3 = false
+  CourageousBeigeCammie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StrangeCoralEdiva3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IntimateSilverRuthi = 333
+  CatholicHarlequinJammie = 409
+  SocialistHarlequinJacquenetta = "Whoever invented the knock-knock joke should get a no bell prize."
+  NormalBrownDana3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PurpleWhiteVivi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  KindVioletVally4 = "A steak pun is a rare medium well done."
+}

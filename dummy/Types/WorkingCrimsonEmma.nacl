@@ -1,0 +1,72 @@
+type dummy.WorkingCrimsonEmma {
+  annotations {
+    serviceid_number GreatBlueCharil3 {
+    }
+    number WorryingSilverRozalin2 {
+    }
+    serviceid BigVioletTonie2 {
+    }
+    hidden_boolean LtdCoralElnora5 {
+    }
+    dummy.DEFAULT LoyalPurpleNata2 {
+    }
+    string RetailMagentaLeontine {
+    }
+    number RainyWhiteWalliw {
+    }
+  }
+  string UnknownFuchsiaGigi2 {
+    _hidden_value = true
+  }
+  serviceid_number QuickWhiteVonni5 {
+    _hidden_value = true
+  }
+  serviceid DullTurquoiseTed {
+    _hidden_value = true
+  }
+  serviceid RelievedSalmonPetronella2 {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigail {
+    _hidden_value = true
+  }
+  boolean SystematicOrangeMarcella {
+    _hidden_value = true
+  }
+  number ClumsyVioletTracie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GiantAmaranthAdaline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SpecificChocolateDarbie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CrazyTealSibylla4 {
+    _hidden_value = true
+  }
+  boolean ScottishChocolateDela {
+    _hidden_value = true
+  }
+  serviceid_number RulingLimeKira {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZea3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  GreatBlueCharil3 = 567
+  WorryingSilverRozalin2 = 446
+  BigVioletTonie2 = "Why did the kid cross the playground? To get to the other slide."
+  LoyalPurpleNata2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  RetailMagentaLeontine = "Why was it called the dark ages? Because of all the knights. "
+  RainyWhiteWalliw = 88
+  _hidden_value = true
+}

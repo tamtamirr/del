@@ -1,0 +1,68 @@
+type dummy.ShyTomatoStormie4 {
+  annotations {
+    number BroadAmberAlika2 {
+    }
+    number HomelessAzureBliss2 {
+    }
+    json SevereEmeraldGabriellia2 {
+    }
+    hidden_boolean BrightVioletTory4 {
+    }
+    hidden_boolean WorkingCrimsonEmmalee2 {
+    }
+    json JudicialJadeKarisa3 {
+    }
+  }
+  json AnxiousAquamarineBerenice3 {
+    _hidden_value = true
+  }
+  serviceid ColourfulScarletRosabella2 {
+    _hidden_value = true
+  }
+  json EffectiveChocolateDeedee {
+    _hidden_value = true
+  }
+  number SatisfiedHarlequinJazmin3 {
+    _hidden_value = true
+  }
+  hidden_boolean FrightenedMagentaLaverna2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string InnerFuchsiaGenovera4 {
+    _hidden_value = true
+  }
+  string BrightVioletTracee {
+    _hidden_value = true
+  }
+  hidden_boolean ShortAmaranthAgace4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedMagentaLaurel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EmptyCyanFancie3 {
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRana3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ReducedPinkMeryl {
+    _hidden_value = true
+  }
+  string HardAquaAudi2 {
+    _hidden_value = true
+  }
+  BroadAmberAlika2 = 374
+  HomelessAzureBliss2 = 535
+  SevereEmeraldGabriellia2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  JudicialJadeKarisa3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

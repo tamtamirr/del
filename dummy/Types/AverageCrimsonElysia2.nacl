@@ -1,0 +1,70 @@
+type dummy.AverageCrimsonElysia2 {
+  annotations {
+    serviceid_number RecentBronzeCornelle {
+    }
+    serviceid_number TechnicalCopperEdee4 {
+    }
+    json HelpfulBlackCarolina2 {
+    }
+    number ControversialLimeKylen2 {
+    }
+  }
+  number ClumsyVioletTraci {
+    _hidden_value = true
+  }
+  string NorthernCoralElectra2 {
+    _hidden_value = true
+  }
+  hidden_boolean CorrectCrimsonErinn2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.TameTomatoSusannah RidiculousMoccasinLivvyy {
+    TragicRosePauline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ScornfulBeigeBrianna = true
+    _hidden_value = true
+  }
+  serviceid_number LargeAmaranthAdeline3 {
+    _hidden_value = true
+  }
+  number EmptyCyanFancie {
+    _hidden_value = true
+  }
+  "List<boolean>" MainBlushCinda3 {
+    _hidden_value = true
+  }
+  string MinorEmeraldGabi {
+    _hidden_value = true
+  }
+  "List<boolean>" SweetAquaAshlan2 {
+    _hidden_value = true
+  }
+  boolean RedundantSalmonPhilippe2 {
+    _hidden_value = true
+  }
+  json StrategicIndigoJeannine {
+    _hidden_value = true
+  }
+  string ClumsyVioletTracie {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrank2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OldBlueChanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json EligiblePurpleNelia {
+    _hidden_value = true
+  }
+  RecentBronzeCornelle = 631
+  TechnicalCopperEdee4 = 918
+  HelpfulBlackCarolina2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ControversialLimeKylen2 = 714
+  _hidden_value = true
+}

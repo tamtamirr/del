@@ -1,0 +1,64 @@
+type dummy.SpectacularMaroonLibbie is number {
+  annotations {
+    number FriendlyBlackCarma {
+    }
+    number FrightenedMagentaLavena {
+    }
+    string RepulsiveBeigeBrena {
+    }
+    dummy.DEFAULT UptightBeigeBrittni {
+    }
+    number ExactLimeKordula2 {
+    }
+    hidden_boolean NotablePeachMartita {
+    }
+    dummy.DEFAULT LocalBlueCharmian {
+    }
+    string SensibleIvoryJordana {
+    }
+    string MonetaryIvoryJoey {
+    }
+    string WickedBeigeBryna {
+    }
+    serviceid_number AshamedScarletRosamund {
+    }
+    serviceid_number ChillyAmaranthAilsun {
+    }
+    serviceid_number CooingAmethystAngelique {
+    }
+    serviceid_number FatalPurpleMyrtle {
+    }
+    json ThoughtlessBeigeBrinna {
+    }
+    serviceid_number EvilAzureBili {
+    }
+    boolean RelievedBlueCathie {
+    }
+    string CleverTealSibeal {
+    }
+    number GrowingCrimsonEnrichetta {
+    }
+  }
+  FriendlyBlackCarma = 629
+  FrightenedMagentaLavena = 493
+  RepulsiveBeigeBrena = "A steak pun is a rare medium well done."
+  UptightBeigeBrittni = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  ExactLimeKordula2 = 304
+  LocalBlueCharmian = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  SensibleIvoryJordana = "Why didnt the skeleton cross the road? Because he had no guts."
+  MonetaryIvoryJoey = "Did you know that protons have mass? I didn't even know they were catholic."
+  WickedBeigeBryna = "Why did the kid cross the playground? To get to the other slide."
+  AshamedScarletRosamund = 670
+  ChillyAmaranthAilsun = 720
+  CooingAmethystAngelique = 117
+  FatalPurpleMyrtle = 210
+  ThoughtlessBeigeBrinna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EvilAzureBili = 857
+  RelievedBlueCathie = true
+  CleverTealSibeal = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrowingCrimsonEnrichetta = 601
+}

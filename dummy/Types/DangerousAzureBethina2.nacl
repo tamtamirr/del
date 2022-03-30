@@ -1,0 +1,52 @@
+type dummy.DangerousAzureBethina2 {
+  annotations {
+    serviceid_number DecentMoccasinLora {
+    }
+    boolean ExcitingGreenIssy {
+    }
+    string MagentaWhiteVenita2 {
+    }
+    serviceid_number KnownMaroonLexi3 {
+    }
+    serviceid DeliciousApricotArdis3 {
+    }
+    string GloriousScarletRosanne3 {
+    }
+  }
+  string StrangeCoralEdna3 {
+    _hidden_value = true
+  }
+  boolean NearbyLimeKoralle {
+    _hidden_value = true
+  }
+  number DullMoccasinLorette {
+    _hidden_value = true
+  }
+  hidden_boolean NationalBlushCherida2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RevolutionaryJadeKaryl3 {
+    _hidden_value = true
+  }
+  boolean SurprisedEmeraldFredelia2 {
+    _hidden_value = true
+  }
+  json GrimScarletRonnica {
+    _hidden_value = true
+  }
+  json ExtendedPlumMildrid {
+    _hidden_value = true
+  }
+  json UnhappyMaroonLicha4 {
+    _hidden_value = true
+  }
+  DecentMoccasinLora = 960
+  ExcitingGreenIssy = true
+  MagentaWhiteVenita2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  KnownMaroonLexi3 = 215
+  DeliciousApricotArdis3 = "Why did the tomato blush? Because it saw the salad dressing."
+  GloriousScarletRosanne3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

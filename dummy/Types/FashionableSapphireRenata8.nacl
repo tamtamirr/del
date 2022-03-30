@@ -1,0 +1,78 @@
+type dummy.FashionableSapphireRenata8 {
+  annotations {
+    serviceid_number InternationalBlushClaudie {
+    }
+    string AverageTomatoTabbie {
+    }
+    string StiffPeachMarya {
+    }
+    hidden_boolean ObnoxiousAzureBrandie4 {
+    }
+    hidden_boolean SelectSalmonPhilipa2 {
+    }
+    string UsualCoralElly {
+    }
+  }
+  string ExcitedOrangeMariquilla3 {
+    _hidden_value = true
+  }
+  hidden_boolean GreyEmeraldFrannie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CalmPurpleNanci2 {
+    _hidden_value = true
+  }
+  number JuniorIvoryJordain {
+    _hidden_value = true
+  }
+  serviceid RudeTanShaylyn2 {
+    _hidden_value = true
+  }
+  hidden_boolean JointCoralElisha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string RubberSilverSarena2 {
+    _hidden_value = true
+  }
+  number RadicalGrayHelen {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanya2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ManagerialPurpleNerita4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<string>" DullVioletTrish3 {
+    _hidden_value = true
+  }
+  string CombinedOliveMaighdiln5 {
+    _hidden_value = true
+  }
+  serviceid FitHarlequinJaclin3 {
+    _hidden_value = true
+  }
+  json PrettyIndigoJennie5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LengthySapphireRania3 {
+    _hidden_value = true
+  }
+  number CatholicHarlequinJamie {
+    _hidden_value = true
+  }
+  json VitalEmeraldFifine2 {
+    _hidden_value = true
+  }
+  InternationalBlushClaudie = 364
+  AverageTomatoTabbie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StiffPeachMarya = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UsualCoralElly = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type dummy.AdministrativeGreenHollyanne2 {
+  annotations {
+    json NovelScarletRoshelle3 {
+    }
+    string EnvironmentalCoffeeDomeniga2 {
+    }
+    json TremendousMagentaLeola {
+    }
+    boolean DisgustedAzureBeulah2 {
+    }
+    string MushyWhiteVerile {
+    }
+    serviceid_number SickFuchsiaGeraldine2 {
+    }
+  }
+  json SourApricotArlene {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidRoseOttilie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SheerMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FarBlushChristie4 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyBlackCaroljean2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  NovelScarletRoshelle3 = "Why is Peter Pan always flying? Because he Neverlands."
+  EnvironmentalCoffeeDomeniga2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TremendousMagentaLeola = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DisgustedAzureBeulah2 = false
+  MushyWhiteVerile = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SickFuchsiaGeraldine2 = 893
+  _hidden_value = true
+}

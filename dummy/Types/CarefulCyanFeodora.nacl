@@ -1,0 +1,84 @@
+type dummy.CarefulCyanFeodora {
+  annotations {
+    json WeeklyLavenderKesley {
+    }
+    json PaleGrayHarriett2 {
+    }
+    serviceid_number HeadPinkMeggi {
+    }
+    string PopularChocolateDavida {
+    }
+  }
+  number UnknownFuchsiaGilberta {
+    _hidden_value = true
+  }
+  serviceid_number NastyWhiteVeronica2 {
+    _hidden_value = true
+  }
+  number VerticalOliveLyssa {
+    _hidden_value = true
+  }
+  number TypicalEmeraldFrancine {
+    _hidden_value = true
+  }
+  serviceid_number CivicTanShelli {
+    _hidden_value = true
+  }
+  boolean SillyBlueCathrin {
+    _hidden_value = true
+  }
+  boolean DigitalMaroonLiane {
+    _hidden_value = true
+  }
+  dummy.ImmenseAmaranthAdelice OrdinaryWhiteViolette {
+    PoliteSalmonRafa = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    FrightenedAzureBlaire = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AlertTomatoSydney = 890
+    AwakeRedNolana = "Did you know that protons have mass? I didn't even know they were catholic."
+    SteepAmberAlvira = false
+    InnocentTealStacey = true
+    GladGoldGlynnis = 276
+    ComingSilverSammy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UltimateJadeKandace = "Why didnt the skeleton cross the road? Because he had no guts."
+    ScatteredAquaAvie = 377
+    ConceptualTanShelbi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    KindOrangeMaribelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  number SparklingTurquoiseTiffy {
+    _hidden_value = true
+  }
+  json ShiveringAquaBabette {
+    _hidden_value = true
+  }
+  serviceid_number EarlyAmethystAmanda2 {
+    _hidden_value = true
+  }
+  serviceid_number ExcitingGreenIvett2 {
+    _hidden_value = true
+  }
+  serviceid_number TremendousMagentaLeoine2 {
+    _hidden_value = true
+  }
+  number WoodenAquamarineBellina {
+    _hidden_value = true
+  }
+  string ImaginativeTanSeline {
+    _hidden_value = true
+  }
+  number WittyBlueCelene {
+    _hidden_value = true
+  }
+  hidden_boolean BlushingTomatoTalya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WeeklyLavenderKesley = "Why is Peter Pan always flying? Because he Neverlands."
+  PaleGrayHarriett2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  HeadPinkMeggi = 337
+  PopularChocolateDavida = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

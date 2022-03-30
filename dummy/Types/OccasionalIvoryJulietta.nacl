@@ -1,0 +1,30 @@
+type dummy.OccasionalIvoryJulietta {
+  annotations {
+    number ConsiderableChocolateDemetra2 {
+    }
+    dummy.DEFAULT ParliamentaryFuchsiaGiacinta2 {
+    }
+    serviceid_number EnthusiasticBlackCarina {
+    }
+    hidden_boolean SpanishGreenIrena {
+    }
+    number AncientAmethystAmalee {
+    }
+  }
+  json ImportantTealSophi2 {
+    _hidden_value = true
+  }
+  number MiddleCopperDusty {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerrine {
+    _hidden_value = true
+  }
+  ConsiderableChocolateDemetra2 = 11
+  ParliamentaryFuchsiaGiacinta2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  EnthusiasticBlackCarina = 941
+  AncientAmethystAmalee = 744
+  _hidden_value = true
+}

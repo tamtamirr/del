@@ -1,0 +1,52 @@
+type dummy.EnthusiasticPinkMerrie3 {
+  annotations {
+    serviceid GenerousLavenderKaylee2 {
+    }
+    serviceid ArtisticPeachMathilda2 {
+    }
+    serviceid_number ModestLavenderKelsi7 {
+    }
+    json BrightTomatoTamara {
+    }
+  }
+  boolean RigidPinkMerrily3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHelaina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GreatBlueCharil4 {
+    _hidden_value = true
+  }
+  serviceid_number RattyWhiteWandis {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HelpfulHarlequinJaneta2 {
+    _hidden_value = true
+  }
+  json RequiredMaroonLeta3 {
+    _hidden_value = true
+  }
+  string BloodyTomatoTallou4 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelle2 {
+    _hidden_value = true
+  }
+  serviceid BusyTealShirlene4 {
+    _hidden_value = true
+  }
+  string NationalBlueCherianne {
+    _hidden_value = true
+  }
+  GenerousLavenderKaylee2 = "Why was it called the dark ages? Because of all the knights. "
+  ArtisticPeachMathilda2 = "Dad Im hungry  Hi hungry Im dad"
+  ModestLavenderKelsi7 = 704
+  BrightTomatoTamara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

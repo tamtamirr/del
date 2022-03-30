@@ -1,0 +1,134 @@
+type dummy.InherentRedNoami {
+  annotations {
+    number ElegantTurquoiseTeddie3 {
+    }
+    serviceid_number DelicateOliveMada {
+    }
+    string AmbitiousPeachMaurene {
+    }
+    dummy.DEFAULT IndependentChocolateDelinda2 {
+    }
+    number TeenageScarletRobinetta2 {
+    }
+  }
+  boolean LovelyCoralEllissa2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DelightfulSilverRowe2 {
+    _hidden_value = true
+  }
+  serviceid_number UnsightlyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  boolean FlatGrayHannie2 {
+    _hidden_value = true
+  }
+  hidden_boolean FreshApricotArdyce {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean QuaintTurquoiseThomasine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette VastYellowZelda {
+    UglyTurquoiseTiphani = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FairBlackCarlen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FuriousRedNicolle = 831
+    AbstractMaroonLilyan = 422
+    RipeApricotAriel = 830
+    OlympicRedNessa = 918
+    SignificantBrownDanna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 555
+    VastEmeraldFreddi = 442
+    ConstantEmeraldFrayda = "Slept like a log last night  woke up in the fireplace."
+    BigAmaranthAbbi = 484
+    WorriedGrayHarri = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  serviceid_number ShortYellowWilona2 {
+    _hidden_value = true
+  }
+  json RelaxedPlumMinni4 {
+    _hidden_value = true
+  }
+  number ProgressiveOliveMadeline {
+    _hidden_value = true
+  }
+  string SmilingBlueCathryn {
+    _hidden_value = true
+  }
+  hidden_boolean GentleIndigoJocelin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingTealStefanie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InappropriateRoseOthilia {
+    _hidden_value = true
+  }
+  serviceid VitalEmeraldFifi {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidBlueCatlaina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EmptyCyanFanchon2 {
+    _hidden_value = true
+  }
+  serviceid UnchangedSilverRozelle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OnlyBlushClarette {
+    _hidden_value = true
+  }
+  json DependentGrayHeda {
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireRheba {
+    _hidden_value = true
+  }
+  serviceid_number BeautifulTomatoTabby {
+    _hidden_value = true
+  }
+  serviceid HugeCoffeeDoralyn {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoanne3 {
+    _hidden_value = true
+  }
+  dummy.DiplomaticMagentaLenore HeavyChocolateDavita {
+    SouthernCyanEvie = "Why was it called the dark ages? Because of all the knights. "
+    TartYellowWynnie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WonderfulYellowZoe2 = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    UnlikelyCrimsonEthelin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    JapaneseCyanFianna = 494
+    UpsetOliveMabel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  serviceid_number LovelyCoralEllie2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie3 = 508
+  DelicateOliveMada = 592
+  AmbitiousPeachMaurene = "I'll tell you what often gets over looked... garden fences."
+  IndependentChocolateDelinda2 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  TeenageScarletRobinetta2 = 276
+  _hidden_value = true
+}

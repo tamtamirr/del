@@ -1,0 +1,28 @@
+type dummy.SwissPlumMikaela is string {
+  annotations {
+    serviceid_number UndergroundScarletRona {
+    }
+    hidden_boolean EnormousFuchsiaGiorgia {
+    }
+    hidden_boolean PolishPinkMeridel {
+    }
+    string SatisfiedHarlequinJeana {
+    }
+    string DynamicPeachMarlyn {
+    }
+    string UselessRedNina {
+    }
+    json RegulatorySalmonQuintilla {
+    }
+    dummy.DEFAULT DrivingRoseOralle {
+    }
+  }
+  UndergroundScarletRona = 159
+  SatisfiedHarlequinJeana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DynamicPeachMarlyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UselessRedNina = "Why do birds fly south for the winter? Because it's too far to walk."
+  RegulatorySalmonQuintilla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DrivingRoseOralle = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+}

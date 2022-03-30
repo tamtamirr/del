@@ -1,0 +1,30 @@
+type dummy.ExtraordinaryIndigoJessika2 {
+  annotations {
+    dummy.KeenGrayHannah ProminentLavenderKeely {
+    }
+    dummy.DEFAULT UpsetOliveMabel7 {
+    }
+    string LiberalCyanFarra3 {
+    }
+    number ContinuousIvoryJoye2 {
+    }
+    number CuddlyAmberAlbertina2 {
+    }
+    serviceid_number UniversalJadeJyoti3 {
+    }
+    hidden_boolean FavouriteHarlequinJacqueline2 {
+    }
+  }
+  serviceid_number UptightBeigeBrook3 {
+    _hidden_value = true
+  }
+  ProminentLavenderKeely = false
+  UpsetOliveMabel7 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  LiberalCyanFarra3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ContinuousIvoryJoye2 = 834
+  CuddlyAmberAlbertina2 = 277
+  UniversalJadeJyoti3 = 621
+  _hidden_value = true
+}

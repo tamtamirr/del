@@ -1,0 +1,81 @@
+type dummy.BroadAmberAlidia2 {
+  annotations {
+    dummy.BindingSalmonPeta SoftAquamarineBarbie2 {
+    }
+    string SilkyAquaBamby2 {
+    }
+    hidden_boolean CuriousLimeKirbie3 {
+    }
+    number ExtendedPlumMilissent2 {
+    }
+    serviceid_number BadVioletToinette3 {
+    }
+  }
+  serviceid SmallAmaranthAgathe4 {
+    _hidden_value = true
+  }
+  string AwkwardPeachMarylee5 {
+    _hidden_value = true
+  }
+  string HardAquaAudre3 {
+    _hidden_value = true
+  }
+  json VictoriousBlueCecil2 {
+    _hidden_value = true
+  }
+  json InformalLavenderKathi {
+    _hidden_value = true
+  }
+  boolean MagicOrangeManya5 {
+    _hidden_value = true
+  }
+  serviceid ConvincedJadeKarine2 {
+    _hidden_value = true
+  }
+  string RedWhiteWendie4 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardMaroonLexy3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SteepAmberAlyce SportingSilverRuthy2 {
+    ChangingJadeKassia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RightBlushCherish = "Slept like a log last night  woke up in the fireplace."
+    PreviousBrownDania = false
+    ClosedMagentaLeilah = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    SuperTomatoSusanna = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ZanyYellowZulema = false
+    ChubbyAmberAline = false
+    CheerfulBeigeCalypso = 314
+    SympatheticPinkMead2 = "Slept like a log last night  woke up in the fireplace."
+    FuzzyAquaAuberta = "A steak pun is a rare medium well done."
+    GoverningTanSelma = "Why did the tomato blush? Because it saw the salad dressing."
+    MinorEmeraldGabriel2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number ThoughtfulBlueCaye2 {
+    _hidden_value = true
+  }
+  serviceid MarineMagentaLeona {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalLavenderKerrie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  SoftAquamarineBarbie2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SilkyAquaBamby2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExtendedPlumMilissent2 = 281
+  BadVioletToinette3 = 712
+  _hidden_value = true
+}

@@ -1,0 +1,165 @@
+type dummy.BlackBlushClarita3 {
+  annotations {
+    number BrightVioletTory3 {
+    }
+    boolean RepresentativePinkMerna3 {
+    }
+    hidden_boolean SolidAquamarineBasia3 {
+    }
+    number AbundantAmethystAndie2 {
+    }
+  }
+  serviceid IntelligentMaroonLinnell2 {
+    _hidden_value = true
+  }
+  hidden_boolean GivenHarlequinJaney4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" BeautifulCoffeeDita3 {
+    _hidden_value = true
+  }
+  string WrittenGreenIvette3 {
+    _hidden_value = true
+  }
+  serviceid ConventionalGoldGussi2 {
+    _hidden_value = true
+  }
+  dummy.StatutoryGrayHarriette ComingSilverSammy4 {
+    BeneficialPlumMonika = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PossibleBlushCheryl = "To be Frank, I'd have to change my name."
+    SpotlessTurquoiseTilly = "Whoever invented the knock-knock joke should get a no bell prize."
+    SadYellowWilletta = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RottenApricotArielle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    WetGrayHedi = false
+    PrettyWhiteVirgie = false
+    NetGoldGlen = 132
+    FreeBronzeCody = 633
+    _hidden_value = true
+  }
+  serviceid InquisitiveTealStacie3 {
+    _hidden_value = true
+  }
+  boolean ChubbyAmberAlis3 {
+    _hidden_value = true
+  }
+  boolean BlackVioletTonye4 {
+    _hidden_value = true
+  }
+  number GracefulTurquoiseTerra {
+    _hidden_value = true
+  }
+  serviceid DelicateOliveMable2 {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRanna5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina ShaggyAquaAvril {
+    GrubbyAquaAubry = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" EndlessPeachMarji3 {
+    _hidden_value = true
+  }
+  json SlowCyanEugenie6 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrespondingPlumMinnnie {
+    _hidden_value = true
+  }
+  hidden_boolean EmpiricalPinkMechelle3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariedRedNoreen3 {
+    _hidden_value = true
+  }
+  serviceid WeakFuchsiaGayle4 {
+    _hidden_value = true
+  }
+  serviceid_number DryCyanEustacia {
+    _hidden_value = true
+  }
+  boolean InnocentTealStacee2 {
+    _hidden_value = true
+  }
+  serviceid_number RoyalBrownCristie3 {
+    _hidden_value = true
+  }
+  serviceid YellowGoldGiulia {
+    _hidden_value = true
+  }
+  number CrowdedTomatoTania6 {
+    _hidden_value = true
+  }
+  hidden_boolean RattyWhiteWenda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DoubleCrimsonEtta2 {
+    _hidden_value = true
+  }
+  json DevelopedPinkMerissa3 {
+    _hidden_value = true
+  }
+  number BroadCoralElisabetta8 {
+    _hidden_value = true
+  }
+  boolean MinisterialTanSheela {
+    _hidden_value = true
+  }
+  serviceid_number AssistantOliveLynnell {
+    _hidden_value = true
+  }
+  hidden_boolean StormyTurquoiseTilly2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RoundIvoryJohnath {
+    _hidden_value = true
+  }
+  json LonelyAzureBobette5 {
+    _hidden_value = true
+  }
+  boolean MeaningfulTealSheree4 {
+    _hidden_value = true
+  }
+  dummy.ExtremeHarlequinJackelyn LoudLavenderKial5 {
+    IncCrimsonErmentrude = 182
+    AlliedPlumMisti = false
+    InternalCoralEdy = "Why didnt the skeleton cross the road? Because he had no guts."
+    DevelopedPinkMerilyn = 69
+    CrookedAmberAlisha = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AmericanBronzeCorrianne = 480
+    TragicRosePaulita = 445
+    ConceptualTanShelagh = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    StrangeTurquoiseTimmie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NastyWhiteVeronica = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    OldAmethystAmie = 753
+    _hidden_value = true
+  }
+  "List<json>" RivalPurpleNari {
+    _hidden_value = true
+  }
+  json IncCrimsonErmentrude3 {
+    _hidden_value = true
+  }
+  BrightVioletTory3 = 573
+  RepresentativePinkMerna3 = false
+  AbundantAmethystAndie2 = 394
+  _hidden_value = true
+}

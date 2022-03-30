@@ -1,0 +1,24 @@
+type dummy.StickyAquamarineBeatrix {
+  annotations {
+    dummy.DEFAULT MeanIvoryJulee2 {
+    }
+    hidden_boolean WiseLavenderKathe2 {
+    }
+    serviceid UnemployedIvoryJoli {
+    }
+    boolean PoliteSalmonRafa2 {
+    }
+    boolean SophisticatedJadeKarlotta {
+    }
+  }
+  json DearGoldGlennis {
+    _hidden_value = true
+  }
+  MeanIvoryJulee2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  UnemployedIvoryJoli = "Why did the kid cross the playground? To get to the other slide."
+  PoliteSalmonRafa2 = true
+  SophisticatedJadeKarlotta = false
+  _hidden_value = true
+}

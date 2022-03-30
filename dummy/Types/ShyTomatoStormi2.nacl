@@ -1,0 +1,89 @@
+type dummy.ShyTomatoStormi2 {
+  annotations {
+    serviceid_number CreativeJadeKara {
+    }
+    hidden_boolean AsleepJadeKarlotte {
+    }
+    serviceid ProposedGoldGwendolyn3 {
+    }
+    boolean PrimitiveOrangeMarga2 {
+    }
+    boolean RepresentativePinkMerola3 {
+    }
+    dummy.DEFAULT ProbableSalmonPhylys {
+    }
+    dummy.DEFAULT HarshApricotAnjela2 {
+    }
+    dummy.ExactLimeKordula NecessaryBronzeCorabella2 {
+    }
+  }
+  serviceid PreparedCyanFelice {
+    _hidden_value = true
+  }
+  boolean TheoreticalIndigoJenifer {
+    _hidden_value = true
+  }
+  json IrrelevantPurpleNancy2 {
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette ActiveCopperDotty {
+    UglyTurquoiseTiphani = "A steak pun is a rare medium well done."
+    FairBlackCarlen = "A steak pun is a rare medium well done."
+    FuriousRedNicolle = 494
+    AbstractMaroonLilyan = 283
+    RipeApricotAriel = 602
+    OlympicRedNessa = 10
+    SignificantBrownDanna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    TenderAquamarineBecca = false
+    MysteriousAzureBonita = 897
+    VastEmeraldFreddi = 854
+    ConstantEmeraldFrayda = "What creature is smarter than a talking parrot? A spelling bee."
+    BigAmaranthAbbi = 861
+    WorriedGrayHarri = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  hidden_boolean IndirectPeachMary2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ResultingPurpleNadeen {
+    _hidden_value = true
+  }
+  "List<boolean>" CoolAmaranthAinsley3 {
+    _hidden_value = true
+  }
+  serviceid_number UsefulChocolateDedie {
+    _hidden_value = true
+  }
+  boolean HotAquaAudry2 {
+    _hidden_value = true
+  }
+  serviceid DeafIvoryJoya3 {
+    _hidden_value = true
+  }
+  serviceid_number IntermediateRoseOfilia {
+    _hidden_value = true
+  }
+  number AmateurSalmonPierrette {
+    _hidden_value = true
+  }
+  number FormalCoralElizabet2 {
+    _hidden_value = true
+  }
+  json OutsideGrayHelene {
+    _hidden_value = true
+  }
+  CreativeJadeKara = 221
+  ProposedGoldGwendolyn3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PrimitiveOrangeMarga2 = true
+  RepresentativePinkMerola3 = true
+  ProbableSalmonPhylys = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  HarshApricotAnjela2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  NecessaryBronzeCorabella2 = 639
+  _hidden_value = true
+}

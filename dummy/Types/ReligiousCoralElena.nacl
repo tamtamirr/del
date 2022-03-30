@@ -1,0 +1,100 @@
+type dummy.ReligiousCoralElena {
+  annotations {
+    string IncredibleRosePaula2 {
+    }
+    number ContinuingGreenIrita2 {
+    }
+    json KeenGrayHanna {
+    }
+    serviceid DisastrousScarletRochelle {
+    }
+    json HelpfulBlackCaroljean3 {
+    }
+  }
+  string GloriousBlackCarmencita {
+    _hidden_value = true
+  }
+  dummy.RussianCyanFelicity ExcessSilverSara2 {
+    RapidAmethystAmy = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    GlobalGrayHermine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    BrainyTealSherry = false
+    SoundRoseOlga = 823
+    LevelJadeKally = false
+    WideAmethystAmabel = 372
+    CautiousScarletRivy = true
+    RandomMoccasinLoren = 862
+    AssociatedMaroonLindsey = false
+    FamiliarCrimsonEthel = "Im only familiar with 25 letters in the English language. I dont know why."
+    MinorEmeraldGabriel = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    SurroundingOrangeMarget = "Im only familiar with 25 letters in the English language. I dont know why."
+    FatalPurpleMyrtice = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  boolean CreepyAmberAlaine3 {
+    _hidden_value = true
+  }
+  dummy.LongAmaranthAdina SilkyAquaBamby {
+    GrubbyAquaAubry = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    GloriousScarletRose2 = true
+    _hidden_value = true
+  }
+  json DefensiveRoseOnida {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TallYellowXylina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectricalLavenderKerrin {
+    _hidden_value = true
+  }
+  number MammothAmaranthAdora2 {
+    _hidden_value = true
+  }
+  serviceid HorizontalSalmonPrissie {
+    _hidden_value = true
+  }
+  serviceid JewishLimeKissie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggy {
+    _hidden_value = true
+  }
+  hidden_boolean BackMoccasinLoni {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CreepyAmberAjay {
+    _hidden_value = true
+  }
+  serviceid_number PrettyIndigoJennine {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRoslyn {
+    _hidden_value = true
+  }
+  json LowAmberAlly {
+    _hidden_value = true
+  }
+  json SpontaneousTanShauna {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda {
+    _hidden_value = true
+  }
+  number ElegantTurquoiseTeddie {
+    _hidden_value = true
+  }
+  IncredibleRosePaula2 = "Dad Im hungry  Hi hungry Im dad"
+  ContinuingGreenIrita2 = 112
+  KeenGrayHanna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DisastrousScarletRochelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HelpfulBlackCaroljean3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

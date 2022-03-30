@@ -1,0 +1,33 @@
+type dummy.RelativeGoldGui3 {
+  annotations {
+    serviceid_number RoastedWhiteWenona {
+    }
+    serviceid BrokenAmaranthAila {
+    }
+    boolean PriorRosePauli3 {
+    }
+    serviceid_number JudicialJadeKarissa {
+    }
+    number FatAmaranthAbigael2 {
+    }
+    dummy.DEFAULT HungryMaroonLisa {
+    }
+  }
+  hidden_boolean AsianMaroonLindie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SingleBronzeCoral2 {
+    _hidden_value = true
+  }
+  RoastedWhiteWenona = 226
+  BrokenAmaranthAila = "What do you call two barracuda fish?  A Pairacuda!"
+  PriorRosePauli3 = false
+  JudicialJadeKarissa = 299
+  FatAmaranthAbigael2 = 432
+  HungryMaroonLisa = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

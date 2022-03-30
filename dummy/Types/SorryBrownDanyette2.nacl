@@ -1,0 +1,95 @@
+type dummy.SorryBrownDanyette2 {
+  annotations {
+    dummy.DEFAULT SteepAmethystAlys {
+    }
+    dummy.DEFAULT UnfairMaroonLilia2 {
+    }
+    serviceid DutchLavenderKendra2 {
+    }
+    number JudicialJadeKarita {
+    }
+    json IsolatedPeachMarjory2 {
+    }
+  }
+  json CrazyTealSibyl {
+    _hidden_value = true
+  }
+  hidden_boolean SoundAmethystAngelika3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordana2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RaspyApricotAnnora {
+    _hidden_value = true
+  }
+  serviceid DifferentTealSilvie {
+    _hidden_value = true
+  }
+  serviceid ImprovedMagentaLarisa {
+    _hidden_value = true
+  }
+  serviceid_number MajorBlushClara {
+    _hidden_value = true
+  }
+  serviceid_number OpenBronzeCleopatra {
+    _hidden_value = true
+  }
+  number RubberSilverSarene {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny {
+    _hidden_value = true
+  }
+  boolean CombinedOliveMaighdiln3 {
+    _hidden_value = true
+  }
+  serviceid_number ColdAmaranthAimee2 {
+    _hidden_value = true
+  }
+  boolean MentalCrimsonEsmeralda {
+    _hidden_value = true
+  }
+  serviceid MobilePurpleMorna2 {
+    _hidden_value = true
+  }
+  serviceid_number MoralCyanFeliza {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleEmeraldFredrika2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ProvincialPeachMarita SuitableCrimsonEmilee {
+    FineBlackCarlyn = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    OldAmethystAmi = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  serviceid_number FashionableSapphireRenate {
+    _hidden_value = true
+  }
+  string PreciousOrangeMariele2 {
+    _hidden_value = true
+  }
+  SteepAmethystAlys = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  UnfairMaroonLilia2 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  DutchLavenderKendra2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  JudicialJadeKarita = 546
+  IsolatedPeachMarjory2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

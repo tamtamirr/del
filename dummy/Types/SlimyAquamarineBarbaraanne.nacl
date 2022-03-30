@@ -1,0 +1,28 @@
+type dummy.SlimyAquamarineBarbaraanne {
+  annotations {
+    dummy.DEFAULT SoundAmethystAngelika5 {
+    }
+    serviceid HeavyAmethystAndriana {
+    }
+    number CapableEmeraldFlorina2 {
+    }
+    string TerritorialSalmonPriscilla4 {
+    }
+    number SatisfactoryLimeKrista {
+    }
+    serviceid_number NiceWhiteVickie3 {
+    }
+  }
+  serviceid_number BiologicalMaroonLetta2 {
+    _hidden_value = true
+  }
+  SoundAmethystAngelika5 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  HeavyAmethystAndriana = "Why did the kid cross the playground? To get to the other slide."
+  CapableEmeraldFlorina2 = 511
+  TerritorialSalmonPriscilla4 = "Why was it called the dark ages? Because of all the knights. "
+  SatisfactoryLimeKrista = 669
+  NiceWhiteVickie3 = 303
+  _hidden_value = true
+}

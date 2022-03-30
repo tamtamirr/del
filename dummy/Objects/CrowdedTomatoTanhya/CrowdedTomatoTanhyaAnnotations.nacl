@@ -1,0 +1,66 @@
+type dummy.CrowdedTomatoTanhya {
+  annotations {
+    serviceid VaguePinkMeghann5 {
+    }
+    number SocialBlueCharo3 {
+    }
+    serviceid_number CleanCyanFernande2 {
+    }
+    serviceid_number YummyYellowZorana {
+    }
+    dummy.FrequentLavenderKatie3 StrangeCoralEdwina2 {
+    }
+    json AfraidAquamarineBenedetta2 {
+    }
+    serviceid EffectiveChocolateDeeanne {
+    }
+    number WetAquamarineBella2 {
+    }
+    hidden_boolean AverageAmaranthAbagael {
+    }
+    serviceid LiveIndigoJodee {
+    }
+    hidden_boolean KnownMaroonLetty4 {
+    }
+    json HeadPinkMegan5 {
+    }
+    serviceid LazyWhiteVanni4 {
+    }
+    boolean ScaredSalmonRafaelita4 {
+    }
+    json DisastrousScarletRochelle3 {
+    }
+    dummy.StatutoryGrayHarriette SolidAquamarineBarry3 {
+    }
+    number PleasedEmeraldGabriela {
+    }
+    json LinearRedNetti {
+    }
+    json LikelyBlushClaribel4 {
+    }
+    boolean StingyYellowWinne2 {
+    }
+    dummy.AnonymousSapphireRayna WhiteBronzeClovis5 {
+    }
+    string EverydayLimeKyrstin4 {
+    }
+  }
+  VaguePinkMeghann5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SocialBlueCharo3 = 205
+  CleanCyanFernande2 = 217
+  YummyYellowZorana = 227
+  AfraidAquamarineBenedetta2 = "To be Frank, I'd have to change my name."
+  EffectiveChocolateDeeanne = "What creature is smarter than a talking parrot? A spelling bee."
+  WetAquamarineBella2 = 338
+  LiveIndigoJodee = "Whoever invented the knock-knock joke should get a no bell prize."
+  HeadPinkMegan5 = "How come the stadium got hot after the game? Because all of the fans left."
+  LazyWhiteVanni4 = "Why was it called the dark ages? Because of all the knights. "
+  ScaredSalmonRafaelita4 = true
+  DisastrousScarletRochelle3 = "Why is Peter Pan always flying? Because he Neverlands."
+  SolidAquamarineBarry3 = true
+  PleasedEmeraldGabriela = 850
+  LinearRedNetti = "Slept like a log last night  woke up in the fireplace."
+  LikelyBlushClaribel4 = "How come the stadium got hot after the game? Because all of the fans left."
+  StingyYellowWinne2 = true
+  EverydayLimeKyrstin4 = "Im only familiar with 25 letters in the English language. I dont know why."
+}

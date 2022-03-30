@@ -1,0 +1,57 @@
+type dummy.UnknownFuchsiaGigi3 {
+  annotations {
+    string MuddyTurquoiseTherese3 {
+    }
+    string ParliamentaryFuchsiaGerty7 {
+    }
+    number WonderfulYellowZoe9 {
+    }
+    dummy.PrivateBronzeCordy RoughAquaAustine3 {
+    }
+    hidden_boolean BlankPinkMelody2 {
+    }
+    json NovelScarletRoshelle6 {
+    }
+    hidden_boolean ToryGreenInesita2 {
+    }
+    number RandomMoccasinLorena5 {
+    }
+    boolean FundamentalFuchsiaGena2 {
+    }
+    serviceid_number SpecificChocolateDarby3 {
+    }
+    number LegitimatePinkMaye2 {
+    }
+    string WastefulYellowZilvia2 {
+    }
+    serviceid NorthernCoralEleanore3 {
+    }
+    json AlliedPlumMissie2 {
+    }
+    serviceid_number PrivateBronzeCordy5 {
+    }
+    serviceid AdequateGrayHildegaard2 {
+    }
+    dummy.EligiblePurpleNelia2 ConcernedBronzeCorrena3 {
+    }
+    string AcademicEmeraldFrieda5 {
+    }
+    hidden_boolean WonderfulEmeraldFlossi5 {
+    }
+  }
+  MuddyTurquoiseTherese3 = "Dad Im hungry  Hi hungry Im dad"
+  ParliamentaryFuchsiaGerty7 = "What creature is smarter than a talking parrot? A spelling bee."
+  WonderfulYellowZoe9 = 737
+  RoughAquaAustine3 = false
+  NovelScarletRoshelle6 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RandomMoccasinLorena5 = 423
+  FundamentalFuchsiaGena2 = false
+  SpecificChocolateDarby3 = 854
+  LegitimatePinkMaye2 = 682
+  WastefulYellowZilvia2 = "Why did the tomato blush? Because it saw the salad dressing."
+  NorthernCoralEleanore3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AlliedPlumMissie2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PrivateBronzeCordy5 = 928
+  AdequateGrayHildegaard2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AcademicEmeraldFrieda5 = "What creature is smarter than a talking parrot? A spelling bee."
+}

@@ -1,0 +1,54 @@
+type dummy.SpontaneousTanShaun {
+  annotations {
+    boolean WelshGrayHattie2 {
+    }
+    serviceid_number SilentGrayHappy {
+    }
+    serviceid AvailableBlushChrystal {
+    }
+    dummy.DEFAULT VariedRedNorean {
+    }
+    boolean EnthusiasticPinkMerrielle2 {
+    }
+  }
+  boolean RegionalCopperDorice {
+    _hidden_value = true
+  }
+  serviceid_number SlowAmethystAnabelle2 {
+    _hidden_value = true
+  }
+  number TameYellowYasmeen {
+    _hidden_value = true
+  }
+  hidden_boolean HurtAzureBlythe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json YoungAmethystAndee {
+    _hidden_value = true
+  }
+  serviceid ClumsyVioletTracey {
+    _hidden_value = true
+  }
+  serviceid_number FluffyAmberAlice3 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMinny {
+    _hidden_value = true
+  }
+  json StraightHarlequinJaimie {
+    _hidden_value = true
+  }
+  json AddedPinkMelina {
+    _hidden_value = true
+  }
+  WelshGrayHattie2 = true
+  SilentGrayHappy = 706
+  AvailableBlushChrystal = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VariedRedNorean = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  EnthusiasticPinkMerrielle2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.FancyTurquoiseTeirtza is number {
+  annotations {
+    json TallYellowXylia {
+    }
+    json CheapCopperEdita {
+    }
+    number SharedPinkMelicent {
+    }
+    serviceid_number StuckRoseOralee {
+    }
+    serviceid_number SorryBrownDanyelle {
+    }
+    number GoverningTanSelle {
+    }
+    serviceid JointCoralEliza {
+    }
+    serviceid_number SorryBrownDanyelle2 {
+    }
+    string PainfulMaroonLilly {
+    }
+    json RichTomatoStorm {
+    }
+    number ImplicitSapphireRhea {
+    }
+    boolean FlyingMoccasinLoralyn {
+    }
+  }
+  TallYellowXylia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CheapCopperEdita = "Im only familiar with 25 letters in the English language. I dont know why."
+  SharedPinkMelicent = 145
+  StuckRoseOralee = 50
+  SorryBrownDanyelle = 89
+  GoverningTanSelle = 20
+  JointCoralEliza = "To be Frank, I'd have to change my name."
+  SorryBrownDanyelle2 = 207
+  PainfulMaroonLilly = "To be Frank, I'd have to change my name."
+  RichTomatoStorm = "To be Frank, I'd have to change my name."
+  ImplicitSapphireRhea = 584
+  FlyingMoccasinLoralyn = true
+}

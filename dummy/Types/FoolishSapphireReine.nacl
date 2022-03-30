@@ -1,0 +1,65 @@
+type dummy.FoolishSapphireReine {
+  annotations {
+    boolean ShyTomatoStormi {
+    }
+    serviceid PotentialCoralElberta2 {
+    }
+    dummy.AdverseSapphireRanna LongVioletVanda {
+    }
+    string CuteTomatoTara2 {
+    }
+  }
+  serviceid_number AbsentPinkMelosa2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZea2 {
+    _hidden_value = true
+  }
+  serviceid EligiblePurpleNeilla {
+    _hidden_value = true
+  }
+  boolean UglyPlumMignon {
+    _hidden_value = true
+  }
+  serviceid_number ManagingLimeKitti2 {
+    _hidden_value = true
+  }
+  number PreferredTanScarlett {
+    _hidden_value = true
+  }
+  json CautiousTealSibbie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedAquamarineBertine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ExtremeHarlequinJackelyn DreadfulPinkMerrile3 {
+    IncCrimsonErmentrude = 861
+    AlliedPlumMisti = true
+    InternalCoralEdy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DevelopedPinkMerilyn = 141
+    CrookedAmberAlisha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AmericanBronzeCorrianne = 86
+    TragicRosePaulita = 86
+    ConceptualTanShelagh = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    StrangeTurquoiseTimmie = "What creature is smarter than a talking parrot? A spelling bee."
+    NastyWhiteVeronica = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OldAmethystAmie = 237
+    _hidden_value = true
+  }
+  json ElectoralLimeKristin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FriendlyGoldGunilla2 {
+    _hidden_value = true
+  }
+  ShyTomatoStormi = true
+  PotentialCoralElberta2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LongVioletVanda = 801
+  CuteTomatoTara2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

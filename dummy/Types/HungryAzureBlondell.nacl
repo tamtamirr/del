@@ -1,0 +1,73 @@
+type dummy.HungryAzureBlondell {
+  annotations {
+    serviceid_number LongAmaranthAdi2 {
+    }
+    serviceid FilthyAmberAlexine2 {
+    }
+    dummy.DEFAULT DisabledHarlequinJanie {
+    }
+    boolean AcceptedTanSerene {
+    }
+    dummy.FederalGrayHalli AwfulHarlequinJaquenetta {
+    }
+  }
+  boolean BlindIvoryJuanita {
+    _hidden_value = true
+  }
+  serviceid WeakFuchsiaGayle {
+    _hidden_value = true
+  }
+  dummy.KeenGrayHannah AestheticSapphireRea {
+    ExoticScarletRina = true
+    LiquidRoseOttilie = 22
+    WidespreadHarlequinJacquie = "What creature is smarter than a talking parrot? A spelling bee."
+    HolyIndigoJemie = 38
+    SlowAmethystAnalise = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MarginalLimeKriste = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    AcuteLavenderKerianne = 534
+    HugeCoffeeDoralynne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ShrillApricotAntonella = 958
+    PublicBlushChrysa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PleasantIvoryJosee = 447
+    ExcessiveOliveMadelena = "Why didnt the skeleton cross the road? Because he had no guts."
+    ScaredSalmonRafaelita2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    IndustrialBrownDanny = 549
+    DoubtfulRosePansie = "Why was it called the dark ages? Because of all the knights. "
+    InteriorPurpleNathalie = 558
+    BlackVioletTonya = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    CurvedAmberAlix = 985
+    _hidden_value = true
+  }
+  serviceid_number PrivateBronzeCordula {
+    _hidden_value = true
+  }
+  serviceid CondemnedAquamarineBerthe {
+    _hidden_value = true
+  }
+  number ThinCyanEvanne {
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedTanShannon2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ElatedBeigeCara {
+    _hidden_value = true
+  }
+  string OutstandingTealSteffane2 {
+    _hidden_value = true
+  }
+  LongAmaranthAdi2 = 587
+  FilthyAmberAlexine2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  DisabledHarlequinJanie = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  AcceptedTanSerene = true
+  AwfulHarlequinJaquenetta = 723
+  _hidden_value = true
+}

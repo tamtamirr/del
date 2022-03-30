@@ -1,0 +1,25 @@
+type dummy.CloudyTomatoTamra {
+  annotations {
+    dummy.DEFAULT CondemnedAquamarineBertha {
+    }
+    serviceid_number IntensiveMoccasinLulu {
+    }
+    json CorporateEmeraldGarland {
+    }
+    number OuterJadeKarrie {
+    }
+    serviceid BraveBeigeCal {
+    }
+  }
+  number ConcernedTealSibilla {
+    _hidden_value = true
+  }
+  CondemnedAquamarineBertha = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  IntensiveMoccasinLulu = 66
+  CorporateEmeraldGarland = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OuterJadeKarrie = 626
+  BraveBeigeCal = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

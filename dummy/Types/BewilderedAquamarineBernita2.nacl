@@ -1,0 +1,138 @@
+type dummy.BewilderedAquamarineBernita2 {
+  annotations {
+    number MarriedCyanFannie2 {
+    }
+    serviceid_number BusyCyanFayre3 {
+    }
+    serviceid CuteTomatoTanitansy2 {
+    }
+    string PeacefulOrangeMarguerite {
+    }
+    serviceid GoldenGrayHalette2 {
+    }
+  }
+  dummy.LatinLimeKonstanze HardAquaAudie3 {
+    ResidentSalmonRae = "Why did the tomato blush? Because it saw the salad dressing."
+    CrazyMoccasinLorrayne = "I'll tell you what often gets over looked... garden fences."
+    LevelJadeKally2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WellFuchsiaGipsy = "What creature is smarter than a talking parrot? A spelling bee."
+    ProperCoralElisabet = 983
+    OutstandingIndigoJenna = 164
+    PositiveCoffeeDona = 497
+    ThoughtlessBeigeBrit = "A steak pun is a rare medium well done."
+    CrowdedTomatoTania2 = 614
+    FairCoffeeDinnie = 461
+    PeacefulOrangeMargret = "Why is Peter Pan always flying? Because he Neverlands."
+    ToxicSalmonPhedra = 186
+    GleamingTurquoiseTeri = true
+    JoyousBlackCarry = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RoughGreenIdelle = "Why is Peter Pan always flying? Because he Neverlands."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    IntegralSalmonPhilly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MidPinkMelissa = "What do you call two barracuda fish?  A Pairacuda!"
+    SurprisingGreenIanthe = 108
+    SteadyJadeKaile = false
+    ObnoxiousAzureBrandie = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    KindVioletValma = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RainyAquaAurora = true
+    RudeTanShayla = true
+    _hidden_value = true
+  }
+  json SympatheticPinkMead3 {
+    _hidden_value = true
+  }
+  boolean JustMaroonLissi2 {
+    _hidden_value = true
+  }
+  string ContemporaryFuchsiaGeorgiana2 {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelia2 {
+    _hidden_value = true
+  }
+  json AwakeRedNola2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" OverallCrimsonEmmalynne3 {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerrilee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json InitialCoralElsi {
+    _hidden_value = true
+  }
+  number WideBronzeCorine {
+    _hidden_value = true
+  }
+  json EuropeanBronzeConcettina2 {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyBlushCherri {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PlainIndigoJewelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CleverJadeKarie {
+    _hidden_value = true
+  }
+  number TremendousMagentaLeoine3 {
+    _hidden_value = true
+  }
+  serviceid_number PricklyWhiteViv {
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDierdre4 {
+    _hidden_value = true
+  }
+  "List<boolean>" TiredGoldGrete2 {
+    _hidden_value = true
+  }
+  string RobustYellowWileen2 {
+    _hidden_value = true
+  }
+  number ZanyBlueCelina {
+    _hidden_value = true
+  }
+  serviceid_number MentalCrimsonEsme2 {
+    _hidden_value = true
+  }
+  hidden_boolean MysteriousAzureBobinette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ChemicalGreenIsadora2 {
+    _hidden_value = true
+  }
+  serviceid NaturalBrownCristy2 {
+    _hidden_value = true
+  }
+  serviceid_number ElatedBeigeCaprice {
+    _hidden_value = true
+  }
+  serviceid_number NervousAzureBrandea {
+    _hidden_value = true
+  }
+  serviceid DifficultBronzeClementia3 {
+    _hidden_value = true
+  }
+  MarriedCyanFannie2 = 349
+  BusyCyanFayre3 = 843
+  CuteTomatoTanitansy2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PeacefulOrangeMarguerite = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GoldenGrayHalette2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

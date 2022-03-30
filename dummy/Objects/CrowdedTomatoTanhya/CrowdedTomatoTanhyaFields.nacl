@@ -1,0 +1,7 @@
+type dummy.CrowdedTomatoTanhya {
+  hidden_boolean ConvincedJadeKarisa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

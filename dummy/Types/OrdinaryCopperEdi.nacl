@@ -1,0 +1,49 @@
+type dummy.OrdinaryCopperEdi is string {
+  annotations {
+    number SillyYellowWini {
+    }
+    dummy.DEFAULT CruelAquamarineBessy {
+    }
+    serviceid_number TameYellowYalonda {
+    }
+    number RareWhiteWanda {
+    }
+    string SpareMaroonLillis {
+    }
+    serviceid_number StupidGreenIzabel {
+    }
+    string MaximumGreenIlyssa {
+    }
+    hidden_boolean WidespreadHarlequinJacquette {
+    }
+    serviceid TerritorialSalmonPriscella {
+    }
+    serviceid_number VariedRedNoreen {
+    }
+    boolean DangerousCrimsonEssie {
+    }
+    number UselessRedNinetta {
+    }
+    serviceid_number IntenseLavenderKatuscha {
+    }
+    serviceid SubtleMoccasinLucie {
+    }
+    hidden_boolean NotablePeachMartie {
+    }
+  }
+  SillyYellowWini = 937
+  CruelAquamarineBessy = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  TameYellowYalonda = 541
+  RareWhiteWanda = 159
+  SpareMaroonLillis = "Did you know that protons have mass? I didn't even know they were catholic."
+  StupidGreenIzabel = 642
+  MaximumGreenIlyssa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TerritorialSalmonPriscella = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VariedRedNoreen = 861
+  DangerousCrimsonEssie = true
+  UselessRedNinetta = 391
+  IntenseLavenderKatuscha = 709
+  SubtleMoccasinLucie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

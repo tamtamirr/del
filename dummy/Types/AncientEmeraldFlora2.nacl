@@ -1,0 +1,68 @@
+type dummy.AncientEmeraldFlora2 {
+  annotations {
+    serviceid_number KoreanSapphireRaquela {
+    }
+    json GrimScarletRonni3 {
+    }
+    number PastCoffeeDianna6 {
+    }
+    json AnnualCoffeeDonnamarie {
+    }
+    string SelectSalmonPhilipa3 {
+    }
+  }
+  hidden_boolean EnthusiasticPinkMerrie4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean TremendousMagentaLeola2 {
+    _hidden_value = true
+  }
+  json AmbitiousPeachMaureene3 {
+    _hidden_value = true
+  }
+  string PerfectBlackCatarina2 {
+    _hidden_value = true
+  }
+  number PainfulMaroonLilly4 {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHyacinth3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VisitingScarletRoanne3 {
+    _hidden_value = true
+  }
+  string CanadianPlumMindy3 {
+    _hidden_value = true
+  }
+  serviceid_number PersistentRosePamela3 {
+    _hidden_value = true
+  }
+  boolean TiredGoldGrete5 {
+    _hidden_value = true
+  }
+  boolean InquisitiveTealStacy {
+    _hidden_value = true
+  }
+  serviceid_number EstablishedMagentaLeia {
+    _hidden_value = true
+  }
+  hidden_boolean TameYellowYasmin3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WeeSapphireRetha2 {
+    _hidden_value = true
+  }
+  KoreanSapphireRaquela = 303
+  GrimScarletRonni3 = "Why did the tomato blush? Because it saw the salad dressing."
+  PastCoffeeDianna6 = 206
+  AnnualCoffeeDonnamarie = "Why is Peter Pan always flying? Because he Neverlands."
+  SelectSalmonPhilipa3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

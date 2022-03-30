@@ -1,0 +1,50 @@
+type dummy.PresentBrownCristal {
+  number HuskyApricotAnnabela4 {
+  }
+  json SilentGrayHarlene6 {
+  }
+  serviceid BreezyAmaranthAigneis6 {
+  }
+  dummy.VoluntaryGoldGwenette4 AdvancedHarlequinJacinta3 {
+    ColonialPeachMaude3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    OfficialCopperDorise2 = "Why did the kid cross the playground? To get to the other slide."
+    MaleCoffeeDidi4 = file("ToughGoldGlenine3.txt")
+    PrimitiveOrangeMargalo3 = false
+    TinyAmaranthAgnella3 = "What creature is smarter than a talking parrot? A spelling bee."
+    EncouragingBlackCarey3 = true
+  }
+  string SuperPeachMarti3 {
+  }
+  number BrilliantGreenIlse5 {
+  }
+  number CuriousLimeKirby {
+  }
+  number ToughYellowYsabel2 {
+  }
+  number FineBrownCourtnay3 {
+  }
+  dummy.AnxiousHarlequinJanna ShyScarletRosemonde3 {
+    ColonialPeachMaure = "Dad Im hungry  Hi hungry Im dad"
+    GloriousBlackCarmine = "Slept like a log last night  woke up in the fireplace."
+  }
+  json LostJadeKaralynn7 {
+  }
+  hidden_boolean ReluctantMagentaLeeann3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EnchantingBlackCarena3 {
+  }
+  serviceid LivelyPeachMarylin4 {
+  }
+  hidden_boolean WoodenAquamarineBellina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number GreyEmeraldFranni4 {
+  }
+  serviceid LikelyBlushClari3 {
+  }
+}

@@ -1,0 +1,54 @@
+type dummy.ProbableSalmonPhyllys2 {
+  annotations {
+    json DualSapphireRhianna {
+    }
+    string CleanTomatoTammara {
+    }
+    serviceid_number ProvincialPeachMarita2 {
+    }
+    serviceid_number OutstandingIndigoJenine {
+    }
+    serviceid HurtAzureBlythe3 {
+    }
+    serviceid ComparativePlumModesta {
+    }
+  }
+  boolean EncouragingLimeLacey2 {
+    _hidden_value = true
+  }
+  serviceid JuicyApricotAriadne {
+    _hidden_value = true
+  }
+  number GloriousScarletRose3 {
+    _hidden_value = true
+  }
+  json AdditionalCopperDotti2 {
+    _hidden_value = true
+  }
+  boolean ScaryBeigeBrett2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanSheilah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json TerritorialSalmonPrisca {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAlfreda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AncientEmeraldFlor {
+    _hidden_value = true
+  }
+  DualSapphireRhianna = "Why do birds fly south for the winter? Because it's too far to walk."
+  CleanTomatoTammara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProvincialPeachMarita2 = 388
+  OutstandingIndigoJenine = 799
+  HurtAzureBlythe3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ComparativePlumModesta = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

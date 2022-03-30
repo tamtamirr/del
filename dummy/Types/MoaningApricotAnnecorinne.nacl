@@ -1,0 +1,68 @@
+type dummy.MoaningApricotAnnecorinne {
+  annotations {
+    serviceid_number UnusualGoldGladys {
+    }
+    hidden_boolean LikelyBlushClarice {
+    }
+    string HugeCoffeeDoralynn {
+    }
+  }
+  json ConstantEmeraldFranny {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLauryn {
+    _hidden_value = true
+  }
+  dummy.ExistingCoffeeDeva FragileTealSofie {
+    PetiteAmaranthAdrianna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExtraordinaryIndigoJessy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HonChocolateDaveen = false
+    ProfoundPinkMerla = "Did you know that protons have mass? I didn't even know they were catholic."
+    UpperCyanFaunie = "I'll tell you what often gets over looked... garden fences."
+    LegalBrownDahlia = 931
+    FeministPlumMina = '''
+Did you hear the joke about the wandering nun? She was a roman catholic.
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+'''
+    RelaxedPlumMinni = 440
+    FilthyTurquoiseTera2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RareEmeraldFlorentia = 109
+    EducationalCrimsonEryn = 194
+    _hidden_value = true
+  }
+  serviceid_number SuperbMagentaLaurena {
+    _hidden_value = true
+  }
+  serviceid_number GastricMagentaLavinia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BiologicalMaroonLetizia {
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargette3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MonthlyMaroonLinnea {
+    _hidden_value = true
+  }
+  json IsraeliPinkMerilee {
+    _hidden_value = true
+  }
+  json EnergeticBlackCarie {
+    _hidden_value = true
+  }
+  serviceid BigVioletTonia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IsraeliPinkMerilee2 {
+    _hidden_value = true
+  }
+  UnusualGoldGladys = 183
+  HugeCoffeeDoralynn = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

@@ -1,0 +1,36 @@
+type dummy.LazyVioletVania {
+  annotations {
+    serviceid_number MiserableSalmonRachel2 {
+    }
+    boolean MinorEmeraldGabi2 {
+    }
+    serviceid_number RisingScarletRoselle2 {
+    }
+    string HelpfulBlackCaroljean4 {
+    }
+    hidden_boolean SuddenGoldGusty4 {
+    }
+    string GentleBlackCarmelle3 {
+    }
+  }
+  hidden_boolean FundamentalFuchsiaGenevieve7 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StormyTurquoiseTimmi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AliveFuchsiaGilly2 {
+    _hidden_value = true
+  }
+  serviceid_number TallAmaranthAggi3 {
+    _hidden_value = true
+  }
+  MiserableSalmonRachel2 = 500
+  MinorEmeraldGabi2 = false
+  RisingScarletRoselle2 = 696
+  HelpfulBlackCaroljean4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GentleBlackCarmelle3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

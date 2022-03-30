@@ -1,0 +1,78 @@
+type dummy.CheerfulSapphireRhody2 {
+  annotations {
+    serviceid_number BrainyTealSheryl {
+    }
+    boolean StupidTomatoSunshine2 {
+    }
+    boolean AliveTealSherline {
+    }
+    boolean GothicSapphireRamonda {
+    }
+    number CentralBronzeConnie2 {
+    }
+    number CognitiveSalmonQuerida2 {
+    }
+    json EasternCrimsonEricha {
+    }
+  }
+  number SuperiorMaroonLiane {
+    _hidden_value = true
+  }
+  number BrokenIndigoJocelyn {
+    _hidden_value = true
+  }
+  string DryCyanEvaleen2 {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoanne2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGisela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ContemporaryFuchsiaGeorgiana {
+    _hidden_value = true
+  }
+  dummy.OccasionalIvoryJuliette CharmingBeigeCallie4 {
+    UglyTurquoiseTiphani = "I'll tell you what often gets over looked... garden fences."
+    FairBlackCarlen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FuriousRedNicolle = 286
+    AbstractMaroonLilyan = 148
+    RipeApricotAriel = 177
+    OlympicRedNessa = 770
+    SignificantBrownDanna = "Why did the tomato blush? Because it saw the salad dressing."
+    TenderAquamarineBecca = false
+    MysteriousAzureBonita = 13
+    VastEmeraldFreddi = 878
+    ConstantEmeraldFrayda = "How come the stadium got hot after the game? Because all of the fans left."
+    BigAmaranthAbbi = 370
+    WorriedGrayHarri = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean SilentGrayHarlene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CommunistGoldGiselle {
+    _hidden_value = true
+  }
+  number RoughAquaAustine2 {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHaley2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BrainyTealSheryl = 411
+  StupidTomatoSunshine2 = false
+  AliveTealSherline = false
+  GothicSapphireRamonda = true
+  CentralBronzeConnie2 = 984
+  CognitiveSalmonQuerida2 = 529
+  EasternCrimsonEricha = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.AnxiousAquamarineBenoite2 {
+  annotations {
+    json BritishBlushCherilyn {
+    }
+    string RenewedSilverSandie {
+    }
+    string LexicalSilverSada2 {
+    }
+    number ClassicJadeKaja {
+    }
+    serviceid FairBlackCarley {
+    }
+    number HumanBronzeConstanta3 {
+    }
+  }
+  string UnfortunatePeachMarta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MassiveAmaranthAdriaens {
+    _hidden_value = true
+  }
+  json AnxiousAquamarineBenoite3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConstantEmeraldFranny2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CompulsoryOrangeMalorie2 {
+    _hidden_value = true
+  }
+  number BusyCyanFayre4 {
+    _hidden_value = true
+  }
+  number ExcessSilverSara4 {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn = "Why was it called the dark ages? Because of all the knights. "
+  RenewedSilverSandie = "Why did the tomato blush? Because it saw the salad dressing."
+  LexicalSilverSada2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ClassicJadeKaja = 697
+  FairBlackCarley = "Why is Peter Pan always flying? Because he Neverlands."
+  HumanBronzeConstanta3 = 931
+  _hidden_value = true
+}

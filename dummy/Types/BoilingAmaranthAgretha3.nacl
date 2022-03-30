@@ -1,0 +1,98 @@
+type dummy.BoilingAmaranthAgretha3 {
+  annotations {
+    string SupposedCyanFaun4 {
+    }
+    boolean NursingSalmonPetronille2 {
+    }
+    json LatinLimeKonstanze4 {
+    }
+    dummy.DEFAULT NoblePurpleNeala3 {
+    }
+    serviceid WonderfulEmeraldFlossy2 {
+    }
+    boolean ProtestantScarletRobina4 {
+    }
+  }
+  serviceid_number AbsentPinkMelony3 {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa2 {
+    _hidden_value = true
+  }
+  number FrontCopperEalasaid2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SolidGreenIda4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string FitHarlequinJacky2 {
+    _hidden_value = true
+  }
+  string SlowAmethystAnaliese3 {
+    _hidden_value = true
+  }
+  boolean ScatteredAquaAveryl2 {
+    _hidden_value = true
+  }
+  string HungryMaroonLisabeth {
+    _hidden_value = true
+  }
+  serviceid_number PeacefulOrangeMargot2 {
+    _hidden_value = true
+  }
+  number BloodyCyanFederica {
+    _hidden_value = true
+  }
+  serviceid ThirstyAquaAstrid {
+    _hidden_value = true
+  }
+  number KnownMaroonLetty3 {
+    _hidden_value = true
+  }
+  string PleasantIvoryJoscelin {
+    _hidden_value = true
+  }
+  json PhysicalCoffeeDenni2 {
+    _hidden_value = true
+  }
+  boolean HorribleVioletValentia {
+    _hidden_value = true
+  }
+  number HeavyChocolateDavine {
+    _hidden_value = true
+  }
+  json VoicelessApricotArdath2 {
+    _hidden_value = true
+  }
+  "List<json>" ConcreteOliveLynett {
+    _hidden_value = true
+  }
+  number MonetaryIvoryJoey4 {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulHarlequinJaquith2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CriticalCrimsonEstele2 {
+    _hidden_value = true
+  }
+  serviceid_number RulingLimeKira2 {
+    _hidden_value = true
+  }
+  number PowerfulTomatoStephana3 {
+    _hidden_value = true
+  }
+  SupposedCyanFaun4 = "A steak pun is a rare medium well done."
+  NursingSalmonPetronille2 = true
+  LatinLimeKonstanze4 = "To be Frank, I'd have to change my name."
+  NoblePurpleNeala3 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  WonderfulEmeraldFlossy2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ProtestantScarletRobina4 = false
+  _hidden_value = true
+}

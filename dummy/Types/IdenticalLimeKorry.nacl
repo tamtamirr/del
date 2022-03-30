@@ -1,0 +1,46 @@
+type dummy.IdenticalLimeKorry {
+  annotations {
+    boolean LivelyPeachMarylin {
+    }
+    number CrudePlumMil3 {
+    }
+    serviceid SharedPinkMelessa {
+    }
+    hidden_boolean RequiredMaroonLeticia2 {
+    }
+    hidden_boolean ImaginativeTanSeline4 {
+    }
+    serviceid NastyWhiteVeronica3 {
+    }
+  }
+  json CasualOliveLusa3 {
+    _hidden_value = true
+  }
+  number FoolishSapphireReina4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ScaredSalmonRafaelita3 {
+    _hidden_value = true
+  }
+  dummy.ExtremeHarlequinJackelyn MaximumGreenImelda {
+    IncCrimsonErmentrude = 347
+    AlliedPlumMisti = false
+    InternalCoralEdy = "What do you call two barracuda fish?  A Pairacuda!"
+    DevelopedPinkMerilyn = 319
+    CrookedAmberAlisha = "I'll tell you what often gets over looked... garden fences."
+    AmericanBronzeCorrianne = 320
+    TragicRosePaulita = 319
+    ConceptualTanShelagh = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    StrangeTurquoiseTimmie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NastyWhiteVeronica = "Did you know that protons have mass? I didn't even know they were catholic."
+    OldAmethystAmie = 678
+    _hidden_value = true
+  }
+  LivelyPeachMarylin = false
+  CrudePlumMil3 = 879
+  SharedPinkMelessa = "Why do birds fly south for the winter? Because it's too far to walk."
+  NastyWhiteVeronica3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

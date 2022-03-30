@@ -1,0 +1,85 @@
+type dummy.ComfortableGoldGuendolen {
+  annotations {
+    serviceid_number VaguePinkMeghann4 {
+    }
+    hidden_boolean UniformScarletRosaline {
+    }
+    serviceid_number CrudePlumMil4 {
+    }
+    hidden_boolean AcceptedTanSerene3 {
+    }
+    number CanadianPlumMinerva6 {
+    }
+    hidden_boolean SoftAquamarineBarbie {
+    }
+    hidden_boolean VulnerableJadeKarna2 {
+    }
+  }
+  dummy.DEFAULT EarlyBlushCherry {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMariann {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" CriticalCrimsonEstell3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" IntelligentMaroonLinnet3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey3 {
+    _hidden_value = true
+  }
+  serviceid ProfoundPinkMerl2 {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoralElli2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi LateBlushChristalle {
+    SillyYellowWini = 421
+    CruelAquamarineBessy = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    TameYellowYalonda = 849
+    RareWhiteWanda = 41
+    SpareMaroonLillis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StupidGreenIzabel = 123
+    MaximumGreenIlyssa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    TerritorialSalmonPriscella = "Did you know that protons have mass? I didn't even know they were catholic."
+    VariedRedNoreen = 157
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 424
+    IntenseLavenderKatuscha = 774
+    SubtleMoccasinLucie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  number IllegalJadeKaroline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreatBlueCharil2 {
+    _hidden_value = true
+  }
+  number AngryAquamarineBenetta2 {
+    _hidden_value = true
+  }
+  number DecisiveSalmonPepi {
+    _hidden_value = true
+  }
+  json ConstitutionalHarlequinJayme2 {
+    _hidden_value = true
+  }
+  hidden_boolean MoaningApricotAnnamarie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  VaguePinkMeghann4 = 149
+  CrudePlumMil4 = 676
+  CanadianPlumMinerva6 = 359
+  _hidden_value = true
+}

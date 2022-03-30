@@ -1,0 +1,71 @@
+type dummy.DeliciousApricotArdine2 {
+  annotations {
+    string GeographicalPeachMarlena3 {
+    }
+    string DeliciousScarletRodie {
+    }
+    number SubjectiveSapphireRhonda2 {
+    }
+    json CasualOliveLurlene2 {
+    }
+    json DiplomaticMagentaLenore2 {
+    }
+    boolean StingyYellowWinne {
+    }
+    serviceid_number PromisingRedNonah {
+    }
+    string RegularCopperDorris3 {
+    }
+  }
+  dummy.DEFAULT SlowCyanEugenie3 {
+    _hidden_value = true
+  }
+  hidden_boolean CarefulCyanFerdinande {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AtomicScarletRorie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FierceAzureBilly2 {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulsea {
+    _hidden_value = true
+  }
+  string InstitutionalMaroonLeshia2 {
+    _hidden_value = true
+  }
+  number GrandEmeraldFran2 {
+    _hidden_value = true
+  }
+  number SpicyAquaArlie3 {
+    _hidden_value = true
+  }
+  hidden_boolean FunnyVioletTwyla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualLavenderKatrine {
+    _hidden_value = true
+  }
+  serviceid PersistentRosePamelina {
+    _hidden_value = true
+  }
+  serviceid MeltedAquaAurea3 {
+    _hidden_value = true
+  }
+  GeographicalPeachMarlena3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DeliciousScarletRodie = "Dad Im hungry  Hi hungry Im dad"
+  SubjectiveSapphireRhonda2 = 317
+  CasualOliveLurlene2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DiplomaticMagentaLenore2 = "How come the stadium got hot after the game? Because all of the fans left."
+  StingyYellowWinne = false
+  PromisingRedNonah = 601
+  RegularCopperDorris3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

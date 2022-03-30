@@ -1,0 +1,51 @@
+type dummy.RussianCyanFelicity is string {
+  annotations {
+    dummy.DEFAULT RapidAmethystAmy {
+    }
+    hidden_boolean ComparableMoccasinLizzie {
+    }
+    json GlobalGrayHermine {
+    }
+    boolean BrainyTealSherry {
+    }
+    number SoundRoseOlga {
+    }
+    boolean LevelJadeKally {
+    }
+    hidden_boolean DreadfulPinkMerrile {
+    }
+    number WideAmethystAmabel {
+    }
+    boolean CautiousScarletRivy {
+    }
+    serviceid_number RandomMoccasinLoren {
+    }
+    boolean AssociatedMaroonLindsey {
+    }
+    string FamiliarCrimsonEthel {
+    }
+    dummy.DEFAULT MinorEmeraldGabriel {
+    }
+    json SurroundingOrangeMarget {
+    }
+    string FatalPurpleMyrtice {
+    }
+  }
+  RapidAmethystAmy = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  GlobalGrayHermine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BrainyTealSherry = false
+  SoundRoseOlga = 113
+  LevelJadeKally = true
+  WideAmethystAmabel = 933
+  CautiousScarletRivy = false
+  RandomMoccasinLoren = 644
+  AssociatedMaroonLindsey = false
+  FamiliarCrimsonEthel = "Why did the kid cross the playground? To get to the other slide."
+  MinorEmeraldGabriel = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  SurroundingOrangeMarget = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FatalPurpleMyrtice = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

@@ -1,0 +1,24 @@
+type dummy.YellowGoldGiuditta {
+  annotations {
+    hidden_boolean MightyWhiteVerile {
+    }
+    number StripedYellowWrennie {
+    }
+    boolean RichTomatoStoddard2 {
+    }
+    hidden_boolean FamousCoralElfrieda2 {
+    }
+    boolean OrdinaryWhiteViole {
+    }
+    serviceid StripedYellowWren {
+    }
+  }
+  serviceid_number NuttyWhiteViki {
+    _hidden_value = true
+  }
+  StripedYellowWrennie = 148
+  RichTomatoStoddard2 = false
+  OrdinaryWhiteViole = false
+  StripedYellowWren = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

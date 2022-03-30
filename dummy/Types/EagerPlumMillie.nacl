@@ -1,0 +1,88 @@
+type dummy.EagerPlumMillie {
+  annotations {
+    string MusicalIndigoJobi {
+    }
+    json TinyCyanEunice2 {
+    }
+    serviceid TestyYellowYolanda2 {
+    }
+    boolean ReadyChocolateDebera2 {
+    }
+    serviceid InquisitiveTealStacie2 {
+    }
+    boolean VoicelessApricotArdath {
+    }
+  }
+  number MutualLimeKimberly2 {
+    _hidden_value = true
+  }
+  hidden_boolean UnacceptableSalmonPen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT WiseLavenderKatharyn {
+    _hidden_value = true
+  }
+  number OppositeHarlequinJaneczka {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativePinkMerline2 {
+    _hidden_value = true
+  }
+  dummy.StatutoryGrayHarriette CivilianSapphireRanda2 {
+    BeneficialPlumMonika = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PossibleBlushCheryl = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SpotlessTurquoiseTilly = "What creature is smarter than a talking parrot? A spelling bee."
+    SadYellowWilletta = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    RottenApricotArielle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    WetGrayHedi = true
+    PrettyWhiteVirgie = false
+    NetGoldGlen = 676
+    FreeBronzeCody = 377
+    _hidden_value = true
+  }
+  hidden_boolean GreatVioletTybi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDina {
+    _hidden_value = true
+  }
+  number LongBlueChelsey {
+    _hidden_value = true
+  }
+  serviceid_number StormyTurquoiseTim {
+    _hidden_value = true
+  }
+  json AestheticSapphireRebbecca {
+    _hidden_value = true
+  }
+  serviceid_number RareEmeraldFlori {
+    _hidden_value = true
+  }
+  string DeliciousScarletRochette {
+    _hidden_value = true
+  }
+  hidden_boolean SmallAmaranthAgatha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PreciousOrangeMarielle {
+    _hidden_value = true
+  }
+  boolean HandicappedTanShannon {
+    _hidden_value = true
+  }
+  MusicalIndigoJobi = "Slept like a log last night  woke up in the fireplace."
+  TinyCyanEunice2 = "How come the stadium got hot after the game? Because all of the fans left."
+  TestyYellowYolanda2 = "Dad Im hungry  Hi hungry Im dad"
+  ReadyChocolateDebera2 = false
+  InquisitiveTealStacie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  VoicelessApricotArdath = true
+  _hidden_value = true
+}

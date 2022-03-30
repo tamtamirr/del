@@ -1,0 +1,7 @@
+type dummy.DryAmberAlexa3 {
+  hidden_boolean VerticalOliveLynnette3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

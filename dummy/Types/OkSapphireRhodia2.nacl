@@ -1,0 +1,56 @@
+type dummy.OkSapphireRhodia2 {
+  annotations {
+    serviceid DivineRoseOpal {
+    }
+    dummy.DEFAULT ResidentialIndigoJesse {
+    }
+    boolean WateryYellowZelma {
+    }
+    string ExtraordinaryIndigoJessika {
+    }
+    number FatVioletTrixi {
+    }
+  }
+  number SoftCoralElana {
+    _hidden_value = true
+  }
+  serviceid_number BoredPlumMora {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyAmethystAmanda3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LoudLavenderKial2 {
+    _hidden_value = true
+  }
+  json TheoreticalIndigoJenilee {
+    _hidden_value = true
+  }
+  serviceid TameTomatoSusannah2 {
+    _hidden_value = true
+  }
+  serviceid ImmenseAmaranthAdele3 {
+    _hidden_value = true
+  }
+  string EvolutionarySilverRubina {
+    _hidden_value = true
+  }
+  boolean GiantMoccasinLottie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessSilverSapphire {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DivineRoseOpal = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ResidentialIndigoJesse = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  WateryYellowZelma = true
+  ExtraordinaryIndigoJessika = "Im only familiar with 25 letters in the English language. I dont know why."
+  FatVioletTrixi = 126
+  _hidden_value = true
+}

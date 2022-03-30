@@ -1,0 +1,55 @@
+type dummy.EldestTanSharlene {
+  annotations {
+    hidden_boolean ArmedGrayHeidie {
+    }
+    number ApplicablePlumMirelle {
+    }
+    serviceid_number LinearRedNessy {
+    }
+    dummy.BindingSalmonPeta DampMoccasinLorry {
+    }
+    string LeadingCrimsonEm {
+    }
+    hidden_boolean TiredGoldGretchen {
+    }
+  }
+  dummy.DEFAULT FinalBrownDalenna {
+    _hidden_value = true
+  }
+  json TerribleEmeraldFreida {
+    _hidden_value = true
+  }
+  number CuriousLimeKirbie {
+    _hidden_value = true
+  }
+  serviceid_number DirtyIvoryJosepha {
+    _hidden_value = true
+  }
+  number WonderfulYellowZoe3 {
+    _hidden_value = true
+  }
+  string MetropolitanOrangeMargarita {
+    _hidden_value = true
+  }
+  json DeadTealSile2 {
+    _hidden_value = true
+  }
+  dummy.AdverseSapphireRanna RedundantSalmonPhilippine {
+    CleanTomatoTami = 806
+    DreadfulPinkMerrile2 = 979
+    CompulsoryOrangeMalorie = false
+    VividTanShawna = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean PassingSalmonPolly {
+    _hidden_value = true
+  }
+  string EldestTanSharla {
+    _hidden_value = true
+  }
+  ApplicablePlumMirelle = 810
+  LinearRedNessy = 898
+  DampMoccasinLorry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LeadingCrimsonEm = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,91 @@
+type dummy.LatinLimeKonstanze is number {
+  annotations {
+    json ResidentSalmonRae {
+    }
+    hidden_boolean CreepyAmberAlaine {
+    }
+    serviceid CrazyMoccasinLorrayne {
+    }
+    string LevelJadeKally2 {
+    }
+    string WellFuchsiaGipsy {
+    }
+    number ProperCoralElisabet {
+    }
+    serviceid_number OutstandingIndigoJenna {
+    }
+    hidden_boolean BraveMoccasinLucine {
+    }
+    serviceid_number PositiveCoffeeDona {
+    }
+    serviceid ThoughtlessBeigeBrit {
+    }
+    number CrowdedTomatoTania2 {
+    }
+    serviceid_number FairCoffeeDinnie {
+    }
+    hidden_boolean DullTurquoiseTawsha {
+    }
+    hidden_boolean FashionableSapphireRenata {
+    }
+    serviceid PeacefulOrangeMargret {
+    }
+    number ToxicSalmonPhedra {
+    }
+    boolean GleamingTurquoiseTeri {
+    }
+    json JoyousBlackCarry {
+    }
+    json RoughGreenIdelle {
+    }
+    boolean ParliamentaryFuchsiaGiacinta {
+    }
+    dummy.DEFAULT AggressiveMaroonLiliane {
+    }
+    json IntegralSalmonPhilly {
+    }
+    serviceid MidPinkMelissa {
+    }
+    number SurprisingGreenIanthe {
+    }
+    boolean SteadyJadeKaile {
+    }
+    dummy.DEFAULT ObnoxiousAzureBrandie {
+    }
+    serviceid KindVioletValma {
+    }
+    boolean RainyAquaAurora {
+    }
+    boolean RudeTanShayla {
+    }
+  }
+  ResidentSalmonRae = "Why did the kid cross the playground? To get to the other slide."
+  CrazyMoccasinLorrayne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LevelJadeKally2 = "Slept like a log last night  woke up in the fireplace."
+  WellFuchsiaGipsy = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProperCoralElisabet = 199
+  OutstandingIndigoJenna = 938
+  PositiveCoffeeDona = 17
+  ThoughtlessBeigeBrit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CrowdedTomatoTania2 = 870
+  FairCoffeeDinnie = 63
+  PeacefulOrangeMargret = "Slept like a log last night  woke up in the fireplace."
+  ToxicSalmonPhedra = 182
+  GleamingTurquoiseTeri = true
+  JoyousBlackCarry = "Dad Im hungry  Hi hungry Im dad"
+  RoughGreenIdelle = "Slept like a log last night  woke up in the fireplace."
+  ParliamentaryFuchsiaGiacinta = true
+  AggressiveMaroonLiliane = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  IntegralSalmonPhilly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MidPinkMelissa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SurprisingGreenIanthe = 375
+  SteadyJadeKaile = true
+  ObnoxiousAzureBrandie = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  KindVioletValma = "Why is Peter Pan always flying? Because he Neverlands."
+  RainyAquaAurora = true
+  RudeTanShayla = false
+}

@@ -1,0 +1,105 @@
+type dummy.InnocentTealStacey2 {
+  annotations {
+    serviceid_number SadGrayHettie {
+    }
+    serviceid DistinctiveLimeKriste {
+    }
+    number SoreBeigeBrier {
+    }
+    serviceid_number RoyalBrownCristie {
+    }
+  }
+  serviceid PastCoffeeDiann {
+    _hidden_value = true
+  }
+  json ExplicitMaroonLisbeth2 {
+    _hidden_value = true
+  }
+  number FewAmethystAndria {
+    _hidden_value = true
+  }
+  json DeadTealSileas {
+    _hidden_value = true
+  }
+  boolean OutrageousAzureBrandise {
+    _hidden_value = true
+  }
+  boolean EnglishBrownCourtney {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMarianna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VivaciousBlueCecilla {
+    _hidden_value = true
+  }
+  serviceid ChristianCoralElvina {
+    _hidden_value = true
+  }
+  serviceid_number BlushingTomatoTamar {
+    _hidden_value = true
+  }
+  dummy.ManyAmethystAngel ChemicalGreenIsahella {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 315
+    StaticSapphireRebeka = 348
+    CircularRoseOrly = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OrangeWhiteVinny = false
+    PureGrayHermia = "Did you know that protons have mass? I didn't even know they were catholic."
+    BreezyAmaranthAigneis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 0
+    PrivateBronzeCoreen = 48
+    ShockedPinkMelisandra = "A steak pun is a rare medium well done."
+    ObedientBlackCassondra = 257
+    RapidAmethystAmy2 = 63
+    _hidden_value = true
+  }
+  serviceid_number SadYellowWillette {
+    _hidden_value = true
+  }
+  string LevelJadeKameko {
+    _hidden_value = true
+  }
+  hidden_boolean DampAmberAlena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LargeBlueCharlot {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DevelopedPinkMerilyn2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FluffyAmberAlice2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SportingSilverRuthie2 {
+    _hidden_value = true
+  }
+  number FatAmaranthAbigale {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ImportantBlueChastity {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIvoryJojo {
+    _hidden_value = true
+  }
+  serviceid AtomicScarletRori {
+    _hidden_value = true
+  }
+  SadGrayHettie = 210
+  DistinctiveLimeKriste = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SoreBeigeBrier = 313
+  RoyalBrownCristie = 680
+  _hidden_value = true
+}

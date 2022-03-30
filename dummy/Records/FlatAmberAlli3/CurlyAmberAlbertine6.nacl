@@ -1,0 +1,41 @@
+dummy.FlatAmberAlli3 CurlyAmberAlbertine6 {
+  ChristianCoralElva3 = true
+  LesserMoccasinLucy2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  QuickAmethystAmitie = "What do you call two barracuda fish?  A Pairacuda!"
+  FascinatingOrangeMargareta = "To be Frank, I'd have to change my name."
+  ArtisticPeachMathilda3 = 109
+  IllAzureBobbee5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UncertainMagentaLelah3 = false
+  PaleGrayHarriett5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SpiritualLavenderKatrinka4 = false
+  SatisfactoryLimeKrissy8 = false
+  ElderlyEmeraldFlorencia2 = 376
+  FragileTealSonia3 = "Slept like a log last night  woke up in the fireplace."
+  YellowYellowZonnya2 = [
+    "What do you do on a remote island? Try and find the TV island it belongs to.",
+    "A steak pun is a rare medium well done.",
+    "Why was it called the dark ages? Because of all the knights. ",
+    "Slept like a log last night  woke up in the fireplace.",
+    "How come the stadium got hot after the game? Because all of the fans left.",
+    "Did you hear about the guy whose whole left side was cut off? He's all right now.",
+    "Why did the tomato blush? Because it saw the salad dressing.",
+    "Did you hear the joke about the wandering nun? She was a roman catholic.",
+  ]
+  FemaleCrimsonEmmey3 = 511
+  EmptyCyanFancy2 = "Why is Peter Pan always flying? Because he Neverlands."
+  DependentGrayHazel = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HandsomeOliveMaitilde = false
+  ScreechingApricotAnthiathia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AmateurSalmonPia4 = false
+  DailyCyanEvelina = false
+  StraightforwardMaroonLeyla4 = false
+  GentleIndigoJobye3 = [
+    true,
+    false,
+    false,
+    false,
+    true,
+    false,
+  ]
+  _parent = dummy.OddFuchsiaGenevra4
+}

@@ -1,0 +1,38 @@
+type dummy.YellowYellowZonda {
+  annotations {
+    number ProposedGoldGwendolin2 {
+    }
+    boolean LiquidRoseOttilie4 {
+    }
+    serviceid SplendidBlueCatina3 {
+    }
+    boolean OutstandingTealStefanie2 {
+    }
+    hidden_boolean HuskyApricotAnnabel {
+    }
+  }
+  serviceid OkayOliveMaggy {
+    _hidden_value = true
+  }
+  number FierceOliveMaisey {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenAquamarineBelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AlrightGoldGoldina2 {
+    _hidden_value = true
+  }
+  hidden_boolean SecondaryFuchsiaGertrud3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProposedGoldGwendolin2 = 113
+  LiquidRoseOttilie4 = false
+  SplendidBlueCatina3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  OutstandingTealStefanie2 = false
+  _hidden_value = true
+}

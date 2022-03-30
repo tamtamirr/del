@@ -1,0 +1,75 @@
+type dummy.DyingScarletRobyn6 {
+  annotations {
+    serviceid_number FrightenedMagentaLavena2 {
+    }
+    dummy.OccupationalOliveMadel StableHarlequinJasmine {
+    }
+    json DutchLavenderKelsy4 {
+    }
+    json DirtyIvoryJosepha3 {
+    }
+    serviceid EntireEmeraldFranciska3 {
+    }
+    serviceid SystematicOrangeMarcelia3 {
+    }
+  }
+  hidden_boolean CombativeAquamarineBerta3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ManyAmethystAnetta2 {
+    _hidden_value = true
+  }
+  number SlowCyanEudora2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RainyAquaAustin2 {
+    _hidden_value = true
+  }
+  boolean MechanicalMagentaLeonora3 {
+    _hidden_value = true
+  }
+  string RoundAmberAlmira {
+    _hidden_value = true
+  }
+  serviceid_number AdorableTomatoSydel6 {
+    _hidden_value = true
+  }
+  serviceid ContentPeachMatilda2 {
+    _hidden_value = true
+  }
+  serviceid DisabledHarlequinJanine2 {
+    _hidden_value = true
+  }
+  json RussianCyanFelicity2 {
+    _hidden_value = true
+  }
+  serviceid IraqiOliveMadelle4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DrabTurquoiseTaryn {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" BreakableTealShir6 {
+    _hidden_value = true
+  }
+  boolean ExcitedOrangeMarion4 {
+    _hidden_value = true
+  }
+  number SourAquaArlette2 {
+    _hidden_value = true
+  }
+  hidden_boolean MeanIvoryJulee5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FrightenedMagentaLavena2 = 729
+  StableHarlequinJasmine = false
+  DutchLavenderKelsy4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DirtyIvoryJosepha3 = "Why did the tomato blush? Because it saw the salad dressing."
+  EntireEmeraldFranciska3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SystematicOrangeMarcelia3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

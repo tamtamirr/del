@@ -1,0 +1,95 @@
+type dummy.CheerfulSapphireRhody3 {
+  annotations {
+    serviceid FilthyAmberAlexis2 {
+    }
+    serviceid CarefulTealShoshanna {
+    }
+    serviceid DivineRoseOpaline {
+    }
+    json BurningRedNikki3 {
+    }
+    serviceid FrenchBrownCynde {
+    }
+  }
+  hidden_boolean EvilPeachMaurita3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string IrishCrimsonErminie2 {
+    _hidden_value = true
+  }
+  string UltimateJadeKamillah {
+    _hidden_value = true
+  }
+  number AppropriateChocolateDarci3 {
+    _hidden_value = true
+  }
+  json SupremeGreenIsabella2 {
+    _hidden_value = true
+  }
+  string LooseAquaAugustina4 {
+    _hidden_value = true
+  }
+  serviceid_number OfficialCopperDoro2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RelativeGoldGuillemette {
+    _hidden_value = true
+  }
+  hidden_boolean EnthusiasticBlackCarine2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AppallingTanSela {
+    _hidden_value = true
+  }
+  hidden_boolean ChemicalGreenIsadora3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CompatibleSapphireRenie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json TerritorialSalmonPriscella2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AmbitiousPeachMaureen2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WickedBeigeBryana2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AdditionalCopperDotty4 {
+    _hidden_value = true
+  }
+  json PricklyAquaAurlie {
+    _hidden_value = true
+  }
+  hidden_boolean PsychiatricSilverRoxy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EntitledIvoryJuliann2 {
+    _hidden_value = true
+  }
+  number WearyBeigeBrunhilda2 {
+    _hidden_value = true
+  }
+  json CalmPurpleNancee4 {
+    _hidden_value = true
+  }
+  FilthyAmberAlexis2 = "What creature is smarter than a talking parrot? A spelling bee."
+  CarefulTealShoshanna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DivineRoseOpaline = "I'll tell you what often gets over looked... garden fences."
+  BurningRedNikki3 = "What creature is smarter than a talking parrot? A spelling bee."
+  FrenchBrownCynde = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

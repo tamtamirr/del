@@ -1,0 +1,65 @@
+type dummy.StrangeTurquoiseTina {
+  annotations {
+    string EmotionalGrayHerta3 {
+    }
+    dummy.ManyAmethystAngel UnevenAquamarineBeilul3 {
+    }
+    boolean JitteryVioletValery2 {
+    }
+    number WelcomeIvoryJosselyn {
+    }
+    number WorthyRedOdilia4 {
+    }
+    dummy.CalmPurpleNancee2 YoungBlueCher3 {
+    }
+    string BusyTealShirley {
+    }
+    boolean SureBlushCindie2 {
+    }
+    serviceid BumpyAmaranthAiley4 {
+    }
+    boolean ArrogantAquamarineBerget4 {
+    }
+    number NoblePurpleNeala4 {
+    }
+    hidden_boolean PlainIndigoJewel3 {
+    }
+    serviceid FrenchBrownCyndie2 {
+    }
+    boolean ShortAmaranthAfton {
+    }
+    serviceid_number MagentaWhiteVenita3 {
+    }
+    serviceid_number ArbitrarySilverRoxanna {
+    }
+    boolean RelaxedPlumMinni7 {
+    }
+    boolean RisingScarletRosemaria {
+    }
+    serviceid_number MinorEmeraldGabie2 {
+    }
+    serviceid_number EnglishBrownCrin2 {
+    }
+    string NervousAzureBrana2 {
+    }
+  }
+  EmotionalGrayHerta3 = "Why did the tomato blush? Because it saw the salad dressing."
+  UnevenAquamarineBeilul3 = 262
+  JitteryVioletValery2 = true
+  WelcomeIvoryJosselyn = 40
+  WorthyRedOdilia4 = 865
+  BusyTealShirley = "Dad Im hungry  Hi hungry Im dad"
+  SureBlushCindie2 = true
+  BumpyAmaranthAiley4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ArrogantAquamarineBerget4 = true
+  NoblePurpleNeala4 = 696
+  FrenchBrownCyndie2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShortAmaranthAfton = true
+  MagentaWhiteVenita3 = 42
+  ArbitrarySilverRoxanna = 883
+  RelaxedPlumMinni7 = true
+  RisingScarletRosemaria = false
+  MinorEmeraldGabie2 = 148
+  EnglishBrownCrin2 = 985
+  NervousAzureBrana2 = "Why did the kid cross the playground? To get to the other slide."
+}

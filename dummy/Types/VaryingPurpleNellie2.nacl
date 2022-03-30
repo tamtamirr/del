@@ -1,0 +1,26 @@
+type dummy.VaryingPurpleNellie2 {
+  annotations {
+    dummy.DEFAULT ConventionalGoldGus2 {
+    }
+    json UnfairMaroonLilia3 {
+    }
+    hidden_boolean LongAmethystAme2 {
+    }
+    hidden_boolean EldestTanSharlene3 {
+    }
+    number ModestLavenderKelsi6 {
+    }
+    serviceid BlankPinkMelody {
+    }
+  }
+  boolean NiceWhiteVicki3 {
+    _hidden_value = true
+  }
+  ConventionalGoldGus2 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  UnfairMaroonLilia3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ModestLavenderKelsi6 = 934
+  BlankPinkMelody = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}
