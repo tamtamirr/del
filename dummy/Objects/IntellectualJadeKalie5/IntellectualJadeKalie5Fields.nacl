@@ -9,3 +9,14 @@ type dummy.IntellectualJadeKalie5 {
   json FarBlushChristin5 {
   }
 }
+type dummy.IntellectualJadeKalie5 {
+  string ClosedMagentaLeisha3 {
+  }
+  hidden_boolean BloodyTomatoTally6 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json FarBlushChristin4 {
+  }
+}

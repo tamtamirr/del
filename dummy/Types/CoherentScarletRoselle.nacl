@@ -40,3 +40,45 @@ type dummy.CoherentScarletRoselle {
   WelshGrayHattie5 = 468
   _hidden_value = true
 }
+type dummy.CoherentScarletRoselle {
+  annotations {
+    dummy.CognitiveSalmonQuinn CrookedAmberAlison {
+    }
+    number TanYellowYetta {
+    }
+    serviceid ImpressiveIndigoJerrylee2 {
+    }
+    serviceid_number DeepChocolateDelores {
+    }
+    hidden_boolean CivilianSapphireRanda5 {
+    }
+    serviceid_number WelshGrayHattie5 {
+    }
+  }
+  hidden_boolean CommonBronzeCookie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ScornfulBeigeBrianne3 {
+    _hidden_value = true
+  }
+  string ExcellentCoralEilis2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsualCoralEllyn2 {
+    _hidden_value = true
+  }
+  string BlushingTomatoTamara {
+    _hidden_value = true
+  }
+  serviceid RapidAmethystAmye {
+    _hidden_value = true
+  }
+  CrookedAmberAlison = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TanYellowYetta = 130
+  ImpressiveIndigoJerrylee2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  DeepChocolateDelores = 460
+  WelshGrayHattie5 = 667
+  _hidden_value = true
+}

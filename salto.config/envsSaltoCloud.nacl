@@ -4,5 +4,9 @@ envs {
       uuid = "50bc1186-8128-4593-b7c6-27c26c10192f"
       folderName = "env7"
     },
+    {
+      uuid = "cedaf108-d685-4849-8a37-f087a0700e9d"
+      folderName = "env10"
+    },
   ]
 }

@@ -5,3 +5,10 @@ type dummy.CrowdedTomatoTanhya {
     _hidden_value = true
   }
 }
+type dummy.CrowdedTomatoTanhya {
+  hidden_boolean ConvincedJadeKarisa {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

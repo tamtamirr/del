@@ -11,3 +11,16 @@ type dummy.SquealingApricotAra {
     _hidden_value = false
   }
 }
+type dummy.SquealingApricotAra {
+  boolean ShortAmaranthAfton2 {
+  }
+  number RelatedIndigoJessalin {
+  }
+  string SpiritualLavenderKatrina2 {
+  }
+  hidden_boolean WrittenGreenIvonne3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

@@ -17,3 +17,22 @@ type dummy.ArtificialMagentaLenka {
   DependentGrayHeather = "Did you hear about the guy whose whole left side was cut off? He's all right now."
   _hidden_value = true
 }
+type dummy.ArtificialMagentaLenka {
+  annotations {
+    boolean GladGoldGlyn2 {
+    }
+    serviceid WoodenGreenHoratia2 {
+    }
+    string DependentGrayHeather {
+    }
+  }
+  hidden_boolean IntermediateRoseOfella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GladGoldGlyn2 = true
+  WoodenGreenHoratia2 = "Why did the kid cross the playground? To get to the other slide."
+  DependentGrayHeather = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

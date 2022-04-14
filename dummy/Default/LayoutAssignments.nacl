@@ -4,3 +4,9 @@ type dummy.LayoutAssignments {
   string recordType {
   }
 }
+type dummy.LayoutAssignments {
+  string layout {
+  }
+  string recordType {
+  }
+}

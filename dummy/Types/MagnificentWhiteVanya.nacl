@@ -32,3 +32,37 @@ type dummy.MagnificentWhiteVanya is boolean {
   UnderlyingLimeKori = 474
   FragileTealSondra = 345
 }
+type dummy.MagnificentWhiteVanya is boolean {
+  annotations {
+    dummy.DEFAULT ProspectiveRedNettie {
+    }
+    serviceid_number CooperativeBeigeCami {
+    }
+    dummy.DEFAULT PlainTurquoiseTheressa {
+    }
+    serviceid_number WorriedGrayHarmony {
+    }
+    hidden_boolean SlowCyanEudora {
+    }
+    json CrowdedTomatoTania {
+    }
+    number PreciousOrangeMariele {
+    }
+    serviceid_number UnderlyingLimeKori {
+    }
+    serviceid_number FragileTealSondra {
+    }
+  }
+  ProspectiveRedNettie = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  CooperativeBeigeCami = 355
+  PlainTurquoiseTheressa = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  WorriedGrayHarmony = 498
+  CrowdedTomatoTania = "Whoever invented the knock-knock joke should get a no bell prize."
+  PreciousOrangeMariele = 532
+  UnderlyingLimeKori = 468
+  FragileTealSondra = 702
+}

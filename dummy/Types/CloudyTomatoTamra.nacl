@@ -23,3 +23,28 @@ type dummy.CloudyTomatoTamra {
   BraveBeigeCal = "Why was it called the dark ages? Because of all the knights. "
   _hidden_value = true
 }
+type dummy.CloudyTomatoTamra {
+  annotations {
+    dummy.DEFAULT CondemnedAquamarineBertha {
+    }
+    serviceid_number IntensiveMoccasinLulu {
+    }
+    json CorporateEmeraldGarland {
+    }
+    number OuterJadeKarrie {
+    }
+    serviceid BraveBeigeCal {
+    }
+  }
+  number ConcernedTealSibilla {
+    _hidden_value = true
+  }
+  CondemnedAquamarineBertha = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  IntensiveMoccasinLulu = 66
+  CorporateEmeraldGarland = "Whoever invented the knock-knock joke should get a no bell prize."
+  OuterJadeKarrie = 821
+  BraveBeigeCal = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

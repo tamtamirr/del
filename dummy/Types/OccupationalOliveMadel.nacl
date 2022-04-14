@@ -16,3 +16,21 @@ type dummy.OccupationalOliveMadel is boolean {
   WearyBeigeBrooke = "Chances are if you' ve seen one shopping center, you've seen a mall."
   PoisedTurquoiseThomasin = 2
 }
+type dummy.OccupationalOliveMadel is boolean {
+  annotations {
+    serviceid_number DifferentBlueCharleen {
+    }
+    dummy.DEFAULT AverageCoralElysha2 {
+    }
+    serviceid WearyBeigeBrooke {
+    }
+    serviceid_number PoisedTurquoiseThomasin {
+    }
+  }
+  DifferentBlueCharleen = 17
+  AverageCoralElysha2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  WearyBeigeBrooke = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PoisedTurquoiseThomasin = 159
+}

@@ -26,3 +26,31 @@ type dummy.CuddlyAmberAlberta2 {
   EnergeticBlackCaril2 = 663
   _hidden_value = true
 }
+type dummy.CuddlyAmberAlberta2 {
+  annotations {
+    serviceid HonChocolateDaune2 {
+    }
+    string DirectChocolateDeane2 {
+    }
+    json VisualGreenIngaborg {
+    }
+    json MusicalIndigoJoanne {
+    }
+    dummy.DEFAULT DirtyIvoryJosefina3 {
+    }
+    dummy.AdverseSapphireRanna EnergeticBlackCaril2 {
+    }
+  }
+  boolean ProposedGoldGweneth {
+    _hidden_value = true
+  }
+  HonChocolateDaune2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DirectChocolateDeane2 = "Why did the tomato blush? Because it saw the salad dressing."
+  VisualGreenIngaborg = "What do you call two barracuda fish?  A Pairacuda!"
+  MusicalIndigoJoanne = "I'll tell you what often gets over looked... garden fences."
+  DirtyIvoryJosefina3 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  EnergeticBlackCaril2 = 224
+  _hidden_value = true
+}

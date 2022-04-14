@@ -8,3 +8,13 @@ type dummy.Permissions {
   boolean edit {
   }
 }
+type dummy.Permissions {
+  string name {
+  }
+  boolean read {
+  }
+  boolean write {
+  }
+  boolean edit {
+  }
+}

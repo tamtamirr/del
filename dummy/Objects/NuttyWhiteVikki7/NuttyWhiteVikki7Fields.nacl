@@ -4,3 +4,9 @@ type dummy.NuttyWhiteVikki7 {
   number FavourablePinkMerci4 {
   }
 }
+type dummy.NuttyWhiteVikki7 {
+  string SpecificChocolateDarby2 {
+  }
+  number FavourablePinkMerci4 {
+  }
+}

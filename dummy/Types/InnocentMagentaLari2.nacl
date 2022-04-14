@@ -23,3 +23,28 @@ type dummy.InnocentMagentaLari2 {
   CreativeJadeKanya = 374
   _hidden_value = true
 }
+type dummy.InnocentMagentaLari2 {
+  annotations {
+    number GreatAmaranthAddi {
+    }
+    number StormyTurquoiseTim2 {
+    }
+    serviceid_number CreativeJadeKanya {
+    }
+  }
+  number WellFuchsiaGiralda2 {
+    _hidden_value = true
+  }
+  number ArchitecturalRosePatience2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ProductivePlumMolly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GreatAmaranthAddi = 615
+  StormyTurquoiseTim2 = 94
+  CreativeJadeKanya = 35
+  _hidden_value = true
+}

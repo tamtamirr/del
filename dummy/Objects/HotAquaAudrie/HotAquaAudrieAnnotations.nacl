@@ -41,3 +41,46 @@ type dummy.HotAquaAudrie {
   EnthusiasticPinkMerrie6 = 97
   PureGrayHenryetta5 = "Why did the kid cross the playground? To get to the other slide."
 }
+type dummy.HotAquaAudrie {
+  annotations {
+    json WorryingSilverRozanna3 {
+    }
+    boolean DrabTurquoiseTasia5 {
+    }
+    dummy.MeaningfulTanShelly TightIvoryJoete {
+    }
+    string ColorfulTomatoTandy2 {
+    }
+    hidden_boolean GrubbyAquaAubry7 {
+    }
+    dummy.TameTomatoSusannah AgriculturalGoldGoldarina2 {
+    }
+    serviceid_number BrightCoralElwira2 {
+    }
+    json SuperbMagentaLaurena3 {
+    }
+    boolean ClosedMagentaLeisha2 {
+    }
+    string ContinuingGreenIrita4 {
+    }
+    serviceid_number ExtendedPlumMilka {
+    }
+    serviceid_number EnthusiasticPinkMerrie6 {
+    }
+    string PureGrayHenryetta5 {
+    }
+    hidden_boolean HelpfulHarlequinJanetta {
+    }
+  }
+  WorryingSilverRozanna3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DrabTurquoiseTasia5 = true
+  ColorfulTomatoTandy2 = "Slept like a log last night  woke up in the fireplace."
+  AgriculturalGoldGoldarina2 = true
+  BrightCoralElwira2 = 961
+  SuperbMagentaLaurena3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ClosedMagentaLeisha2 = false
+  ContinuingGreenIrita4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExtendedPlumMilka = 718
+  EnthusiasticPinkMerrie6 = 805
+  PureGrayHenryetta5 = "Dad Im hungry  Hi hungry Im dad"
+}

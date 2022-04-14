@@ -54,3 +54,59 @@ type dummy.FantasticBlackCarlota2 {
   ThenSalmonPhoebe6 = true
   LinearRedNesta5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
 }
+type dummy.FantasticBlackCarlota2 {
+  annotations {
+    json ProfessionalChocolateDayna8 {
+    }
+    boolean BumpyAmaranthAili3 {
+    }
+    serviceid_number ColourfulScarletRosalia5 {
+    }
+    hidden_boolean PrintedRedNetty {
+    }
+    hidden_boolean SlimyAquamarineBarbara4 {
+    }
+    serviceid PoorBronzeCorenda5 {
+    }
+    dummy.PowerfulCopperDruci LowBlushChristy4 {
+    }
+    hidden_boolean CharacteristicOliveMalina {
+    }
+    number ScreechingApricotAnthiathia2 {
+    }
+    json RudeTanShaylyn3 {
+    }
+    dummy.MeaningfulTanShelly RealTomatoStesha4 {
+    }
+    number ProudBlueCathee3 {
+    }
+    dummy.SpectacularMaroonLibbie ConstitutionalHarlequinJayne2 {
+    }
+    hidden_boolean QuickCoralElenore4 {
+    }
+    string MoralCyanFeliza6 {
+    }
+    dummy.DeadTealSileas2 SecondaryFuchsiaGertruda3 {
+    }
+    json RacialPlumMichelle2 {
+    }
+    boolean ThenSalmonPhoebe6 {
+    }
+    hidden_boolean HistoricLavenderKellina3 {
+    }
+    string LinearRedNesta5 {
+    }
+  }
+  ProfessionalChocolateDayna8 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BumpyAmaranthAili3 = true
+  ColourfulScarletRosalia5 = 102
+  PoorBronzeCorenda5 = "Dad Im hungry  Hi hungry Im dad"
+  ScreechingApricotAnthiathia2 = 788
+  RudeTanShaylyn3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ProudBlueCathee3 = 204
+  ConstitutionalHarlequinJayne2 = 363
+  MoralCyanFeliza6 = "A steak pun is a rare medium well done."
+  RacialPlumMichelle2 = "A steak pun is a rare medium well done."
+  ThenSalmonPhoebe6 = false
+  LinearRedNesta5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

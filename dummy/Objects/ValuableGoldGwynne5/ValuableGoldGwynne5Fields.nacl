@@ -7,3 +7,12 @@ type dummy.ValuableGoldGwynne5 {
   string SoleLimeKirsti3 {
   }
 }
+type dummy.ValuableGoldGwynne5 {
+  hidden_boolean ColdAmaranthAimee5 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string SoleLimeKirsti2 {
+  }
+}

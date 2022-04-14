@@ -28,3 +28,33 @@ type dummy.ResponsibleCoffeeDevin {
   }
   _hidden_value = true
 }
+type dummy.ResponsibleCoffeeDevin {
+  annotations {
+    string OrangeWhiteViola {
+    }
+    serviceid_number OverwhelmingPurpleMyrna {
+    }
+    serviceid GladGoldGlyn {
+    }
+    boolean RelatedIndigoJessalyn {
+    }
+    dummy.DEFAULT NetGoldGlenda {
+    }
+    dummy.DEFAULT ProudHarlequinJan {
+    }
+  }
+  string GenerousLavenderKayley {
+    _hidden_value = true
+  }
+  OrangeWhiteViola = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OverwhelmingPurpleMyrna = 954
+  GladGoldGlyn = "I'll tell you what often gets over looked... garden fences."
+  RelatedIndigoJessalyn = false
+  NetGoldGlenda = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ProudHarlequinJan = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  _hidden_value = true
+}

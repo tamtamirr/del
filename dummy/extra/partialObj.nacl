@@ -7,3 +7,12 @@ type dummy.Partial {
   }
   strAnno = "ANNO"
 }
+type dummy.Partial {
+  annotations {
+    string strAnno {
+    }
+  }
+  string strField {
+  }
+  strAnno = "ANNO"
+}

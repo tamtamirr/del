@@ -1,3 +1,6 @@
 dummy.Partial PartialInst {
   strField = "Partial"
 }
+dummy.Partial PartialInst {
+  strField = "Partial"
+}

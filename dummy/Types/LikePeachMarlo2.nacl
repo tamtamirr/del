@@ -23,3 +23,28 @@ type dummy.LikePeachMarlo2 {
   WonderfulBlueCeleste3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
   _hidden_value = true
 }
+type dummy.LikePeachMarlo2 {
+  annotations {
+    number ScatteredAquaAveryl5 {
+    }
+    dummy.DEFAULT NursingSalmonPetronille3 {
+    }
+    string AgreeableBeigeBunnie4 {
+    }
+    serviceid WonderfulBlueCeleste3 {
+    }
+  }
+  number DullTurquoiseTawnya {
+    _hidden_value = true
+  }
+  boolean MushyWhiteVerile2 {
+    _hidden_value = true
+  }
+  ScatteredAquaAveryl5 = 222
+  NursingSalmonPetronille3 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  AgreeableBeigeBunnie4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  WonderfulBlueCeleste3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

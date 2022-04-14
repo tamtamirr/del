@@ -53,3 +53,58 @@ type dummy.EconomicBlushClare3 {
   CautiousTealSib2 = false
   TinyCyanEunice5 = file("NotablePeachMartina.txt")
 }
+type dummy.EconomicBlushClare3 {
+  annotations {
+    dummy.UrbanCyanFan MassiveAmaranthAdorne {
+    }
+    string BoringPeachMarnie4 {
+    }
+    dummy.LinearRedNessy2 RegionalCopperDorice4 {
+    }
+    json HiddenRedOdessa5 {
+    }
+    serviceid_number NiceBrownCybill3 {
+    }
+    json ActiveCopperDredi {
+    }
+    json CarefulTealSiana {
+    }
+    dummy.FashionableSapphireRenae SeparateCopperDorolisa2 {
+    }
+    hidden_boolean GeneralBlushChristan6 {
+    }
+    dummy.LongAmaranthAdina SteadyJadeKaila2 {
+    }
+    dummy.EntitledIvoryJuliann RudeTanShaylah4 {
+    }
+    number WickedBeigeBryana3 {
+    }
+    json AccusedSilverSallyanne3 {
+    }
+    boolean CautiousTealSib2 {
+    }
+    dummy.EncouragingBlackCarey2 AsianMaroonLinda3 {
+    }
+    dummy.AbsoluteGreenImogen ColorfulTomatoTandy3 {
+    }
+    hidden_boolean EqualCrimsonEmilia4 {
+    }
+    dummy.LongAmaranthAdina TinyCyanEunice5 {
+    }
+    hidden_boolean ExoticScarletRisa2 {
+    }
+  }
+  MassiveAmaranthAdorne = file("ProbableSalmonPhyllida3.txt")
+  BoringPeachMarnie4 = "To be Frank, I'd have to change my name."
+  HiddenRedOdessa5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NiceBrownCybill3 = 436
+  ActiveCopperDredi = "Im only familiar with 25 letters in the English language. I dont know why."
+  CarefulTealSiana = "Did you know that protons have mass? I didn't even know they were catholic."
+  SeparateCopperDorolisa2 = true
+  SteadyJadeKaila2 = file("AllegedOliveLynn6.txt")
+  RudeTanShaylah4 = file("MajorBlushClaire4.txt")
+  WickedBeigeBryana3 = 532
+  AccusedSilverSallyanne3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CautiousTealSib2 = false
+  TinyCyanEunice5 = file("GrubbyAquaAubrie3.txt")
+}

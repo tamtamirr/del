@@ -13,3 +13,18 @@ type dummy.FatAmaranthAbigale3 {
   BriefAmethystAmalita = true
   _hidden_value = true
 }
+type dummy.FatAmaranthAbigale3 {
+  annotations {
+    hidden_boolean ForthcomingPeachMarrissa {
+    }
+    boolean BriefAmethystAmalita {
+    }
+    hidden_boolean WelcomeIvoryJosy2 {
+    }
+  }
+  boolean NeutralPeachMaryrose {
+    _hidden_value = true
+  }
+  BriefAmethystAmalita = true
+  _hidden_value = true
+}

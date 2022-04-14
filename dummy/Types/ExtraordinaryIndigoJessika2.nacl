@@ -28,3 +28,33 @@ type dummy.ExtraordinaryIndigoJessika2 {
   UniversalJadeJyoti3 = 621
   _hidden_value = true
 }
+type dummy.ExtraordinaryIndigoJessika2 {
+  annotations {
+    dummy.KeenGrayHannah ProminentLavenderKeely {
+    }
+    dummy.DEFAULT UpsetOliveMabel7 {
+    }
+    string LiberalCyanFarra3 {
+    }
+    number ContinuousIvoryJoye2 {
+    }
+    number CuddlyAmberAlbertina2 {
+    }
+    serviceid_number UniversalJadeJyoti3 {
+    }
+    hidden_boolean FavouriteHarlequinJacqueline2 {
+    }
+  }
+  serviceid_number UptightBeigeBrook3 {
+    _hidden_value = true
+  }
+  ProminentLavenderKeely = false
+  UpsetOliveMabel7 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  LiberalCyanFarra3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ContinuousIvoryJoye2 = 879
+  CuddlyAmberAlbertina2 = 109
+  UniversalJadeJyoti3 = 893
+  _hidden_value = true
+}

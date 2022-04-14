@@ -51,3 +51,56 @@ type dummy.ConsiderableChocolateDemetris3 {
   string CuriousTealSidonnie2 {
   }
 }
+type dummy.ConsiderableChocolateDemetris3 {
+  serviceid_number CruelPlumMichaela3 {
+  }
+  json ArabLimeKiri2 {
+  }
+  string RelevantCoffeeDora2 {
+  }
+  hidden_boolean VastEmeraldFreddie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid WeeSapphireRetha5 {
+  }
+  number LooseAquaAugustina6 {
+  }
+  hidden_boolean NotablePeachMartita2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SwiftAmethystAnastasie5 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid AustralianJadeKata2 {
+  }
+  serviceid SmoothIndigoJen {
+  }
+  number AdvisoryOrangeMarie2 {
+  }
+  string GladGoldGlynda3 {
+  }
+  json AdjacentSilverRoxie3 {
+  }
+  dummy.AcuteLavenderKeri CruelAquamarineBeth {
+    TerribleBeigeBrinna = 652
+    ShrillApricotAntonetta = 788
+    FineBrownCourtenay = "Whoever invented the knock-knock joke should get a no bell prize."
+    HelpfulBlackCarolin = false
+    ConsiderableChocolateDemetra = "Dad Im hungry  Hi hungry Im dad"
+    ThoughtfulBlueCaye = "Why did the tomato blush? Because it saw the salad dressing."
+    LiveIndigoJody = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PoorBronzeCorene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ShallowAmberAlmire = 903
+    ClosedMagentaLela = "Why did the kid cross the playground? To get to the other slide."
+  }
+  json InstitutionalMaroonLesli6 {
+  }
+  string CuriousTealSidonnie2 {
+  }
+}

@@ -14,3 +14,19 @@ type dummy.VictoriousBlueCecelia2 {
   FluffyAmberAlice5 = "To be Frank, I'd have to change my name."
   _hidden_value = true
 }
+type dummy.VictoriousBlueCecelia2 {
+  annotations {
+    boolean SufficientCrimsonEolanda2 {
+    }
+    hidden_boolean ElectronicGreenInez {
+    }
+    string FluffyAmberAlice5 {
+    }
+  }
+  json PrintedRedNevsa2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolanda2 = true
+  FluffyAmberAlice5 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

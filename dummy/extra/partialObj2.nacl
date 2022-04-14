@@ -7,3 +7,12 @@ type dummy.Partial {
   }
   numAnno = 12
 }
+type dummy.Partial {
+  annotations {
+    number numAnno {
+    }
+  }
+  number numField {
+  }
+  numAnno = 12
+}

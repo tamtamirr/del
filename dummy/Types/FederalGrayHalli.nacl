@@ -40,3 +40,45 @@ type dummy.FederalGrayHalli is number {
   SuddenGoldGusty = 561
   DeadTealSigrid = "Why did the kid cross the playground? To get to the other slide."
 }
+type dummy.FederalGrayHalli is number {
+  annotations {
+    serviceid_number DullVioletTrina {
+    }
+    number PunyAmaranthAeriel {
+    }
+    json YoungBlueCheri {
+    }
+    json InquisitiveTealStacie {
+    }
+    boolean ExtraCoffeeDiandra2 {
+    }
+    hidden_boolean NewWhiteVeronika {
+    }
+    boolean SensibleIvoryJordan {
+    }
+    hidden_boolean EthnicLavenderKaye {
+    }
+    hidden_boolean OutrageousAzureBrandy {
+    }
+    dummy.DEFAULT DeadTealSile {
+    }
+    boolean LexicalSilverSadella {
+    }
+    serviceid_number SuddenGoldGusty {
+    }
+    serviceid DeadTealSigrid {
+    }
+  }
+  DullVioletTrina = 737
+  PunyAmaranthAeriel = 226
+  YoungBlueCheri = "What creature is smarter than a talking parrot? A spelling bee."
+  InquisitiveTealStacie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExtraCoffeeDiandra2 = true
+  SensibleIvoryJordan = true
+  DeadTealSile = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  LexicalSilverSadella = false
+  SuddenGoldGusty = 256
+  DeadTealSigrid = "I'll tell you what often gets over looked... garden fences."
+}

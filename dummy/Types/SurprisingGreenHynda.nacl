@@ -18,3 +18,23 @@ type dummy.SurprisingGreenHynda {
   ThenSalmonPhylis = false
   _hidden_value = true
 }
+type dummy.SurprisingGreenHynda {
+  annotations {
+    boolean ManagerialPurpleNerissa {
+    }
+    serviceid_number SteadyAquamarineBatsheva {
+    }
+    boolean ThenSalmonPhylis {
+    }
+  }
+  number TameYellowYasmin2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EstablishedMagentaLeigh {
+    _hidden_value = true
+  }
+  ManagerialPurpleNerissa = false
+  SteadyAquamarineBatsheva = 614
+  ThenSalmonPhylis = false
+  _hidden_value = true
+}

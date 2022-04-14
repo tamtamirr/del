@@ -18,3 +18,23 @@ type dummy.UltimateJadeKamillah2 {
   BigVioletTonie3 = 617
   _hidden_value = true
 }
+type dummy.UltimateJadeKamillah2 {
+  annotations {
+    serviceid_number FoolishAzureBird {
+    }
+    serviceid_number BigVioletTonie3 {
+    }
+  }
+  json KnownMaroonLexi2 {
+    _hidden_value = true
+  }
+  string DistinctTurquoiseTatiana5 {
+    _hidden_value = true
+  }
+  serviceid ThickEmeraldFilippa3 {
+    _hidden_value = true
+  }
+  FoolishAzureBird = 24
+  BigVioletTonie3 = 617
+  _hidden_value = true
+}

@@ -28,3 +28,33 @@ type dummy.OccasionalIvoryJulietta {
   AncientAmethystAmalee = 744
   _hidden_value = true
 }
+type dummy.OccasionalIvoryJulietta {
+  annotations {
+    number ConsiderableChocolateDemetra2 {
+    }
+    dummy.DEFAULT ParliamentaryFuchsiaGiacinta2 {
+    }
+    serviceid_number EnthusiasticBlackCarina {
+    }
+    hidden_boolean SpanishGreenIrena {
+    }
+    number AncientAmethystAmalee {
+    }
+  }
+  json ImportantTealSophi2 {
+    _hidden_value = true
+  }
+  number MiddleCopperDusty {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerrine {
+    _hidden_value = true
+  }
+  ConsiderableChocolateDemetra2 = 11
+  ParliamentaryFuchsiaGiacinta2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  EnthusiasticBlackCarina = 65
+  AncientAmethystAmalee = 695
+  _hidden_value = true
+}

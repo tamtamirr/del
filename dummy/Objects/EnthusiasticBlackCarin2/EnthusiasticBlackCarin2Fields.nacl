@@ -5,3 +5,10 @@ type dummy.EnthusiasticBlackCarin2 {
     _hidden_value = false
   }
 }
+type dummy.EnthusiasticBlackCarin2 {
+  hidden_boolean StraightforwardMaroonLezlie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

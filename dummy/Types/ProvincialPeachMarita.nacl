@@ -18,3 +18,23 @@ type dummy.ProvincialPeachMarita is number {
   VariedRedNorah = true
   ShakyAquaAyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
 }
+type dummy.ProvincialPeachMarita is number {
+  annotations {
+    dummy.DEFAULT FineBlackCarlyn {
+    }
+    dummy.DEFAULT OldAmethystAmi {
+    }
+    boolean VariedRedNorah {
+    }
+    json ShakyAquaAyn {
+    }
+  }
+  FineBlackCarlyn = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  OldAmethystAmi = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  VariedRedNorah = false
+  ShakyAquaAyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}
