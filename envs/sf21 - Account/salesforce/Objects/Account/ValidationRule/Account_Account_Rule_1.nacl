@@ -1,0 +1,10 @@
+salesforce.ValidationRule Account_Account_Rule_1 {
+  fullName = "Account.Account_Rule_1"
+  active = false
+  errorConditionFormula = "April10__c  = \"Test\"  &&  June10__c = \"Test\""
+  errorMessage = "Error"
+  _parent = [
+    salesforce.Account,
+  ]
+  _alias = "Account.Account_Rule_1"
+}

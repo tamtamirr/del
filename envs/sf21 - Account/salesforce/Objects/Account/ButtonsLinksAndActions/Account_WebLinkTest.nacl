@@ -1,0 +1,18 @@
+salesforce.WebLink Account_WebLinkTest {
+  fullName = "Account.WebLinkTest"
+  availability = "online"
+  description = "desc m"
+  displayType = "link"
+  linkType = "javascript"
+  masterLabel = "WebLinkTest"
+  openType = "onClickJavaScript"
+  protected = false
+  url = file(
+    "salesforce/Objects/Account/ButtonsLinksAndActions/Account_WebLinkTest.js",
+    "utf-8",
+  )
+  _parent = [
+    salesforce.Account,
+  ]
+  _alias = "Account.WebLinkTest"
+}
