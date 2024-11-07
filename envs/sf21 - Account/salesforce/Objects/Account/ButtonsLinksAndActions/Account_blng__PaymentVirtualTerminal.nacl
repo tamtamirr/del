@@ -1,0 +1,16 @@
+salesforce.WebLink Account_blng__PaymentVirtualTerminal {
+  fullName = "Account.blng__PaymentVirtualTerminal"
+  availability = "online"
+  description = "Payment Center lightning UI"
+  displayType = "button"
+  height = 600
+  linkType = "page"
+  masterLabel = "Payment Center"
+  openType = "sidebar"
+  page = "blng__accountVirtualTerminal"
+  protected = false
+  _parent = [
+    salesforce.Account,
+  ]
+  _alias = "Account.blng__PaymentVirtualTerminal"
+}
