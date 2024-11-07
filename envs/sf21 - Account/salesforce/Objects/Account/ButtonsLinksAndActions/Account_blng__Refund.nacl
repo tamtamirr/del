@@ -1,0 +1,15 @@
+salesforce.WebLink Account_blng__Refund {
+  fullName = "Account.blng__Refund"
+  availability = "online"
+  displayType = "button"
+  height = 600
+  linkType = "page"
+  masterLabel = "Refund"
+  openType = "sidebar"
+  page = "blng__refundPage"
+  protected = false
+  _parent = [
+    salesforce.Account,
+  ]
+  _alias = "Account.blng__Refund"
+}
